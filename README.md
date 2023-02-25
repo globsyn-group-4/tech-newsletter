@@ -28,6 +28,7 @@ Medium Blogs:
 - https://medium.com/vimeo-engineering-blog/latest
 - https://medium.com/paypal-tech/latest
 - https://engg.glance.com/tagged/engineering
+- https://tech.urbancompany.com/latest
 
 Non Medium Blogs
 

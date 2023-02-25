@@ -36,6 +36,8 @@ Medium Blogs:
 Non Medium Blogs
 
 - https://blog.twitter.com/engineering/en_us
+- https://openai.com/blog/
+- https://engineering.salesforce.com/blog/
 - https://stripe.com/blog/engineering
 - https://quoraengineering.quora.com/?sort=recent
 - https://engineering.fb.com/

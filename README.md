@@ -21,6 +21,12 @@ Medium Blogs:
 - https://medium.com/walmartglobaltech/latest
 - https://techatmpl.com/
 - https://robinhood.engineering/eng/home
+- https://tech.instacart.com/latest
+- https://medium.com/gojekengineering/latest
+- https://canvatechblog.com/latest
+- https://medium.com/udemy-engineering/latest
+- https://medium.com/vimeo-engineering-blog/latest
+- 
 
 Non Medium Blogs
 
@@ -47,6 +53,18 @@ Non Medium Blogs
 - https://www.rubrik.com/blog/technology
 - https://www.druva.com/category/tech-engineering/
 - https://engineering.grab.com/categories/engineering/
+- https://slack.engineering/
+- https://doordash.engineering/blog/
+- https://about.gitlab.com/blog/categories/engineering/
+- https://www.redditinc.com/blog/topic/technology
+- https://auth0.com/blog/engineering/
+- https://www.docker.com/blog/category/engineering/
+- https://www.eventbrite.com/engineering/
+- https://engineering.giphy.com/blog/
+- https://www.mongodb.com/blog/channel/engineering-blog
+- https://engineering.squarespace.com/
+- https://www.databricks.com/blog/category/engineering
+- 
 
 Tech Stack:
 - Java 11, Maven (Middleware)

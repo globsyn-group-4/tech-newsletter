@@ -27,6 +27,7 @@ Medium Blogs:
 - https://medium.com/udemy-engineering/latest
 - https://medium.com/vimeo-engineering-blog/latest
 - https://medium.com/paypal-tech/latest
+- https://engg.glance.com/tagged/engineering
 
 Non Medium Blogs
 

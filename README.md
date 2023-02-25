@@ -18,3 +18,8 @@ Non Medium Blogs
 - https://engineering.fb.com/
 - https://engineering.linkedin.com/blog
 - https://blog.postman.com/postspage/
+
+Tech Stack:
+- Java 11, Maven (Middleware)
+- Python & FAST-API (Scraping API)
+- Node.js & Appwrite.io (Newsletter)

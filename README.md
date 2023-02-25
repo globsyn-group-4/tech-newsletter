@@ -7,7 +7,6 @@ Medium Blogs:
 - https://medium.com/airbnb-engineering/latest
 - https://netflixtechblog.com/latest
 - https://medium.com/groupon-eng/latest
-- https://instagram-engineering.com/latest
 - https://tech.groww.in/latest
 - https://engineering.razorpay.com/latest
 - https://bytes.swiggy.com/latest

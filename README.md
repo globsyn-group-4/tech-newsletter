@@ -31,6 +31,7 @@ Medium Blogs:
 - https://tech.urbancompany.com/latest
 - https://medium.com/intuit-engineering/latest
 - https://medium.com/motive-eng/latest
+- https://engineering.tableau.com/latest
 - https://medium.com/meesho-tech/engineering-data-science/home
 
 Non Medium Blogs

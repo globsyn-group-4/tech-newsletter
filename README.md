@@ -26,7 +26,7 @@ Medium Blogs:
 - https://canvatechblog.com/latest
 - https://medium.com/udemy-engineering/latest
 - https://medium.com/vimeo-engineering-blog/latest
-- 
+- https://medium.com/paypal-tech/latest
 
 Non Medium Blogs
 

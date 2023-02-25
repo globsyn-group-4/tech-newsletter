@@ -64,7 +64,7 @@ Non Medium Blogs
 - https://www.mongodb.com/blog/channel/engineering-blog
 - https://engineering.squarespace.com/
 - https://www.databricks.com/blog/category/engineering
-- 
+- https://www.uber.com/en-IN/blog/engineering/
 
 Tech Stack:
 - Java 11, Maven (Middleware)

@@ -29,6 +29,9 @@ Medium Blogs:
 - https://medium.com/paypal-tech/latest
 - https://engg.glance.com/tagged/engineering
 - https://tech.urbancompany.com/latest
+- https://medium.com/intuit-engineering/latest
+- https://medium.com/motive-eng/latest
+- https://medium.com/meesho-tech/engineering-data-science/home
 
 Non Medium Blogs
 

@@ -32,6 +32,7 @@ Medium Blogs:
 - https://medium.com/motive-eng/latest
 - https://engineering.tableau.com/latest
 - https://medium.com/meesho-tech/engineering-data-science/home
+- https://medium.com/better-practices/latest
 
 Non Medium Blogs
 
@@ -73,6 +74,7 @@ Non Medium Blogs
 - https://www.databricks.com/blog/category/engineering
 - https://www.uber.com/en-IN/blog/engineering/
 - https://www.confluent.io/blog/area/technology/
+- https://www.godaddy.com/engineering/blog-posts/
 
 Tech Stack:
 - Java 11, Maven (Middleware)

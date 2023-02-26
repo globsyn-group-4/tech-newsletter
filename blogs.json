@@ -1678,5 +1678,185 @@
     "header": "Best of Hack Week\u00a02020",
     "blogName": "BuzzFeed Tech",
     "articleUrl": "https://tech.buzzfeed.com/best-of-hack-week-2020-42df16471d0d?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-23T10:42:05.870Z",
+    "header": "Codeless Rest API Automation Solution",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/codeless-rest-api-automation-solution-8044e82f1331?source=---------0"
+  },
+  {
+    "publishedDate": "2023-02-09T05:07:56.372Z",
+    "header": "Debezium\u200a\u2014\u200aMigrating from Traditional partitioning to In-Built MySQL partitioning for a table\u00a0with",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/debezium-migrating-from-traditional-partitioning-to-in-built-mysql-partitioning-for-a-table-with-7c1dfad81253?source=---------1"
+  },
+  {
+    "publishedDate": "2023-02-07T05:57:46.633Z",
+    "header": "Circuit Breaker and Bulkhead: Improving System Resilience with Generalized Implementation",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/circuit-breaker-and-bulkhead-improving-system-resilience-with-generalized-implementation-fb9b388da59?source=---------2"
+  },
+  {
+    "publishedDate": "2023-01-30T09:26:45.683Z",
+    "header": "Using supervisor to manage processes in\u00a0linux",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/using-supervisor-to-manage-processes-in-linux-98ae4894e9c7?source=---------3"
+  },
+  {
+    "publishedDate": "2023-01-13T06:05:43.146Z",
+    "header": "Implement Haptic feedback using Feedback Generators in iOS\u00a0app",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/implement-haptic-feedback-using-feedback-generators-in-ios-app-d7f6462a59a9?source=---------4"
+  },
+  {
+    "publishedDate": "2023-01-10T06:23:39.822Z",
+    "header": "Differential bundle loading for React application",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/differential-bundle-loading-for-react-application-3481a49d1e4c?source=---------5"
+  },
+  {
+    "publishedDate": "2022-12-23T01:12:56.360Z",
+    "header": "Virtual thread: performance gain for microservices",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/virtual-thread-performance-gain-for-microservices-760a08f0b8f3?source=---------6"
+  },
+  {
+    "publishedDate": "2022-12-20T05:29:03.446Z",
+    "header": "NodeJs DNS issue and workaround fixes",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/nodejs-dns-issue-and-workaround-fixes-3e20e275799?source=---------7"
+  },
+  {
+    "publishedDate": "2022-12-19T08:47:24.603Z",
+    "header": "consumer balancing kafka -lesson\u00a0learned",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/consumer-balancing-kafka-lesson-learned-c228be3e3b25?source=---------8"
+  },
+  {
+    "publishedDate": "2022-12-09T09:52:27.863Z",
+    "header": "Publishing to Kafka\u200a\u2014\u200aSynchronous vs Asynchronous",
+    "blogName": "Naukri Engineering",
+    "articleUrl": "https://medium.com/naukri-engineering/publishing-to-kafka-synchronous-vs-asynchronous-bf49c4e1af25?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-30T10:13:14.531Z",
+    "header": "De-bottlenecking Aurora MySQL for 19 Million concurrent users",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/de-bottlenecking-aurora-mysql-for-19-million-concurrent-users-ee98d6247cfe?source=---------0"
+  },
+  {
+    "publishedDate": "2022-11-30T10:25:03.120Z",
+    "header": "HotstarX -Part 3: The BFF baseplate",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/hotstarx-part-3-the-bff-baseplate-bbc1756a5e73?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-01T11:44:06.028Z",
+    "header": "ChatOps\u00a0: Cloud Resource\u00a0Explorer",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/chatops-cloud-resource-explorer-739363c93856?source=---------2"
+  },
+  {
+    "publishedDate": "2022-09-15T14:53:12.669Z",
+    "header": "Hotstar X: Let\u2019s talk {widgets}!",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/hotstar-x-lets-talk-widgets-8945340f265d?source=---------3"
+  },
+  {
+    "publishedDate": "2022-08-29T12:01:26.099Z",
+    "header": "Hotstar X Journey Part 1\u200a\u2014\u200aWhy\u00a0Rewrite?",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/hotstar-x-journey-part-1-why-rewrite-d7042de21bcf?source=---------4"
+  },
+  {
+    "publishedDate": "2022-08-23T11:06:47.196Z",
+    "header": "Rate Limiter\u00a0: Protecting Hotstar APIs from\u00a0abuse",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/rate-limiter-protecting-hotstar-apis-from-abuse-13bad42189f8?source=---------5"
+  },
+  {
+    "publishedDate": "2022-07-11T16:21:34.226Z",
+    "header": "Mocking, in Android Instrumentation tests",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/mocking-in-android-instrumentation-tests-bf46922fc800?source=---------6"
+  },
+  {
+    "publishedDate": "2022-07-01T10:22:09.179Z",
+    "header": "Remote Incident Management -Operation Excellence",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/remote-incident-management-operation-excellence-6a843cc8b0c3?source=---------7"
+  },
+  {
+    "publishedDate": "2022-06-21T04:59:39.866Z",
+    "header": "Stopping Malicious Actors with Risk\u00a0Engine",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/stopping-malicious-actors-with-risk-engine-66ee01503b2d?source=---------8"
+  },
+  {
+    "publishedDate": "2021-08-27T07:09:31.240Z",
+    "header": "Building A Popularity Pipeline Using\u00a0Flink",
+    "blogName": "Disney+ Hotstar",
+    "articleUrl": "https://blog.hotstar.com/building-a-popularity-pipeline-using-flink-e66d50fcfb33?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-06T06:58:38.797Z",
+    "header": "How we reduced the development time of our React project to almost\u00a070\u201380%?",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/how-we-reduced-the-development-time-of-our-react-project-to-almost-70-80-b4c15fd53f28?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-06T06:52:58.174Z",
+    "header": "BE Experimentation with\u00a0VWO",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/be-experimentation-with-vwo-80a96b0c2c59?source=---------1"
+  },
+  {
+    "publishedDate": "2022-12-26T07:30:18.296Z",
+    "header": "Our journey of upgrading the Lookup codebase to React\u00a018",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/our-journey-of-upgrading-the-lookup-codebase-to-react-18-d2a4e2d7eb29?source=---------2"
+  },
+  {
+    "publishedDate": "2022-12-26T07:26:30.193Z",
+    "header": "Data Deduplication",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/account-deduplication-d3126aa3355c?source=---------3"
+  },
+  {
+    "publishedDate": "2022-12-26T07:21:30.788Z",
+    "header": "Establishing robust communication between Micro-services",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/establishing-robust-communication-between-micro-services-c47337c7ca78?source=---------4"
+  },
+  {
+    "publishedDate": "2022-12-26T07:13:51.890Z",
+    "header": "Hybrid test framework for Java applications",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/hybrid-test-framework-for-java-applications-71f0a7b42548?source=---------5"
+  },
+  {
+    "publishedDate": "2022-12-22T07:34:46.868Z",
+    "header": "Virtual Tours: Boon for real\u00a0estate",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/virtual-tours-boon-for-real-estate-a2b0b5798dce?source=---------6"
+  },
+  {
+    "publishedDate": "2022-12-22T07:33:58.153Z",
+    "header": "Proxy Pattern and Spring @ Transactional",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/proxy-pattern-and-spring-transactional-931ab6b55eee?source=---------7"
+  },
+  {
+    "publishedDate": "2022-12-21T06:23:49.790Z",
+    "header": "Auto-Scaling based on Prometheus Custom\u00a0Metrics",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/auto-scaling-based-on-prometheus-custom-metrics-688a92e0a796?source=---------8"
+  },
+  {
+    "publishedDate": "2022-12-19T12:04:40.753Z",
+    "header": "Working with docker images, containers and Swarm\u00a0services",
+    "blogName": "Engineering @ Housing/Proptiger/Makaan",
+    "articleUrl": "https://medium.com/engineering-housing/working-with-docker-images-containers-and-swarm-services-57c9dd745720?source=---------9"
   }
 ]

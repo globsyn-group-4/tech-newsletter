@@ -9,6 +9,7 @@ https://tech.groww.in/latest
 https://engineering.razorpay.com/latest
 https://bytes.swiggy.com/latest
 https://blog.dream11engineering.com/latest
+https://medium.com/navi-technologies/tech-blog/home
 https://medium.com/rapido-labs
 https://medium.com/smallcase-engineering/latest
 https://tech.makemytrip.com/latest
@@ -34,7 +35,10 @@ https://medium.com/expedia-group-tech/latest
 https://medium.com/myntra-engineering/latest
 https://medium.engineering/latest
 https://medium.com/@pinterest_engineering
-https://tech.buzzfeed.com/latest'''
+https://tech.buzzfeed.com/latest
+https://medium.com/naukri-engineering/latest
+https://blog.hotstar.com/latest
+https://medium.com/engineering-housing/latest'''
 
 
 blogs = []

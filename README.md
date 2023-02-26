@@ -38,6 +38,9 @@ Medium Blogs:
 - https://medium.engineering/latest
 - https://medium.com/@pinterest_engineering
 - https://tech.buzzfeed.com/latest
+- https://medium.com/naukri-engineering/latest
+- https://blog.hotstar.com/latest
+- https://medium.com/engineering-housing/latest
 
 Non Medium Blogs
 

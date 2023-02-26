@@ -9,27 +9,24 @@ https://tech.groww.in/latest
 https://engineering.razorpay.com/latest
 https://bytes.swiggy.com/latest
 https://blog.dream11engineering.com/latest
-https://medium.com/navi-technologies/tech-blog/home
-https://medium.com/rapido-labs
 https://medium.com/smallcase-engineering/latest
 https://tech.makemytrip.com/latest
 https://blog.flipkart.tech/latest
 https://engineering.cred.club/latest
 https://medium.com/walmartglobaltech/latest
 https://techatmpl.com/
-https://robinhood.engineering/eng/home
 https://tech.instacart.com/latest
 https://medium.com/gojekengineering/latest
 https://canvatechblog.com/latest
 https://medium.com/udemy-engineering/latest
 https://medium.com/vimeo-engineering-blog/latest
 https://medium.com/paypal-tech/latest
-https://engg.glance.com/tagged/engineering
+https://engg.glance.com/latest
 https://tech.urbancompany.com/latest
 https://medium.com/intuit-engineering/latest
 https://medium.com/motive-eng/latest
 https://engineering.tableau.com/latest
-https://medium.com/meesho-tech/engineering-data-science/home
+https://medium.com/meesho-tech/latest
 https://medium.com/better-practices/latest
 https://medium.com/expedia-group-tech/latest
 https://medium.com/myntra-engineering/latest
@@ -38,7 +35,22 @@ https://medium.com/@pinterest_engineering
 https://tech.buzzfeed.com/latest
 https://medium.com/naukri-engineering/latest
 https://blog.hotstar.com/latest
-https://medium.com/engineering-housing/latest'''
+https://medium.com/engineering-housing/latest
+https://medium.com/1mgofficial/latest
+https://tech.bigbasket.com/latest
+https://medium.com/brainly/latest
+https://medium.com/glassdoor-engineering/latest
+https://engineering.udacity.com/latest
+https://medium.com/udemy-engineering/latest
+https://medium.com/blackrock-engineering/latest
+https://medium.com/harness-engineering/latest
+https://medium.com/airteldigital/latest
+https://medium.com/freshworks-engineering-blog/latest
+https://medium.com/adidoescode/latest
+https://medium.com/decathlontechnology/latest
+https://medium.com/quantumblack/latest
+https://medium.com/tata-cliq-tech-blog/latest
+https://medium.com/picsart-engineering/latest'''
 
 
 blogs = []

@@ -1,0 +1,1682 @@
+[
+  {
+    "publishedDate": "2023-02-16T17:05:38.931Z",
+    "header": "Prioritizing Home Attributes Based on Guest\u00a0Interest",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/prioritizing-home-attributes-based-on-guest-interest-3c49b827e51a?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-30T20:54:33.404Z",
+    "header": "Learning To Rank Diversely",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/learning-to-rank-diversely-add6b1929621?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-11T19:09:48.164Z",
+    "header": "Making Airbnb\u2019s Android app more accessible",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/making-airbnbs-android-app-more-accessible-75618172be6?source=---------2"
+  },
+  {
+    "publishedDate": "2022-12-08T18:03:50.795Z",
+    "header": "When a Picture Is Worth More Than\u00a0Words",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/when-a-picture-is-worth-more-than-words-17718860dcc2?source=---------3"
+  },
+  {
+    "publishedDate": "2022-12-07T18:00:35.371Z",
+    "header": "Motion Engineering at\u00a0Scale",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/motion-engineering-at-scale-5ffabfc878?source=---------4"
+  },
+  {
+    "publishedDate": "2022-12-06T20:01:37.441Z",
+    "header": "Announcing Lottie 4.0 for\u00a0iOS",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/announcing-lottie-4-0-for-ios-d4d226862a54?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-23T17:38:57.385Z",
+    "header": "How AI Text Generation Models Are Reshaping Customer Support at\u00a0Airbnb",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/how-ai-text-generation-models-are-reshaping-customer-support-at-airbnb-a851db0b4fa3?source=---------6"
+  },
+  {
+    "publishedDate": "2022-11-21T16:54:20.866Z",
+    "header": "Building Airbnb Categories with ML and Human-in-the-Loop",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-and-human-in-the-loop-e97988e70ebb?source=---------7"
+  },
+  {
+    "publishedDate": "2022-10-10T17:40:03.878Z",
+    "header": "Mussel\u200a\u2014\u200aAirbnb\u2019s Key-Value Store for Derived\u00a0Data",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/mussel-airbnbs-key-value-store-for-derived-data-406b9fa1b296?source=---------8"
+  },
+  {
+    "publishedDate": "2022-10-06T15:52:18.236Z",
+    "header": "Beyond A/B Test\u00a0: Speeding up Airbnb Search Ranking Experimentation through Interleaving",
+    "blogName": "The Airbnb Tech Blog",
+    "articleUrl": "https://medium.com/airbnb-engineering/beyond-a-b-test-speeding-up-airbnb-search-ranking-experimentation-through-interleaving-7087afa09c8e?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-13T15:01:59.937Z",
+    "header": "Scaling Media Machine Learning at\u00a0Netflix",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/scaling-media-machine-learning-at-netflix-f19b400243?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-30T16:16:03.453Z",
+    "header": "Discovering Creative Insights in Promotional Artwork",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/discovering-creative-insights-in-promotional-artwork-295e4d788db5?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-26T03:07:29.743Z",
+    "header": "Scalable Annotation Service\u200a\u2014\u200aMarken",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/scalable-annotation-service-marken-f5ba9266d428?source=---------2"
+  },
+  {
+    "publishedDate": "2022-12-04T00:10:21.067Z",
+    "header": "Ready-to-go sample data pipelines with\u00a0Dataflow",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/ready-to-go-sample-data-pipelines-with-dataflow-17440a9e141d?source=---------3"
+  },
+  {
+    "publishedDate": "2022-11-17T15:01:30.012Z",
+    "header": "Match Cutting at Netflix: Finding Cuts with Smooth Visual Transitions",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?source=---------4"
+  },
+  {
+    "publishedDate": "2022-11-15T17:01:30.873Z",
+    "header": "Helping VFX studios pave a path to the\u00a0cloud",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/helping-vfx-studios-pave-a-path-to-the-cloud-d308ee43c079?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-14T16:30:08.063Z",
+    "header": "For your eyes only: improving Netflix video quality with neural\u00a0networks",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/for-your-eyes-only-improving-netflix-video-quality-with-neural-networks-5b8d032da09c?source=---------6"
+  },
+  {
+    "publishedDate": "2022-11-09T23:47:03.299Z",
+    "header": "Seeing through hardware counters: a journey to threefold performance increase",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822?source=---------7"
+  },
+  {
+    "publishedDate": "2022-11-03T19:19:31.523Z",
+    "header": "Consistent caching mechanism in Titus\u00a0Gateway",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/consistent-caching-mechanism-in-titus-gateway-6cb89b9ce296?source=---------8"
+  },
+  {
+    "publishedDate": "2022-10-18T20:43:36.172Z",
+    "header": "Orchestrating Data/ML Workflows at Scale With Netflix\u00a0Maestro",
+    "blogName": "Netflix TechBlog",
+    "articleUrl": "https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c?source=---------9"
+  },
+  {
+    "publishedDate": "2022-09-20T20:08:29.824Z",
+    "header": "LoadBalancer Services using Kubernetes in Docker\u00a0(kind)",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/loadbalancer-services-using-kubernetes-in-docker-kind-694b4207575d?source=---------0"
+  },
+  {
+    "publishedDate": "2022-09-12T21:17:34.370Z",
+    "header": "Migrating to Optimizely at\u00a0Groupon",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/migrating-to-optimizely-at-groupon-27fa56f86d12?source=---------1"
+  },
+  {
+    "publishedDate": "2022-09-01T20:01:47.710Z",
+    "header": "Exporting Node Modules in\u00a02022",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/exporting-node-modules-in-2022-e8fd97f0f5a9?source=---------2"
+  },
+  {
+    "publishedDate": "2022-03-22T15:39:20.504Z",
+    "header": "Varnish to Redis Migration",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/varnish-to-redis-migration-887ad6d805d2?source=---------3"
+  },
+  {
+    "publishedDate": "2021-12-22T16:57:17.550Z",
+    "header": "CX90: Rethinking, Redesigning and Reimplementing the Groupon User Experience",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/cx90-rethinking-redesigning-and-reimplementing-the-groupon-user-experience-59a03b6c306c?source=---------4"
+  },
+  {
+    "publishedDate": "2021-12-20T16:23:45.289Z",
+    "header": "Felix, the \u201cDevOps\u201d between designers and developers",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/felix-the-devops-between-designers-and-developers-c2976572e9f?source=---------5"
+  },
+  {
+    "publishedDate": "2021-11-11T15:33:52.717Z",
+    "header": "The Responsibility of Tech: Reflections from Grace Hopper Celebration",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/the-responsibility-of-tech-reflections-from-grace-hopper-celebration-bc2a4c84775f?source=---------6"
+  },
+  {
+    "publishedDate": "2021-10-29T16:50:23.915Z",
+    "header": "Pinion\u200a\u2014\u200aThe Load Framework Part-2",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/pinion-the-load-framework-part-2-e6a47586e7be?source=---------7"
+  },
+  {
+    "publishedDate": "2021-09-03T17:06:05.140Z",
+    "header": "3 Guidelines to Reduce Implementation Flaws",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/3-guidelines-to-reduce-implementation-flaws-958511e2a82f?source=---------8"
+  },
+  {
+    "publishedDate": "2021-08-06T15:52:47.605Z",
+    "header": "Kubernetes Deployment using Helm Charts and\u00a0Krane",
+    "blogName": "Groupon Product and Engineering",
+    "articleUrl": "https://medium.com/groupon-eng/kubernetes-deployment-using-helm-charts-and-krane-e0100b55d00c?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-30T07:07:00.342Z",
+    "header": "Arrays in Javascript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/arrays-in-javascript-69659f74320a?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-23T07:05:31.168Z",
+    "header": "Objects in Javscript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/objects-in-javscript-42a83908f2e1?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-23T06:51:15.604Z",
+    "header": "Statements in the JavaScript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/statements-in-the-javascript-82a47396f473?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-21T13:38:15.245Z",
+    "header": "Horcrux 2.0\u00a0: Web Platform for Database Automation",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/horcrux-2-0-web-platform-for-database-automation-7f7312f373e9?source=---------3"
+  },
+  {
+    "publishedDate": "2022-11-15T05:35:29.739Z",
+    "header": "Lexical Structure of JavaScript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/lexical-structure-of-javascript-54763d7df27e?source=---------4"
+  },
+  {
+    "publishedDate": "2022-11-14T12:46:53.966Z",
+    "header": "Expressions in Javascript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/expressions-in-javascript-c456dcbb1d31?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-14T12:44:55.820Z",
+    "header": "Operators in Javascript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/operators-in-javascript-a62fca027a49?source=---------6"
+  },
+  {
+    "publishedDate": "2022-11-14T12:42:07.518Z",
+    "header": "Introduction to JavaScript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/introduction-to-javascript-380354c527e2?source=---------7"
+  },
+  {
+    "publishedDate": "2022-11-14T12:41:57.538Z",
+    "header": "Types, Values, and Variables in Javascript",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/types-values-and-variables-in-javascript-4d94584cccf0?source=---------8"
+  },
+  {
+    "publishedDate": "2022-11-14T12:40:38.467Z",
+    "header": "Blog series for JS: The Definitive Edition",
+    "blogName": "Groww Engineering",
+    "articleUrl": "https://tech.groww.in/blog-series-for-js-the-definitive-edition-2a0e25b352b9?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-18T11:42:04.794Z",
+    "header": "Never Have I Ever\u200a\u2014\u200a Gone live without\u00a0Perf",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/never-have-i-ever-gone-live-without-perf-470c2114d50d?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-11T11:18:11.059Z",
+    "header": "How we created the perfect testing check for Pull\u00a0Requests",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/how-we-created-the-perfect-testing-check-for-pull-requests-cb7f9ff158e6?source=---------1"
+  },
+  {
+    "publishedDate": "2022-12-21T13:35:36.687Z",
+    "header": "Redesigning & rearchitecting the Merchant Experience",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/redesigning-rearchitecting-the-merchant-experience-d788bb44e526?source=---------2"
+  },
+  {
+    "publishedDate": "2022-12-07T12:29:47.807Z",
+    "header": "Monolith to Module Federation",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/monolith-to-module-federation-8c400b4e5646?source=---------3"
+  },
+  {
+    "publishedDate": "2022-11-23T12:32:08.452Z",
+    "header": "RazorpayX Powered Whatsapp Cashback\u00a0Campaign",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/razorpayx-powered-whatsapp-cashback-campaign-9e77acec14c6?source=---------4"
+  },
+  {
+    "publishedDate": "2022-11-09T12:32:39.642Z",
+    "header": "Apollo Client devtools for Flipper\u00a0\ud83d\ude80",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/apollo-client-devtools-for-flipper-bc5337b3a411?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-02T12:01:19.715Z",
+    "header": "Lessons learned from building reusable UI components",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/lessons-learned-from-building-reusable-ui-components-bb34289cd438?source=---------6"
+  },
+  {
+    "publishedDate": "2022-10-17T05:31:56.417Z",
+    "header": "Ops to Bots\u200a\u2014\u200aSmartening incident\u00a0recovery",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/what-goes-behind-managing-production-alerts-204f186ce865?source=---------7"
+  },
+  {
+    "publishedDate": "2022-09-20T12:31:02.163Z",
+    "header": "How an incident transformed Razorpay\u200a\u2014\u200aBuilding our Command\u00a0Center",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/how-an-incident-transformed-razorpay-building-our-command-center-ef56adb67f8e?source=---------8"
+  },
+  {
+    "publishedDate": "2022-07-26T11:46:44.466Z",
+    "header": "How Trino and Alluxio power analytics at\u00a0Razorpay",
+    "blogName": "Razorpay Engineering",
+    "articleUrl": "https://engineering.razorpay.com/how-trino-and-alluxio-power-analytics-at-razorpay-803d3386daaf?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-06T08:18:17.610Z",
+    "header": "Apollo: Swiggy\u2019s Code Analysis\u00a0Platform",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/apollo-swiggys-code-analysis-platform-b80e8292f29?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-30T04:47:39.828Z",
+    "header": "Building a mind reader at Swiggy using Data\u00a0Science",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-04T05:10:19.198Z",
+    "header": "Elevating the Swiggy Experience with Voice Search on\u00a0Android",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/elevating-the-swiggy-experience-with-voice-search-on-android-a7ad7a81a885?source=---------2"
+  },
+  {
+    "publishedDate": "2023-01-03T06:21:03.299Z",
+    "header": "Optimizing batch writes to Redis using Pipelining",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/optimizing-batch-writes-to-redis-using-pipelining-d480ebaf4653?source=---------3"
+  },
+  {
+    "publishedDate": "2022-12-27T13:24:06.720Z",
+    "header": "Swiggy\u2019s high-flyer: Shilpa Gnaneshwar, elevating to newer\u00a0heights",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/swiggys-high-flyer-shilpa-gnaneshwar-elevating-to-newer-heights-3a3d34072857?source=---------4"
+  },
+  {
+    "publishedDate": "2022-11-24T06:30:43.599Z",
+    "header": "#BehindTheBug\u200a\u2014\u200aIndexing Gone\u00a0Wrong",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/behindthebug-indexing-gone-wrong-6b4d682fd805?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-10T09:43:56.513Z",
+    "header": "Architecture of CDC\u00a0System",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/architecture-of-cdc-system-a975a081691f?source=---------6"
+  },
+  {
+    "publishedDate": "2022-10-28T05:42:56.539Z",
+    "header": "More than just numbers: Featuring Swiggy\u2019s analytics lady, Ishu\u00a0Jain.",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/more-than-just-numbers-featuring-swiggys-analytics-lady-ishu-jain-5eef783b6722?source=---------7"
+  },
+  {
+    "publishedDate": "2022-10-25T07:10:13.745Z",
+    "header": "An ML approach for routing payment transactions",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/an-ml-approach-for-routing-payment-transactions-5a14efb643a8?source=---------8"
+  },
+  {
+    "publishedDate": "2022-10-13T11:48:11.933Z",
+    "header": "Can\u2019t lose what you don\u2019t\u00a0have",
+    "blogName": "Swiggy Bytes\u200a\u2014\u200aTech Blog",
+    "articleUrl": "https://bytes.swiggy.com/cant-loose-what-you-don-t-have-5e153211d5c1?source=---------9"
+  },
+  {
+    "publishedDate": "2022-02-28T08:03:33.831Z",
+    "header": "Optimising price performance at Dream11 with\u00a0GP3",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/optimising-price-performance-at-dream11-with-gp3-9634b0d68577?source=---------0"
+  },
+  {
+    "publishedDate": "2022-02-21T15:00:25.840Z",
+    "header": "Data Feast\u200a\u2014\u200aA Highly Scalable Feature Store at\u00a0Dream11",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/data-feast-a-highly-scalable-feature-store-at-dream11-69b8ed5289fd?source=---------1"
+  },
+  {
+    "publishedDate": "2022-01-07T10:00:05.116Z",
+    "header": "Deployment At Scale: Story Behind Dream11\u2019s In-House Blue-Green Deployment Platform \u2018OneClick\u2019.",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/deployment-at-scale-story-behind-dream11s-in-house-blue-green-deployment-platform-oneclick-b2c761b12896?source=---------2"
+  },
+  {
+    "publishedDate": "2021-09-24T07:43:13.096Z",
+    "header": "Enhancing security and trust with AWS\u00a0WAFv2",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/enhancing-security-and-trust-with-aws-wafv2-8b050b1cba37?source=---------3"
+  },
+  {
+    "publishedDate": "2021-09-10T11:09:31.311Z",
+    "header": "Lessons learned from running GraphQL at\u00a0scale",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb?source=---------4"
+  },
+  {
+    "publishedDate": "2021-08-26T16:28:38.042Z",
+    "header": "Don\u2019t let that consistent launch time slip\u00a0away!",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/dont-let-that-consistent-launch-time-slip-away-eec2cee1af1d?source=---------5"
+  },
+  {
+    "publishedDate": "2021-08-12T11:08:06.453Z",
+    "header": "Building DataAware: The In-House Funnel Analytics Tool At\u00a0Dream11",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/building-dataaware-the-in-house-funnel-analytics-tool-at-dream11-34ee91f4d05d?source=---------6"
+  },
+  {
+    "publishedDate": "2021-08-04T10:24:18.481Z",
+    "header": "FENCE\u200a\u2014\u200aLeveraging Graph Database for detection of Fair Play Violation at\u00a0Dream11",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/fence-leveraging-graph-database-for-detection-of-fair-play-violation-at-dream11-f0aff82e6b6a?source=---------7"
+  },
+  {
+    "publishedDate": "2021-07-14T12:21:35.672Z",
+    "header": "Mobile App Automation: Running Dream11 Seamlessly On iOS &\u00a0Android",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/mobile-app-automation-running-dream11-seamlessly-on-ios-android-56c9b5be7ea7?source=---------8"
+  },
+  {
+    "publishedDate": "2021-07-14T04:25:48.877Z",
+    "header": "A sportan always pays their Tech Debt\u00a0\ud83c\udf77",
+    "blogName": "Dream11 Engineering",
+    "articleUrl": "https://blog.dream11engineering.com/dealing-with-tech-debt-3f9b0f43d4c4?source=---------9"
+  },
+  {
+    "publishedDate": "2022-08-07T16:05:28.222Z",
+    "header": "Accessibility: Why we disallow role=\u201dbutton\u201d",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/accessibility-why-we-disallow-role-button-b0d0113761a5?source=---------0"
+  },
+  {
+    "publishedDate": "2022-07-20T20:44:34.897Z",
+    "header": "All about Metro\u00a0Bundler",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/all-about-metro-bundler-8c1ad0c933ce?source=---------1"
+  },
+  {
+    "publishedDate": "2022-07-06T10:04:33.267Z",
+    "header": "Why should we not use document.querySelector() while testing React components.",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/why-should-we-not-use-document-queryselector-while-testing-react-components-835bbf34169e?source=---------2"
+  },
+  {
+    "publishedDate": "2022-05-10T00:49:22.249Z",
+    "header": "React Native A11y\u00a0Basics",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/react-native-a11y-basics-2820cadf2958?source=---------3"
+  },
+  {
+    "publishedDate": "2022-05-09T16:11:16.817Z",
+    "header": "propTypes vs typescript types in React components",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/proptypes-vs-types-in-typescript-45433990a8f9?source=---------4"
+  },
+  {
+    "publishedDate": "2022-05-05T17:19:00.476Z",
+    "header": "Migrating from nextjs 10 to 11 @smallcase",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/migrating-from-nextjs-10-to-11-smallcase-4e97f9dfd2ab?source=---------5"
+  },
+  {
+    "publishedDate": "2022-05-04T05:30:41.303Z",
+    "header": "Testing Fundamentals\u200a\u2014\u200aMocking",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/testing-fundamentals-mocking-11cc5301df01?source=---------6"
+  },
+  {
+    "publishedDate": "2022-05-01T13:09:45.876Z",
+    "header": "Architecting Multi-Tenant Infra - AWS\u00a0CDK",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/architecting-multi-tenant-infra-aws-cdk-dbc11e2608d5?source=---------7"
+  },
+  {
+    "publishedDate": "2022-04-27T13:13:36.678Z",
+    "header": "Creating a custom ESlint\u00a0plugin",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/creating-a-custom-eslint-plugin-7a98b9f2ef1e?source=---------8"
+  },
+  {
+    "publishedDate": "2022-02-24T13:55:35.488Z",
+    "header": "Type safety with\u00a0JSDocs",
+    "blogName": "smallcase Engineering",
+    "articleUrl": "https://medium.com/smallcase-engineering/type-safety-with-jsdocs-3257db89fc43?source=---------9"
+  },
+  {
+    "publishedDate": "2022-11-14T05:51:08.737Z",
+    "header": "Hotel ranking personalization at MakeMyTrip using Sequential Recommenders (Bert4Rec)",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/hotel-ranking-personalization-at-makemytrip-using-sequential-recommenders-bert4rec-fd02f994c1cd?source=---------0"
+  },
+  {
+    "publishedDate": "2022-11-11T08:57:52.388Z",
+    "header": "Deep Contextual Bandits for model selection in travel e-commerce",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/deep-contextual-bandits-for-model-selection-774eec6e5603?source=---------1"
+  },
+  {
+    "publishedDate": "2022-10-15T10:56:42.860Z",
+    "header": "Polling and Streaming",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/polling-and-streaming-9eb8301d6c58?source=---------2"
+  },
+  {
+    "publishedDate": "2022-09-01T05:45:49.859Z",
+    "header": "ECHO\u00a0: Season\u200a\u2014\u200a3 | Knowledge Blow",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/echo-season-3-knowledge-blow-5fadbff68b16?source=---------3"
+  },
+  {
+    "publishedDate": "2022-04-08T12:54:14.744Z",
+    "header": "Taking Travel E-commerce ML decisions to Pareto\u00a0Frontier",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/taking-travel-e-commerce-decisions-to-pareto-frontiers-bd573fa09476?source=---------4"
+  },
+  {
+    "publishedDate": "2022-01-05T07:48:10.937Z",
+    "header": "Deep Contextual Bandits in Travel Ecommerce\u200a\u2014\u200ajourney towards real time machine\u00a0learning",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/deep-contextual-bandits-in-travel-ecommerce-journey-towards-real-time-machine-learning-704c63e4fcff?source=---------5"
+  },
+  {
+    "publishedDate": "2021-09-13T07:13:49.296Z",
+    "header": "Learning to Rank, in Hotel Travel e-commerce space",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/learning-to-rank-in-hotel-travel-e-commerce-space-f2ee7aaed63b?source=---------6"
+  },
+  {
+    "publishedDate": "2021-04-04T03:04:46.635Z",
+    "header": "Making the MakeMyTrip Website Load Faster with Just One\u00a0Switch",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/making-the-makemytrip-website-load-faster-with-just-one-switch-36d89f14eaa3?source=---------7"
+  },
+  {
+    "publishedDate": "2021-03-24T07:02:14.271Z",
+    "header": "Leveraging tech to help businesses improve their travel policy compliance",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/leveraging-tech-to-help-businesses-improve-their-travel-policy-compliance-e32ad8844adb?source=---------8"
+  },
+  {
+    "publishedDate": "2021-02-10T13:50:51.300Z",
+    "header": "Prompt users to leave a rating & review within your app | Google In-App review in react-native",
+    "blogName": "MakeMyTrip-Engineering",
+    "articleUrl": "https://tech.makemytrip.com/prompt-users-to-leave-a-rating-review-within-your-app-google-in-app-review-in-react-native-b3fed4acaf3d?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-14T04:39:26.940Z",
+    "header": "Deploying Active-Passive topology in\u00a0TiDB",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/deploying-active-passive-topology-in-tidb-cd5b8e9a8fc9?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-19T09:03:36.151Z",
+    "header": "Effective Failure Handling in Flipkart\u2019s Message\u00a0Bus",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/effective-failure-handling-in-flipkarts-message-bus-436c36be76cc?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-05T09:47:53.191Z",
+    "header": "Distributed Entity\u00a0Tracing",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/distributed-entity-tracing-9e293940b086?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-23T05:27:54.878Z",
+    "header": "MySQL Replication Lag\u00a0Analysis",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/mysql-replication-lag-analysis-71ff28443631?source=---------3"
+  },
+  {
+    "publishedDate": "2022-11-09T05:52:39.249Z",
+    "header": "Flipkart US R&D Billion AI\u00a02022",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/flipkart-us-r-d-billion-ai-2022-317ff2404131?source=---------4"
+  },
+  {
+    "publishedDate": "2022-10-19T07:26:59.919Z",
+    "header": "Flipkart US R&D Billion AI 2022 Conference",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/flipkart-us-r-d-billion-ai-2022-conference-6cb3e262c700?source=---------5"
+  },
+  {
+    "publishedDate": "2022-09-07T11:54:21.634Z",
+    "header": "Powering strongly consistent multi-region applications with\u00a0TiDB",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/powering-strongly-consistent-multi-region-applications-with-tidb-166c18e3486b?source=---------6"
+  },
+  {
+    "publishedDate": "2022-08-29T12:06:32.974Z",
+    "header": "HBase Multi-Tenancy\u200a\u2014\u200aPart\u00a0II",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/hbase-multi-tenancy-part-ii-79488c19b03d?source=---------7"
+  },
+  {
+    "publishedDate": "2022-08-18T09:28:49.213Z",
+    "header": "HBase Multi-Tenancy\u200a\u2014\u200aPart\u00a0I",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/hbase-multi-tenancy-part-i-37cad340c0fa?source=---------8"
+  },
+  {
+    "publishedDate": "2022-04-29T10:06:37.686Z",
+    "header": "How do we relay messages at a high throughout between MicroServices?\u200a\u2014\u200aPart\u00a01",
+    "blogName": "Flipkart Tech Blog",
+    "articleUrl": "https://blog.flipkart.tech/how-do-we-relay-messages-at-a-high-throughout-between-microservices-part-1-9ff304224b37?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-15T11:46:59.870Z",
+    "header": "Building a rating platform to capture user feedback: an explainer",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/building-a-rating-platform-to-capture-user-feedback-an-explainer-a9837b55a7b1?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-03T07:25:51.607Z",
+    "header": "Publish-subscribe messaging- an explainer",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/publish-subscribe-messaging-an-explainer-c3cb14c892dd?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-23T09:36:23.009Z",
+    "header": "Scaling up with CaterPilLar- the CodePipeLine at\u00a0CRED",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/scaling-up-with-caterpillar-the-codepipeline-at-cred-942dd818e131?source=---------2"
+  },
+  {
+    "publishedDate": "2022-07-25T09:36:11.892Z",
+    "header": "Building systems to deliver customization",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/building-systems-to-deliver-customization-7b0672a65f6d?source=---------3"
+  },
+  {
+    "publishedDate": "2022-07-19T06:27:01.624Z",
+    "header": "QoS through progressive load shedding during high-scale events\u200a\u2014\u200aPart\u00a02",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/qos-through-progressive-load-shedding-during-high-scale-events-part-2-8e44dea863df?source=---------4"
+  },
+  {
+    "publishedDate": "2022-05-23T09:08:34.249Z",
+    "header": "Establishing Trust through Compliance and\u00a0Risk",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/establishing-trust-through-compliance-and-risk-6f8f15a53e7d?source=---------5"
+  },
+  {
+    "publishedDate": "2022-04-09T06:28:28.160Z",
+    "header": "QoS through progressive load shedding during high scale events\u200a\u2014\u200aPart\u00a01",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/qos-through-progressive-load-shedding-during-high-scale-events-part-1-9ab2282c0040?source=---------6"
+  },
+  {
+    "publishedDate": "2022-03-24T07:37:08.616Z",
+    "header": "How we scaled for IPL\u00a02021",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/how-we-scaled-for-ipl-2021-21b8e64b73f6?source=---------7"
+  },
+  {
+    "publishedDate": "2022-02-22T15:54:45.698Z",
+    "header": "iOS App Size Reduction ft.\u00a0ODR",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/ios-app-size-reduction-ft-odr-46d4a3898c63?source=---------8"
+  },
+  {
+    "publishedDate": "2022-01-09T04:51:18.125Z",
+    "header": "Lazy loading of snapshot restores and its implications on database performance",
+    "blogName": "CRED Engineering",
+    "articleUrl": "https://engineering.cred.club/lazy-loading-of-snapshot-restores-and-its-implications-on-database-performance-d866097b02fa?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-24T20:33:02.033Z",
+    "header": "Quiver: Introduction",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/quiver-introduction-1dcd340d89a9?source=---------0"
+  },
+  {
+    "publishedDate": "2023-02-23T03:33:02.639Z",
+    "header": "Monitoring Front end Performance using Puppeteer",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/monitoring-front-end-performance-using-puppeteer-9498c17d37f6?source=---------1"
+  },
+  {
+    "publishedDate": "2023-02-01T23:59:21.208Z",
+    "header": "The Walmart.com Journey Towards Spanish Query Understanding (Part\u00a01)",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/the-walmart-com-journey-towards-spanish-query-understanding-part-1-e08e3b348dcc?source=---------2"
+  },
+  {
+    "publishedDate": "2023-01-30T11:24:07.288Z",
+    "header": "Unit Tests in Javascript in 5\u00a0Mins",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/unit-tests-in-javascript-in-5-mins-a11627347b17?source=---------3"
+  },
+  {
+    "publishedDate": "2023-01-23T18:51:31.496Z",
+    "header": "Search Model Serving Using PyTorch and TorchServe",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/search-model-serving-using-pytorch-and-torchserve-6caf9d1c5f4d?source=---------4"
+  },
+  {
+    "publishedDate": "2023-01-13T22:42:12.962Z",
+    "header": "Personalized \u2018Complete the Look\u2019\u00a0model",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/personalized-complete-the-look-model-ea093aba0b73?source=---------5"
+  },
+  {
+    "publishedDate": "2022-12-01T05:38:07.137Z",
+    "header": "How to create BigQuery table with external data source(orc)\u00a0?",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/how-to-create-bigquery-table-with-external-data-source-orc-218bb9e92388?source=---------6"
+  },
+  {
+    "publishedDate": "2022-11-30T17:21:26.401Z",
+    "header": "Module Federation using Webpack 5. The Micro-frontend journey.",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/module-federation-using-webpack-5-the-micro-frontend-journey-719688c5d73b?source=---------7"
+  },
+  {
+    "publishedDate": "2022-11-23T02:15:26.858Z",
+    "header": "Building Design System UI kits for large frontend applications",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/building-design-system-ui-kits-for-large-frontend-applications-1bb1d1ac234f?source=---------8"
+  },
+  {
+    "publishedDate": "2022-11-14T19:33:05.249Z",
+    "header": "Performance Saver for Hot Topic\u00a0Issue",
+    "blogName": "Walmart Global Tech Blog",
+    "articleUrl": "https://medium.com/walmartglobaltech/performance-saver-for-hot-topic-issue-d87d9fa6ea39?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-11T17:15:49.873Z",
+    "header": "Getting to Know the Data Scientists at Instacart",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/getting-to-know-the-data-scientists-at-instacart-8a4fd64c50fe?source=---------0"
+  },
+  {
+    "publishedDate": "2022-12-05T15:36:47.621Z",
+    "header": "Personalizing Recommendations for a Learning\u00a0User",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/personalizing-recommendations-for-a-learning-user-ed170a197f2e?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-21T15:00:55.749Z",
+    "header": "From Postgres to Amazon\u00a0DynamoDB",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/from-postgres-to-amazon-dynamodb-4791220b2d5d?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-16T20:41:05.296Z",
+    "header": "Instacart\u2019s Trust Program: How We Build Trust with Our Retailer\u00a0Partners",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/instacarts-trust-program-how-we-build-trust-with-our-retailer-partners-58b6f7acdf0b?source=---------3"
+  },
+  {
+    "publishedDate": "2022-09-15T16:22:03.130Z",
+    "header": "Calibrating CTR Prediction with Transfer Learning in Instacart Ads",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/calibrating-ctr-prediction-with-transfer-learning-in-instacart-ads-3ec88fa97525?source=---------4"
+  },
+  {
+    "publishedDate": "2022-09-14T18:41:23.989Z",
+    "header": "How Instacart Uses Embeddings to Improve Search Relevance",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/how-instacart-uses-embeddings-to-improve-search-relevance-e569839c3c36?source=---------5"
+  },
+  {
+    "publishedDate": "2022-09-06T18:49:02.478Z",
+    "header": "Lessons Learned: The Journey to Real-Time Machine Learning at Instacart",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/lessons-learned-the-journey-to-real-time-machine-learning-at-instacart-942f3a656af3?source=---------6"
+  },
+  {
+    "publishedDate": "2022-08-24T17:04:47.830Z",
+    "header": "How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their\u00a0Carts",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb?source=---------7"
+  },
+  {
+    "publishedDate": "2022-08-10T17:44:16.676Z",
+    "header": "How Hundreds of Retailers Use the Instacart Partner Platform to Drive In-Store Efficiencies",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/how-thousands-of-retailers-use-the-instacart-partner-platform-to-drive-in-store-efficiencies-e43b9b4d8c54?source=---------8"
+  },
+  {
+    "publishedDate": "2022-08-04T16:40:11.167Z",
+    "header": "The Instacart Bug Bounty Program - How We Work with White Hat Hackers to Secure Instacart",
+    "blogName": "tech-at-instacart",
+    "articleUrl": "https://tech.instacart.com/the-instacart-bug-bounty-program-how-we-work-with-white-hat-hackers-to-secure-instacart-e9c1250a30f3?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-24T07:25:45.857Z",
+    "header": "Building a multi-pipeline CI setup for running automated tests in\u00a0GitLab",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/building-a-multi-pipeline-ci-setup-for-running-automated-tests-in-gitlab-106f7cf1f7b3?source=---------0"
+  },
+  {
+    "publishedDate": "2023-02-03T06:43:28.022Z",
+    "header": "Gojek is now ISO 27001 and 27701 certified",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/gojek-is-now-iso-27001-and-27701-certified-82305f6eb112?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-06T05:48:34.464Z",
+    "header": "GoTransit: Unifying Our Mobility Products With Public Transportation",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/gotransit-unifying-our-mobility-products-with-public-transportation-b331c53b8c10?source=---------2"
+  },
+  {
+    "publishedDate": "2022-12-16T06:57:35.491Z",
+    "header": "The Year Gone By: Gojek\u2019s 2022\u00a0Recap",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/the-year-gone-by-gojeks-2022-recap-8a5a0fcbfdfb?source=---------3"
+  },
+  {
+    "publishedDate": "2022-12-02T07:35:27.877Z",
+    "header": "Customising VerneMQ\u200a\u2014\u200aThe Message Broker For Our Information Superhighway",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/customising-vernemq-the-message-broker-for-our-information-superhighway-3a5d91cb36dd?source=---------4"
+  },
+  {
+    "publishedDate": "2022-10-21T06:18:28.761Z",
+    "header": "Planting Trees One Ride At A\u00a0Time",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/planting-trees-one-ride-at-a-time-5a21c6da68cf?source=---------5"
+  },
+  {
+    "publishedDate": "2022-10-14T06:30:36.848Z",
+    "header": "Courier For Flutter Is\u00a0Here!",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/courier-for-flutter-is-here-3f7d7f7553bf?source=---------6"
+  },
+  {
+    "publishedDate": "2022-10-13T07:34:36.127Z",
+    "header": "Prototyping In Gojek\u00a0Design",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/prototyping-in-gojek-design-a971c8fec433?source=---------7"
+  },
+  {
+    "publishedDate": "2022-10-07T06:16:05.976Z",
+    "header": "Sink Kafka Messages to ClickHouse Using \u2018ClickHouse Kafka Ingestor\u2019",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor-7898e3f5295b?source=---------8"
+  },
+  {
+    "publishedDate": "2022-09-30T06:12:45.915Z",
+    "header": "Measuring Happiness At Gojek\u00a0Design",
+    "blogName": "Gojek Product + Tech",
+    "articleUrl": "https://medium.com/gojekengineering/measuring-happiness-at-gojek-design-e0eac4da2cb2?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-24T22:58:11.655Z",
+    "header": "Deep Learning for Infinite (Multi-Lingual) Keywords",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/deep-learning-for-infinite-multi-lingual-keywords-bc158e24b0eb?source=---------0"
+  },
+  {
+    "publishedDate": "2022-11-29T11:59:21.890Z",
+    "header": "From Zero to 50 Million Uploads per Day: Scaling Media at\u00a0Canva",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva-c81fa0c92f34?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-17T01:45:46.164Z",
+    "header": "Search Pipeline: Part\u00a0II",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/search-pipeline-part-ii-3b43978607cd?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-02T00:03:33.460Z",
+    "header": "Search Pipeline: Part\u00a0I",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/search-pipeline-part-i-faa6c543aef1?source=---------3"
+  },
+  {
+    "publishedDate": "2022-10-16T22:58:01.782Z",
+    "header": "Simple, Fast, and Scalable Reverse Image Search Using Perceptual Hashes and\u00a0DynamoDB",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934?source=---------4"
+  },
+  {
+    "publishedDate": "2022-08-29T00:08:53.037Z",
+    "header": "How We Used Data to Optimize Our Quality Assistance Model",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/how-we-used-data-to-optimize-our-quality-assistance-model-ae470899c23c?source=---------5"
+  },
+  {
+    "publishedDate": "2022-07-05T05:15:35.428Z",
+    "header": "Supporting GPU-accelerated Machine Learning with Kubernetes and\u00a0Nix",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/supporting-gpu-accelerated-machine-learning-with-kubernetes-and-nix-7c1da8e42f61?source=---------6"
+  },
+  {
+    "publishedDate": "2022-06-20T09:35:17.087Z",
+    "header": "Testing Search Engine Optimization Scalably without Breaking a\u00a0Sweat",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/testing-search-engine-optimization-scalably-without-breaking-a-sweat-8f91ccfc451d?source=---------7"
+  },
+  {
+    "publishedDate": "2022-06-16T02:47:27.523Z",
+    "header": "We Put Half a Million files in One git Repository, Here\u2019s What We\u00a0Learned",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181?source=---------8"
+  },
+  {
+    "publishedDate": "2022-06-09T01:47:25.793Z",
+    "header": "Service-aligned Data Platform Architecture",
+    "blogName": "Canva Engineering Blog",
+    "articleUrl": "https://canvatechblog.com/service-aligned-data-platform-architecture-6b5a6fc366c4?source=---------9"
+  },
+  {
+    "publishedDate": "2023-01-19T19:53:51.588Z",
+    "header": "Delivering ML Products Efficiently: Utilizing Spark To Go Beyond Single-Node Machine\u00a0Learning",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/delivering-ml-products-efficiently-utilizing-spark-to-go-beyond-single-node-machine-learning-bf400f83f059?source=---------0"
+  },
+  {
+    "publishedDate": "2022-11-17T13:12:05.356Z",
+    "header": "Building a Multi-Armed Bandit System from the Ground Up: A Recommendations and Ranking Case Study, Part\u00a0II",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/building-a-multi-armed-bandit-system-from-the-ground-up-a-recommendations-and-ranking-case-study-8f09f65d26b6?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-16T04:12:44.049Z",
+    "header": "Building a Multi-Armed Bandit System from the Ground Up: A Recommendations and Ranking Case Study, Part\u00a0I",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/building-a-multi-armed-bandit-system-from-the-ground-up-a-recommendations-and-ranking-case-study-b598f1f880e1?source=---------2"
+  },
+  {
+    "publishedDate": "2022-09-30T20:01:22.956Z",
+    "header": "Representing course content with Universal Sentence\u00a0Encoders",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/representing-course-content-with-universal-sentence-encoders-96ef68932092?source=---------3"
+  },
+  {
+    "publishedDate": "2022-08-24T16:01:17.834Z",
+    "header": "Udemy\u2019s speech-to-text vendor evaluation",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/udemys-speech-to-text-vendor-evaluation-4b2e8510f7b7?source=---------4"
+  },
+  {
+    "publishedDate": "2022-04-28T13:03:33.562Z",
+    "header": "Auto-Generated Monitoring of Event Data with Annotations",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/auto-generated-monitoring-of-event-data-with-annotations-cd2fe1a022d4?source=---------5"
+  },
+  {
+    "publishedDate": "2022-01-24T20:54:19.131Z",
+    "header": "Introducing Hot and Cold Retries on Apache\u00a0Kafka\u00ae",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/introducing-hot-and-cold-retries-on-apache-kafka-f2f23595627b?source=---------6"
+  },
+  {
+    "publishedDate": "2021-11-20T06:09:19.776Z",
+    "header": "Measuring Engaged Time from Discrete\u00a0Events",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/measuring-engaged-time-from-discrete-events-54c7e159bac8?source=---------7"
+  },
+  {
+    "publishedDate": "2021-10-11T17:23:55.046Z",
+    "header": "Designing the New Event Tracking System at\u00a0Udemy",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/designing-the-new-event-tracking-system-at-udemy-a45e502216fd?source=---------8"
+  },
+  {
+    "publishedDate": "2021-09-08T20:28:57.536Z",
+    "header": "Understanding K-Means Clustering and Kernel\u00a0Methods",
+    "blogName": "Udemy Tech Blog",
+    "articleUrl": "https://medium.com/udemy-engineering/understanding-k-means-clustering-and-kernel-methods-afad4eec3c11?source=---------9"
+  },
+  {
+    "publishedDate": "2022-11-21T14:01:48.978Z",
+    "header": "VMAF FTW",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/vmaf-ftw-67c154424c0c?source=---------0"
+  },
+  {
+    "publishedDate": "2022-09-09T14:36:29.644Z",
+    "header": "Engineer.inspect with Farshid\u00a0Zaman",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/engineer-inspect-with-farshid-zaman-ccbcc5f52f12?source=---------1"
+  },
+  {
+    "publishedDate": "2022-09-09T13:02:35.316Z",
+    "header": "Captain Codec in the VideoVerse",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/captain-codec-in-the-videoverse-c4a0c93faf9?source=---------2"
+  },
+  {
+    "publishedDate": "2022-07-20T14:03:40.890Z",
+    "header": "Enhancing Vimeo Events with\u00a0layouts",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/enhancing-vimeo-events-with-layouts-7b9611c7b296?source=---------3"
+  },
+  {
+    "publishedDate": "2022-05-27T13:33:36.587Z",
+    "header": "The evolution of event data collection at Vimeo, part 1: the Fatal Attraction era",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/the-evolution-of-event-data-collection-at-vimeo-part-1-the-fatal-attraction-era-9eae5f67e1bc?source=---------4"
+  },
+  {
+    "publishedDate": "2022-05-02T13:32:48.225Z",
+    "header": "Optimizing for\u00a0AVX2",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/optimizing-for-avx2-3b462ab77837?source=---------5"
+  },
+  {
+    "publishedDate": "2022-04-07T13:32:38.617Z",
+    "header": "A *bit* about content\u00a0ratings",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/a-bit-about-content-ratings-9959810359d2?source=---------6"
+  },
+  {
+    "publishedDate": "2022-03-11T14:32:06.497Z",
+    "header": "Engineer.inspect with Alice\u00a0Xia",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/engineer-inspect-with-alice-xia-574b75bfc709?source=---------7"
+  },
+  {
+    "publishedDate": "2022-02-24T14:32:49.896Z",
+    "header": "Monitoring data quality at scale using Monte\u00a0Carlo",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/monitoring-data-quality-at-scale-using-monte-carlo-934577e45ab0?source=---------8"
+  },
+  {
+    "publishedDate": "2022-02-11T14:32:51.389Z",
+    "header": "Vimeo\u2019s Vaidehi Joshi on the magic of debugging",
+    "blogName": "Vimeo Engineering Blog",
+    "articleUrl": "https://medium.com/vimeo-engineering-blog/vimeos-vaidehi-joshi-on-the-magic-of-debugging-f1c162bd1979?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-07T20:09:24.828Z",
+    "header": "Dev Dashboard Improvements, Round\u00a0Two",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/dev-dashboard-improvements-round-two-15de26433404?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-30T17:17:57.699Z",
+    "header": "I went to the Firebase Summit 2022\u00a0-NYC",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/i-went-to-the-firebase-summit-2022-nyc-46fec145f165?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-25T17:36:44.692Z",
+    "header": "PayPal No-code Invoicing to Simplify Your Life!\u00a0\ud83d\ude2e\u200d\ud83d\udca8",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/paypal-no-code-invoicing-to-simplify-your-life-829377061d73?source=---------2"
+  },
+  {
+    "publishedDate": "2023-01-11T20:58:20.200Z",
+    "header": "Dev Dashboard Improvements Abound!",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/dev-dashboard-improvements-abound-54393c9df5d7?source=---------3"
+  },
+  {
+    "publishedDate": "2022-09-14T15:21:53.782Z",
+    "header": "How PayPal is solving merchant dropout issues with sandbox integrations",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/how-paypal-is-solving-merchant-dropout-issues-with-sandbox-integrations-bbde98f588fc?source=---------4"
+  },
+  {
+    "publishedDate": "2022-08-31T17:47:51.738Z",
+    "header": "Caching Dynamic Content at the\u00a0Edge",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/caching-dynamic-content-at-the-edge-c25d28bf03e8?source=---------5"
+  },
+  {
+    "publishedDate": "2022-08-09T03:24:30.731Z",
+    "header": "Using TypeScript to Speed Up Development with the PayPal JavaScript SDK",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/using-typescript-to-speed-up-development-with-the-paypal-javascript-sdk-84dbb21ad2ae?source=---------6"
+  },
+  {
+    "publishedDate": "2022-08-03T21:22:27.257Z",
+    "header": "The next generation of Data Platforms is the Data\u00a0Mesh",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522?source=---------7"
+  },
+  {
+    "publishedDate": "2022-07-20T19:41:11.363Z",
+    "header": "Purposeful Innovation for\u00a0Good",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/purposeful-innovation-for-good-ee3fad9cdb09?source=---------8"
+  },
+  {
+    "publishedDate": "2022-06-03T14:08:15.946Z",
+    "header": "Tuning Spark Applications to Efficiently Utilize Dataproc\u00a0Cluster",
+    "blogName": "The PayPal Technology Blog",
+    "articleUrl": "https://medium.com/paypal-tech/tuning-spark-applications-to-efficiently-utilize-dataproc-cluster-11bd51b36fe1?source=---------9"
+  },
+  {
+    "publishedDate": "2022-12-20T06:06:33.801Z",
+    "header": "Migrating to Google Cloud\u00a0Spanner",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/migrating-to-google-cloud-spanner-2a315427796f?source=---------0-----------------------"
+  },
+  {
+    "publishedDate": "2022-11-13T10:26:06.405Z",
+    "header": "Using React Testing Library, MSW for testing React applications",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/using-react-testing-library-msw-for-testing-react-applications-6e7c9fe710c8?source=---------1-----------------------"
+  },
+  {
+    "publishedDate": "2022-11-10T05:27:09.391Z",
+    "header": "Kubernetes Logging essentials with EFK\u200a\u2014\u200aElasticsearch Fluentbit Kibana",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/kubernetes-logging-essentials-with-efk-elasticsearch-fluentbit-kibana-99fd5efac188?source=---------2-----------------------"
+  },
+  {
+    "publishedDate": "2022-11-01T18:14:28.701Z",
+    "header": "The story of Glance T-Volution!",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/the-story-of-glance-t-volution-48bff218250a?source=---------3-----------------------"
+  },
+  {
+    "publishedDate": "2022-10-27T06:44:16.641Z",
+    "header": "Web performance enhancements\u200a\u2014\u200a4 points basis my personal experience",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/web-performance-enhancements-4-points-basis-my-personal-experience-30842887e0f1?source=---------4-----------------------"
+  },
+  {
+    "publishedDate": "2022-10-13T09:20:49.208Z",
+    "header": "Testing Android UI Performance- Part2",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/testing-android-ui-performance-part2-46a3afa88a8a?source=---------5-----------------------"
+  },
+  {
+    "publishedDate": "2022-09-02T08:11:57.187Z",
+    "header": "Roposo\u00a0: A week to\u00a0remember",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/roposo-a-week-to-remember-a98c48b9b22?source=---------6-----------------------"
+  },
+  {
+    "publishedDate": "2022-08-29T04:44:50.752Z",
+    "header": "Computing Live stream viewers count in real time at High Scale\u00a0!!",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/computing-live-stream-viewers-count-in-real-time-at-high-scale-ef813bc1b9cb?source=---------7-----------------------"
+  },
+  {
+    "publishedDate": "2022-08-08T12:14:19.831Z",
+    "header": "Custom CI Filters with\u00a0Metal",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/custom-ci-filters-with-metal-1c0021cd50df?source=---------8-----------------------"
+  },
+  {
+    "publishedDate": "2022-07-08T11:46:40.304Z",
+    "header": "Adaptive bitrate streaming for\u00a0dummies!",
+    "blogName": "Glance",
+    "articleUrl": "https://engg.glance.com/adaptive-bitrate-streaming-for-dummies-adc984143e24?source=---------9-----------------------"
+  },
+  {
+    "publishedDate": "2022-12-02T12:38:12.089Z",
+    "header": "Building the Best In Class Partner Payout experience in the Gig\u00a0Economy",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/building-the-best-in-class-partner-payout-experience-in-the-gig-economy-c52f7ba82949?source=---------0"
+  },
+  {
+    "publishedDate": "2022-12-02T12:26:04.240Z",
+    "header": "UC\u2019s journey of 5X API performance improvement",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/ucs-journey-of-5x-api-performance-improvement-4ef8bb35e124?source=---------1"
+  },
+  {
+    "publishedDate": "2022-12-02T12:11:57.694Z",
+    "header": "How UC built its in-house location stack \u201cPin-Drop\u201d using open source\u200a\u2014\u200aPart\u00a0One",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/how-uc-built-its-in-house-location-stack-pin-drop-using-open-source-part-one-b2a5ab14b734?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-15T13:47:41.092Z",
+    "header": "Batching & Matching to optimise customer-partner interactions",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/batching-matching-to-optimise-customer-partner-interactions-d7e44674c2ed?source=---------3"
+  },
+  {
+    "publishedDate": "2022-10-12T17:27:01.034Z",
+    "header": "How Support Self Serve empowered UC to improve experience and lower\u00a0cost",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/how-self-serve-empowered-uc-to-improve-experience-and-lower-cost-892511e231e8?source=---------4"
+  },
+  {
+    "publishedDate": "2022-09-11T14:44:13.670Z",
+    "header": "Flexible Slots\u200a\u2014\u200aHelping partners to get maximum earnings through Customer flexibility",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/flexible-slots-helping-partners-to-get-maximum-earnings-through-customer-flexibility-f305de12d47b?source=---------5"
+  },
+  {
+    "publishedDate": "2022-07-19T19:24:16.497Z",
+    "header": "Enabling platform stickiness through rebooking",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/enabling-platform-stickiness-through-rebooking-ebafecb82cb4?source=---------6"
+  },
+  {
+    "publishedDate": "2022-07-07T15:29:13.821Z",
+    "header": "How Urban Company spots Customer Appreciation for Partners using\u00a0NLP",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/how-urban-company-spots-customer-appreciation-for-partners-using-nlp-7547fd5525b1?source=---------7"
+  },
+  {
+    "publishedDate": "2022-06-28T15:05:40.894Z",
+    "header": "How Urban Company is standardizing change controls!",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/how-urban-company-is-standardizing-change-controls-98ecc7e5fc84?source=---------8"
+  },
+  {
+    "publishedDate": "2022-02-28T08:16:31.531Z",
+    "header": "Sorting Hat \u2013 The Issue Prioritisation & Assignment System",
+    "blogName": "Urban Company \u2013 Engineering",
+    "articleUrl": "https://tech.urbancompany.com/sorting-hat-the-issue-prioritisation-assignment-system-431ea157022f?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-08T19:02:11.965Z",
+    "header": "Struggling to Mock graphQL Data? Open Source apollo-mock-http to the\u00a0Rescue.",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/struggling-to-mock-graphql-data-open-source-apollo-mock-http-to-the-rescue-aee86db9233a?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-31T16:02:49.998Z",
+    "header": "Revving Up Jira: Proven Techniques for Improved Performance and Efficiency",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/revving-up-jira-proven-techniques-for-improved-performance-and-efficiency-c4756f224d5f?source=---------1"
+  },
+  {
+    "publishedDate": "2022-12-08T19:45:22.349Z",
+    "header": "Opening Up to Open Source: Hacktoberfest for New and Seasoned Contributors",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/opening-up-to-open-source-hacktoberfest-for-new-and-seasoned-contributors-66f5a1171a41?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-29T00:49:30.779Z",
+    "header": "Bye, React Native. Hello\u00a0Native!",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/bye-react-native-hello-native-61fbe81515d0?source=---------3"
+  },
+  {
+    "publishedDate": "2022-11-17T20:15:18.851Z",
+    "header": "KubeCon NA 2022 Tech Trends: DevX, Platform Dev, Security &\u00a0More",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/kubecon-north-america-2022-development-experience-the-rise-of-the-platform-developer-4d6d33f6d9c9?source=---------4"
+  },
+  {
+    "publishedDate": "2022-11-13T07:33:22.210Z",
+    "header": "A Beginner\u2019s Pathway to a Career in Tech: Apprenticeship",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/a-beginners-pathway-to-a-career-in-tech-apprenticeship-f9eb01794e40?source=---------5"
+  },
+  {
+    "publishedDate": "2022-10-28T16:28:11.557Z",
+    "header": "Driving Innovation with Open Source: CNCF Names Intuit Top End\u00a0User",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/driving-innovation-with-open-source-cncf-names-intuit-top-end-user-957e5cf1c352?source=---------6"
+  },
+  {
+    "publishedDate": "2022-10-05T15:44:50.625Z",
+    "header": "Numaproj\u200a\u2014\u200aDriving Dev Velocity with Real-time Analytics, AIOps on Kubernetes",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/numaproj-driving-dev-velocity-with-real-time-analytics-aiops-on-kubernetes-fba62e00eecf?source=---------7"
+  },
+  {
+    "publishedDate": "2022-09-22T18:05:00.974Z",
+    "header": "How to Drive Grassroots AI Innovation? Tap into a Diversity of\u00a0Ideas",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/how-to-drive-grassroots-ai-innovation-tap-into-a-diversity-of-ideas-f2e1ed6258e6?source=---------8"
+  },
+  {
+    "publishedDate": "2022-07-29T03:20:14.921Z",
+    "header": "Running Enterprise Workloads at Scale with a Next-Gen Infrastructure-as-Code Platform",
+    "blogName": "Intuit Engineering",
+    "articleUrl": "https://medium.com/intuit-engineering/running-enterprise-workloads-at-scale-with-a-next-gen-infrastructure-as-code-platform-f14f7f333228?source=---------9"
+  },
+  {
+    "publishedDate": "2022-12-05T18:04:59.332Z",
+    "header": "Power Take-Off: Processing AUX Signals to Account for Productive Idling",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/power-take-off-processing-aux-signals-1898650002aa?source=---------0"
+  },
+  {
+    "publishedDate": "2022-08-08T19:13:19.132Z",
+    "header": "How We Reduced DB Load With Our Language Agnostic Point Query\u00a0Cache",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/how-we-reduced-db-load-with-our-language-agnostic-point-query-cache-3a628edfee4e?source=---------1"
+  },
+  {
+    "publishedDate": "2022-07-18T17:22:17.706Z",
+    "header": "We Fast-Tracked Our App Development With Kotlin Multiplatform Mobile",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/we-fast-tracked-our-app-development-with-kotlin-multiplatform-mobile-952f2f4afd1?source=---------2"
+  },
+  {
+    "publishedDate": "2022-06-22T16:32:46.260Z",
+    "header": "How We Optimized Our Dagger 2 Dependency Injection Framework in Our Android Driver\u00a0App",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/how-we-optimized-our-dagger-2-dependency-injection-framework-in-our-android-driver-app-ec432ff13216?source=---------3"
+  },
+  {
+    "publishedDate": "2022-04-14T16:45:27.374Z",
+    "header": "A Novel Scalable Reporting Infrastructure at\u00a0Motive",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/a-novel-scalable-reporting-infrastructure-at-motive-17883171338f?source=---------4"
+  },
+  {
+    "publishedDate": "2022-02-28T17:21:31.463Z",
+    "header": "Chasing Lock Contention in Our Ruby On Rails\u00a0Servers",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/chasing-lock-contention-in-our-ruby-on-rails-servers-29b906a40c34?source=---------5"
+  },
+  {
+    "publishedDate": "2022-02-14T17:46:00.172Z",
+    "header": "We Solved Our Rails Memory Leaks With\u00a0jemalloc",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/we-solved-our-rails-memory-leaks-with-jemalloc-5c3711326456?source=---------6"
+  },
+  {
+    "publishedDate": "2022-02-01T18:17:16.228Z",
+    "header": "Supercharge Your Lambda Deployments With Kubernetes",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/supercharge-your-lambda-deployments-with-kubernetes-507151997c1b?source=---------7"
+  },
+  {
+    "publishedDate": "2021-12-13T17:03:02.601Z",
+    "header": "How Standardized Tooling and Metadata Saved Our Data Organization",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/how-metadata-saved-our-data-organization-cab3335eb4ae?source=---------8"
+  },
+  {
+    "publishedDate": "2021-10-15T17:32:42.457Z",
+    "header": "Slaying the Slow CI\u00a0Dragons",
+    "blogName": "motive-eng",
+    "articleUrl": "https://medium.com/motive-eng/slaying-the-slow-ci-dragons-566db8eb1191?source=---------9"
+  },
+  {
+    "publishedDate": "2022-10-26T16:50:44.900Z",
+    "header": "Digging into Data Landscapes",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/digging-into-data-landscapes-c3d8faf1ad6f?source=---------0"
+  },
+  {
+    "publishedDate": "2022-07-29T04:54:15.405Z",
+    "header": "How the Tableau Product Internationalization Engineering Team translates millions of words\u00a0into",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/how-the-tableau-product-internationalization-engineering-team-translates-millions-of-words-into-95d3f73630e3?source=---------1"
+  },
+  {
+    "publishedDate": "2022-07-21T18:05:29.515Z",
+    "header": "Software Defense\u00a0Spending",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/software-defense-spending-408cb1aefae4?source=---------2"
+  },
+  {
+    "publishedDate": "2022-06-21T19:06:51.306Z",
+    "header": "Creating Richer Tables Using\u00a0Blocks",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/creating-richer-tables-using-blocks-aa3a8779802c?source=---------3"
+  },
+  {
+    "publishedDate": "2022-05-25T18:32:49.521Z",
+    "header": "Beyond the Dashboard: Facilitating Data Conversations",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/beyond-the-dashboard-facilitating-data-conversations-973c7a43afba?source=---------4"
+  },
+  {
+    "publishedDate": "2022-04-20T21:59:00.743Z",
+    "header": "Being an industry research scientist",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/being-an-industry-research-scientist-e9a2749245a1?source=---------5"
+  },
+  {
+    "publishedDate": "2022-03-30T21:14:59.429Z",
+    "header": "Explain Data, Explained",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/explain-data-explained-c780ed905a07?source=---------6"
+  },
+  {
+    "publishedDate": "2022-03-16T16:57:31.346Z",
+    "header": "You should give Catch2 a\u00a0try",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/you-should-give-catch2-a-try-a06161f05b64?source=---------7"
+  },
+  {
+    "publishedDate": "2022-02-22T16:31:56.290Z",
+    "header": "Massive Serverless Parallelization",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/massive-serverless-parallelization-1e82b65fa4ed?source=---------8"
+  },
+  {
+    "publishedDate": "2022-02-08T22:56:13.655Z",
+    "header": "Building Serverless Prototypes",
+    "blogName": "Tableau Engineering Blog",
+    "articleUrl": "https://engineering.tableau.com/building-serverless-prototypes-b51f8b0b8dae?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-09T18:34:37.618Z",
+    "header": "Create Reusable Tests and Scripts with OpenAPI Reusable Components",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/create-reusable-tests-and-scripts-with-openapi-reusable-components-1e065fbbc29f?source=---------0"
+  },
+  {
+    "publishedDate": "2023-02-01T15:55:19.106Z",
+    "header": "Set Up a WebSockets Server in\u00a0Node.js",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/set-up-a-websockets-server-in-node-js-b32da63f4f94?source=---------1"
+  },
+  {
+    "publishedDate": "2022-09-29T07:05:47.638Z",
+    "header": "Postman Essentials: Exploring the Collection Format",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/postman-essentials-exploring-the-collection-format-1a8b08d79fca?source=---------2"
+  },
+  {
+    "publishedDate": "2022-07-31T17:10:48.205Z",
+    "header": "To Build (an SDK), or not to Build\u200a\u2014\u200athat is the question!",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/to-build-an-sdk-or-not-to-build-that-is-the-question-142aab534e6b?source=---------3"
+  },
+  {
+    "publishedDate": "2022-03-20T13:06:13.437Z",
+    "header": "How complex can Authorization get?",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/how-complex-can-authorization-get-5011c9dfb0fa?source=---------4"
+  },
+  {
+    "publishedDate": "2022-01-31T16:03:21.941Z",
+    "header": "How to build a Jamstack application in\u00a0Postman",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/how-to-build-a-jamstack-application-in-postman-99aba45a572b?source=---------5"
+  },
+  {
+    "publishedDate": "2021-12-01T23:56:23.534Z",
+    "header": "Dynamically create custom environments with\u00a0code",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/dynamically-create-custom-environments-with-code-c7b15c03f306?source=---------6"
+  },
+  {
+    "publishedDate": "2021-11-03T16:32:05.000Z",
+    "header": "Better Practices for Git Version Control in\u00a0Postman",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/better-practices-for-git-version-control-in-postman-8476bd6fa51b?source=---------7"
+  },
+  {
+    "publishedDate": "2021-10-11T23:08:05.407Z",
+    "header": "How (and Why) Postman Engineering Uses Foundation Teams",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/how-and-why-postman-engineering-uses-foundation-teams-4acadab0f003?source=---------8"
+  },
+  {
+    "publishedDate": "2021-07-19T20:43:41.304Z",
+    "header": "The most important API metric is time to first\u00a0call",
+    "blogName": "Better Practices",
+    "articleUrl": "https://medium.com/better-practices/the-most-important-api-metric-is-time-to-first-call-62ac3959de44?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-14T12:01:28.024Z",
+    "header": "Four Key Differences Between \u201cOnline Travel\u201d and \u201cOnline Shopping\u201d E-commerce",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/four-key-differences-between-online-travel-and-online-shopping-e-commerce-8512cc47b0bf?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-31T11:02:05.289Z",
+    "header": "Creating a More Sustainable and Accessible Future for Travelers",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/creating-a-more-sustainable-and-accessible-future-for-travelers-3f1f60b36e83?source=---------1"
+  },
+  {
+    "publishedDate": "2023-01-12T14:31:45.018Z",
+    "header": "4 Ways to Make Unit Tests More Effective",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/4-ways-to-make-unit-tests-more-effective-3615cc6ba4ec?source=---------2"
+  },
+  {
+    "publishedDate": "2023-01-05T22:58:14.687Z",
+    "header": "AI, Personalization and Openness: Exploring the Definitive Tech Trends of\u00a02023",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/ai-personalization-and-openness-exploring-the-definitive-tech-trends-of-2023-d5ba45875c80?source=---------3"
+  },
+  {
+    "publishedDate": "2022-12-15T14:02:06.275Z",
+    "header": "How to Optimise Rankings with Cascade\u00a0Bandits",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/how-to-optimise-rankings-with-cascade-bandits-5d92dfa0f16b?source=---------4"
+  },
+  {
+    "publishedDate": "2022-12-13T14:02:05.173Z",
+    "header": "Upgrading Apache Zookeeper from 3.7.0 to 3.8.0 to Get Rid of the Log4j Vulnerability",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/upgrading-apache-zookeeper-from-3-7-0-to-3-8-0-to-get-rid-of-the-log4j-vulnerability-46543e768540?source=---------5"
+  },
+  {
+    "publishedDate": "2022-11-29T14:02:03.555Z",
+    "header": "Insights from Women of Silicon Roundabout Conference",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/insights-from-women-of-silicon-roundabout-conference-bd53bcf6f29e?source=---------6"
+  },
+  {
+    "publishedDate": "2022-11-24T14:01:57.614Z",
+    "header": "Unify Data Lakes Across Multi-Regions in the\u00a0Cloud",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/unify-data-lakes-across-multi-regions-in-the-cloud-61119db325f9?source=---------7"
+  },
+  {
+    "publishedDate": "2022-11-22T14:01:31.523Z",
+    "header": "Functional Programming with Kotlin\u00a0Arrow",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/functional-programming-with-kotlin-arrow-8d3d4f677d8d?source=---------8"
+  },
+  {
+    "publishedDate": "2022-11-17T09:01:47.211Z",
+    "header": "Wondering about the Transition from IC to\u00a0Manager?",
+    "blogName": "Expedia Group Technology",
+    "articleUrl": "https://medium.com/expedia-group-tech/wondering-how-is-the-transition-from-an-ic-to-a-manager-heres-my-journey-a2930358dc82?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-06T09:43:19.975Z",
+    "header": "Optimizing Myntra\u2019s Pricing System for Serving Millions of Traffic under 30ms\u00a0Latency",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/optimizing-myntras-pricing-system-for-serving-millions-of-traffic-with-30ms-latency-73a7057affdf?source=---------0"
+  },
+  {
+    "publishedDate": "2023-01-08T12:57:24.886Z",
+    "header": "HBase\u200a\u2014\u200aIncremental backup and restore\u00a0strategy",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/hbase-incremental-backup-and-restore-strategy-33cb9cb1de94?source=---------1"
+  },
+  {
+    "publishedDate": "2022-11-18T10:53:31.560Z",
+    "header": "Janus\u00a0: Data processing framework at\u00a0Myntra",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/janus-data-processing-framework-at-myntra-980ba8cb15a5?source=---------2"
+  },
+  {
+    "publishedDate": "2022-11-11T06:54:48.740Z",
+    "header": "Quicksilver: Near Real Time Platform at\u00a0Myntra",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/quicksilver-near-real-time-platform-at-myntra-9e8edf6ede91?source=---------3"
+  },
+  {
+    "publishedDate": "2022-10-28T05:45:17.135Z",
+    "header": "Creating a Design\u00a0System",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=---------4"
+  },
+  {
+    "publishedDate": "2022-08-23T05:57:36.260Z",
+    "header": "How we debugged: UnresolvedAddressException issue faced in DR\u00a0env.",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/how-we-debugged-unresolvedaddressexception-issue-faced-in-dr-env-f61f28a36ed1?source=---------5"
+  },
+  {
+    "publishedDate": "2022-08-04T19:33:04.011Z",
+    "header": "Building Myntra\u2019s Video Platform: Part\u00a02",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-2-ba114aeea979?source=---------6"
+  },
+  {
+    "publishedDate": "2022-05-10T09:47:31.389Z",
+    "header": "Our Learnings from Spring upgrade across\u00a0Myntra",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/our-learnings-from-spring-upgrade-across-myntra-2f2796a11ff5?source=---------7"
+  },
+  {
+    "publishedDate": "2022-05-03T09:45:35.710Z",
+    "header": "Building Myntra\u2019s Video Platform: Part\u00a01",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-1-792c3423bc65?source=---------8"
+  },
+  {
+    "publishedDate": "2022-03-29T09:46:55.967Z",
+    "header": "AUTHNZ\u200a\u2014\u200aAuthentication and Authorization in Micro-Service Architecture",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1?source=---------9"
+  },
+  {
+    "publishedDate": "2023-02-14T17:55:54.306Z",
+    "header": "Kubernetes Infrastructure At\u00a0Medium",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/kubernetes-infrastructure-at-medium-d9e2444932ef?source=---------0"
+  },
+  {
+    "publishedDate": "2022-05-09T14:23:25.266Z",
+    "header": "How do we use SwiftUI in the Medium iOS application",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/how-do-we-use-swiftui-in-the-medium-ios-application-8f7bd95416ce?source=---------1"
+  },
+  {
+    "publishedDate": "2022-05-03T08:56:43.869Z",
+    "header": "Custom color elevation effect in\u00a0Compose",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/custom-color-elevation-effect-in-compose-ee6a84d8c653?source=---------2"
+  },
+  {
+    "publishedDate": "2022-04-26T13:36:31.552Z",
+    "header": "Evolution of the Medium iOS app architecture",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/evolution-of-the-medium-ios-app-architecture-8b6090f4508e?source=---------3"
+  },
+  {
+    "publishedDate": "2021-06-08T20:11:13.933Z",
+    "header": "How we build SwiftUI features in the Medium application",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/how-we-build-swiftui-features-in-the-medium-application-21323a960910?source=---------4"
+  },
+  {
+    "publishedDate": "2021-05-12T15:02:45.326Z",
+    "header": "Improving iOS Intangibles with\u00a0Tactical",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/improving-ios-intangibles-with-tactical-f744fbff033e?source=---------5"
+  },
+  {
+    "publishedDate": "2021-05-06T17:04:45.769Z",
+    "header": "Breaking up Big\u00a0Fred",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/breaking-up-big-fred-407751e58625?source=---------6"
+  },
+  {
+    "publishedDate": "2021-02-26T05:15:29.976Z",
+    "header": "To The Future Black History Makers in\u00a0Tech",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/to-the-future-black-history-makers-in-tech-6e87513605b4?source=---------7"
+  },
+  {
+    "publishedDate": "2020-12-17T20:09:14.337Z",
+    "header": "Rex: Medium\u2019s Go Recommendation Microservice",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/rex-mediums-go-recommendation-microservice-e077bc9582a?source=---------8"
+  },
+  {
+    "publishedDate": "2020-11-24T21:28:01.286Z",
+    "header": "Counting your followers",
+    "blogName": "Medium Engineering",
+    "articleUrl": "https://medium.engineering/counting-your-followers-facbfafe45d9?source=---------9"
+  },
+  {
+    "publishedDate": "2022-09-02T15:41:11.044Z",
+    "header": "Hack Week 2022: Together\u00a0Again!",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/hack-week-2022-together-again-85bdae55ede5?source=---------0"
+  },
+  {
+    "publishedDate": "2021-11-06T15:03:31.391Z",
+    "header": "CLS at BuzzFeed\u200a\u2014\u200aPart 3: Dealing with the unpredictable",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-3-3a36240861e4?source=---------1"
+  },
+  {
+    "publishedDate": "2021-11-05T15:32:11.116Z",
+    "header": "CLS at BuzzFeed\u200a\u2014\u200aPart 2: Getting Help From Real\u00a0Users",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097?source=---------2"
+  },
+  {
+    "publishedDate": "2021-11-04T19:33:32.179Z",
+    "header": "CLS at BuzzFeed\u200a\u2014\u200aPart 1: Raising the\u00a0floor",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd?source=---------3"
+  },
+  {
+    "publishedDate": "2021-10-12T18:10:51.638Z",
+    "header": "Hack Week 2021 Round-Up!",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/hack-week-2021-round-up-2cebaae0e892?source=---------4"
+  },
+  {
+    "publishedDate": "2021-06-11T16:46:18.668Z",
+    "header": "18 Things I Learned Taking a Business School Class on Management",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/18-things-i-learned-in-business-school-management-829c5b4d7106?source=---------5"
+  },
+  {
+    "publishedDate": "2021-05-14T15:31:06.496Z",
+    "header": "How We Made Your AI-Generated Lover With A\u00a0GAN",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/how-we-made-your-ai-generated-lover-with-a-gan-bdcd347b0038?source=---------6"
+  },
+  {
+    "publishedDate": "2020-12-22T15:39:53.364Z",
+    "header": "More Data, More\u00a0Problems",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/more-data-more-problems-3c585b8bc84d?source=---------7"
+  },
+  {
+    "publishedDate": "2020-08-27T14:39:25.155Z",
+    "header": "Accessible BuzzFeed",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/accessible-buzzfeed-2e1f3f94f352?source=---------8"
+  },
+  {
+    "publishedDate": "2020-08-17T14:33:52.854Z",
+    "header": "Best of Hack Week\u00a02020",
+    "blogName": "BuzzFeed Tech",
+    "articleUrl": "https://tech.buzzfeed.com/best-of-hack-week-2020-42df16471d0d?source=---------9"
+  }
+]

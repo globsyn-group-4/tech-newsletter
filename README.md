@@ -13,7 +13,7 @@ Medium Blogs:
 - https://blog.dream11engineering.com/latest
 - https://medium.com/navi-technologies/tech-blog/home
 - https://medium.com/rapido-labs
-- https://medium.com/smallcase-engineering
+- https://medium.com/smallcase-engineering/latest
 - https://tech.makemytrip.com/latest
 - https://blog.flipkart.tech/latest
 - https://engineering.cred.club/latest

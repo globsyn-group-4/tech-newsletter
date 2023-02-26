@@ -33,6 +33,11 @@ Medium Blogs:
 - https://engineering.tableau.com/latest
 - https://medium.com/meesho-tech/engineering-data-science/home
 - https://medium.com/better-practices/latest
+- https://medium.com/expedia-group-tech/latest
+- https://medium.com/myntra-engineering/latest
+- https://medium.engineering/latest
+- https://medium.com/@pinterest_engineering
+- https://tech.buzzfeed.com/latest
 
 Non Medium Blogs
 

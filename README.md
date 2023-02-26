@@ -38,10 +38,26 @@ Medium Blogs:
 - https://medium.com/naukri-engineering/latest
 - https://blog.hotstar.com/latest
 - https://medium.com/engineering-housing/latest
+- https://medium.com/1mgofficial/latest
+- https://tech.bigbasket.com/latest
+- https://medium.com/brainly/latest
+- https://medium.com/glassdoor-engineering/latest
+- https://engineering.udacity.com/latest
+- https://medium.com/udemy-engineering/latest
+- https://medium.com/blackrock-engineering/latest
+- https://medium.com/harness-engineering/latest
+- https://medium.com/airteldigital/latest
+- https://medium.com/freshworks-engineering-blog/latest
+- https://medium.com/adidoescode/latest
+- https://medium.com/decathlontechnology/latest
+- https://medium.com/quantumblack/latest
+- https://medium.com/tata-cliq-tech-blog/latest
+- https://medium.com/picsart-engineering/latest
 
 Non Medium Blogs
 
 - https://blog.twitter.com/engineering/en_us
+- https://paytm.com/blog/engineering/
 - https://openai.com/blog/
 - https://engineering.salesforce.com/blog/
 - https://stripe.com/blog/engineering
@@ -80,6 +96,7 @@ Non Medium Blogs
 - https://www.uber.com/en-IN/blog/engineering/
 - https://www.confluent.io/blog/area/technology/
 - https://www.godaddy.com/engineering/blog-posts/
+- https://blog.booking.com/
 
 Tech Stack:
 - Java 11, Maven (Middleware)

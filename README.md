@@ -53,6 +53,7 @@ Medium Blogs:
 - https://medium.com/quantumblack/latest
 - https://medium.com/tata-cliq-tech-blog/latest
 - https://medium.com/picsart-engineering/latest
+- https://medium.com/payu-engineering/latest
 
 Non Medium Blogs
 

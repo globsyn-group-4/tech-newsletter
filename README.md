@@ -97,6 +97,7 @@ Non Medium Blogs
 - https://www.confluent.io/blog/area/technology/
 - https://www.godaddy.com/engineering/blog-posts/
 - https://blog.booking.com/
+- https://stackoverflow.blog/engineering/
 
 Tech Stack:
 - Java 11, Maven (Middleware)

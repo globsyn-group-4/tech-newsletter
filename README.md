@@ -33,7 +33,7 @@ Medium Blogs:
 - https://medium.com/expedia-group-tech/latest
 - https://medium.com/myntra-engineering/latest
 - https://medium.engineering/latest
-- https://medium.com/@pinterest_engineering
+- https://medium.com/pinterest-engineering/latest
 - https://tech.buzzfeed.com/latest
 - https://medium.com/naukri-engineering/latest
 - https://blog.hotstar.com/latest

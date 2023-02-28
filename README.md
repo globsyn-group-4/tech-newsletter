@@ -54,6 +54,9 @@ Medium Blogs:
 - https://medium.com/tata-cliq-tech-blog/latest
 - https://medium.com/picsart-engineering/latest
 - https://medium.com/payu-engineering/latest
+- https://medium.com/tinder
+- https://medium.com/bumble-tech
+- https://blog.gofynd.com/
 
 Non Medium Blogs
 

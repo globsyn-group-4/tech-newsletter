@@ -79,14 +79,13 @@ Non Medium Blogs
 - https://blog.twitter.com/engineering/en_us
 - https://paytm.com/blog/engineering/
 - https://openai.com/blog/
-- https://engineering.salesforce.com/blog/
+- https://engineering.salesforce.com/blog/ (problematic)
 - https://stripe.com/blog/engineering
-- https://quoraengineering.quora.com/?sort=recent
+- https://quoraengineering.quora.com/?sort=recent (problematic)
 - https://engineering.fb.com/
-- https://engineering.linkedin.com/blog
-- https://www.twilio.com/blog
-- https://www.docusign.com/blog/developers
-- https://sharechat.com/blogs
+- https://engineering.linkedin.com/blog (problematic)
+- https://www.twilio.com/blog (problematic)
+- https://sharechat.com/blogs (problematic)
 - https://fi.money/blog/categories/data-tech
 - https://www.zomato.com/blog/category/technology
 - https://blinkit.com/blog/category/technology

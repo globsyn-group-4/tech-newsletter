@@ -114,7 +114,9 @@ Non Medium Blogs
 ### Run python data-aggregation service
 
 **For Linux && Mac**
+
 `pip install -r data-aggregation/requirements.txt && python data-aggregation/scrapper.py`
 
 **For Windows Powershell**
+
 `pip install -r data-aggregation/requirements.txt; python data-aggregation/scrapper.py`

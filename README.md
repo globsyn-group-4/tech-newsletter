@@ -57,6 +57,7 @@ Medium Blogs:
 - https://medium.com/tinder/latest
 - https://medium.com/bumble-tech/latest
 - https://blog.gofynd.com/latest
+- https://medium.com/hevo-data-engineering/latest
 
 Non Medium Blogs
 
@@ -102,6 +103,7 @@ Non Medium Blogs
 - https://www.godaddy.com/engineering/blog-posts/
 - https://blog.booking.com/
 - https://stackoverflow.blog/engineering/
+- https://www.egnyte.com/blog/blog-tags/engineering
 
 Tech Stack:
 - Java 11, Maven (Middleware)

@@ -70,7 +70,6 @@ Non Medium Blogs
 - https://quoraengineering.quora.com/?sort=recent
 - https://engineering.fb.com/
 - https://engineering.linkedin.com/blog
-- https://blog.postman.com/postspage/
 - https://www.twilio.com/blog
 - https://www.docusign.com/blog/developers
 - https://sharechat.com/blogs

@@ -59,6 +59,20 @@ Medium Blogs:
 - https://blog.gofynd.com/latest
 - https://medium.com/hevo-data-engineering/latest
 - https://we-are.bookmyshow.com/latest
+- https://tech.timesinternet.in/latest
+- https://medium.com/whatfix-techblog/latest
+- https://medium.com/engineering-udaan/latest
+- https://ackology.acko.com/latest
+- https://medium.com/chargebee-engineering/latest
+- https://medium.com/apna-technology-blog/latest
+- https://medium.com/fanatics-tech-blog/latest
+- https://medium.com/miro-engineering/latest
+- https://medium.com/brexeng/latest
+- https://medium.com/airtable-eng/latest
+- https://medium.com/bolt-labs/latest
+- https://medium.com/gong-tech-blog/latest
+- https://medium.com/revolut/latest
+- https://medium.com/invision-engineering/latest
 
 Non Medium Blogs
 
@@ -104,6 +118,10 @@ Non Medium Blogs
 - https://blog.booking.com/
 - https://stackoverflow.blog/engineering/
 - https://www.egnyte.com/blog/blog-tags/engineering
+- https://snyk.io/blog/category/engineering/
+- https://blog.dataiku.com/topic/tech-blog
+- https://vercel.com/blog/category/engineering
+- https://circleci.com/blog/tag/engineering/
 
 ### Tech Stack:
 - Java 11, Maven (Middleware)

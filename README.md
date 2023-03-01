@@ -58,6 +58,7 @@ Medium Blogs:
 - https://medium.com/bumble-tech/latest
 - https://blog.gofynd.com/latest
 - https://medium.com/hevo-data-engineering/latest
+- https://we-are.bookmyshow.com/latest
 
 Non Medium Blogs
 

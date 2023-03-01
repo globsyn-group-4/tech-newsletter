@@ -112,6 +112,16 @@ Non Medium Blogs
 
 ### Run python data-aggregation service
 
+**Install**
+
+`pip install -r data-aggregation/requirements.txt`
+
+**Run**
+
+`python data-aggregation/scrapper.py`
+
+
+***This is for first time install and run:***
 **For Linux && Mac**
 
 `pip install -r data-aggregation/requirements.txt && python data-aggregation/scrapper.py`

@@ -1,8 +1,10 @@
-import requests
-from bs4 import BeautifulSoup
+from requests import get, Request
+from bs4 import BeautifulSoup, ResultSet
 import json
 from dateutil.parser import parse
 from html import unescape
+from typing import List
+
 
 links = '''https://medium.com/airbnb-engineering/latest
 https://netflixtechblog.com/latest
@@ -61,12 +63,17 @@ https://medium.com/hevo-data-engineering/latest
 https://we-are.bookmyshow.com/latest'''
 
 
-def scrape_medium_articles(urls):
-  blogs = []
+def get_html_for_url(url: str) -> BeautifulSoup:
+  resp: Request  = get(url, verify=False)
+  soup: BeautifulSoup = BeautifulSoup(resp.content, 'html.parser')
+  return soup
+
+
+def scrape_medium_articles(urls: List[str]) -> List[dict]:
+  blogs: List[dict] = []
   for url in urls.split('\n'):
-    resp = requests.get(url)
-    soup = BeautifulSoup(resp.content, 'html.parser')
-    articlelist = soup.find_all(attrs={'class': 'postArticle'})
+    soup=get_html_for_url(url)
+    articlelist:ResultSet = soup.find_all(attrs={'class': 'postArticle'})
     for article in articlelist:
       blog = dict()
       blog['publishedDate'] = parse(
@@ -89,7 +96,7 @@ def scrape_medium_articles(urls):
           'class':
           'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
         }).text
-      print(json.dumps(blog, indent=4))
+      #print(json.dumps(blog, indent=4))
       #print(blog)
       blogs.append(blog)
   return blogs

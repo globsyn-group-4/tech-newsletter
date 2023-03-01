@@ -1,8 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from dateutil.parser import parse
+from html import unescape
 
-urls='''https://medium.com/airbnb-engineering/latest
+links = '''https://medium.com/airbnb-engineering/latest
 https://netflixtechblog.com/latest
 https://medium.com/groupon-eng/latest
 https://tech.groww.in/latest
@@ -31,7 +33,7 @@ https://medium.com/better-practices/latest
 https://medium.com/expedia-group-tech/latest
 https://medium.com/myntra-engineering/latest
 https://medium.engineering/latest
-https://medium.com/@pinterest_engineering
+https://medium.com/pinterest-engineering/latest
 https://tech.buzzfeed.com/latest
 https://medium.com/naukri-engineering/latest
 https://blog.hotstar.com/latest
@@ -50,32 +52,50 @@ https://medium.com/adidoescode/latest
 https://medium.com/decathlontechnology/latest
 https://medium.com/quantumblack/latest
 https://medium.com/tata-cliq-tech-blog/latest
-https://medium.com/picsart-engineering/latest'''
+https://medium.com/picsart-engineering/latest
+https://medium.com/payu-engineering/latest
+https://medium.com/tinder/latest
+https://medium.com/bumble-tech/latest
+https://blog.gofynd.com/latest
+https://medium.com/hevo-data-engineering/latest
+https://we-are.bookmyshow.com/latest'''
 
 
-blogs = []
+def scrape_medium_articles(urls):
+  blogs = []
+  for url in urls.split('\n'):
+    resp = requests.get(url)
+    soup = BeautifulSoup(resp.content, 'html.parser')
+    articlelist = soup.find_all(attrs={'class': 'postArticle'})
+    for article in articlelist:
+      blog = dict()
+      blog['publishedDate'] = parse(
+        article.find('time').get('datetime')).strftime("%d/%m/%Y")
+      blog['header'] = unescape(article.find('h3').text)
+      blog['subHeader'] = article.find('h4').text if article.find('h4') else ""
+      blog['blogName'] = article.find(
+        'a',
+        attrs={
+          'class':
+          'ds-link ds-link--styleSubtle link--darken link--accent u-accentColor--textNormal'
+        }).text
+      blog['articleUrl'] = article.find('a',
+                                        attrs={
+                                          'class': 'link link--darken'
+                                        }).get('href')
+      blog['author'] = article.find(
+        'a',
+        attrs={
+          'class':
+          'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
+        }).text
+      print(json.dumps(blog, indent=4))
+      #print(blog)
+      blogs.append(blog)
+  return blogs
 
-for url in urls.split('\n'):
-  resp = requests.get(url)
-  soup = BeautifulSoup(resp.content, 'html.parser')
-  articlelist = soup.find_all(attrs={'class': 'postArticle'})
-  for article in articlelist:
-    blog = dict()
-    blog['publishedDate'] = article.find('time').get('datetime')
-    blog['header'] = article.find('h3').text
-    blog['blogName'] = article.find(
-      'a',
-      attrs={
-        'class':
-        'ds-link ds-link--styleSubtle link--darken link--accent u-accentColor--textNormal'
-      }).text
-    blog['articleUrl'] = article.find('a',
-                                      attrs={
-                                        'class': 'link link--darken'
-                                      }).get('href')
 
-    #print(json.dumps(blog, indent=4))
-    blogs.append(blog)
+blogs=scrape_medium_articles(links)
 
 out_file = open("blogs.json", "w")   
 json.dump(blogs, out_file, indent = 2)

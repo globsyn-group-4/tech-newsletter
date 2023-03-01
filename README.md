@@ -106,7 +106,15 @@ Non Medium Blogs
 - https://stackoverflow.blog/engineering/
 - https://www.egnyte.com/blog/blog-tags/engineering
 
-Tech Stack:
+### Tech Stack:
 - Java 11, Maven (Middleware)
 - Python & FAST-API (Scraping API)
 - Node.js & Appwrite.io (Newsletter)
+
+### Run python data-aggregation service
+
+**For Linux && Mac**
+`pip install -r data-aggregation/requirements.txt && python data-aggregation/scrapper.py`
+
+**For Windows Powershell**
+`pip install -r data-aggregation/requirements.txt; python data-aggregation/scrapper.py`

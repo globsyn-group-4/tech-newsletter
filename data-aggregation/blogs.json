@@ -1,5 +1,105 @@
 [
   {
+    "publishedDate": "2023-01-12T17:46:59-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/product-development-process/",
+    "header": "The Power of Collaboration in Product Development"
+  },
+  {
+    "publishedDate": "2022-08-02T06:00:22-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/sapna-nair-eventbrite-vp-of-engineering-india/",
+    "header": "3 Questions With Sapna Nair \u2014\u00a0Eventbrite\u2019s New VP of Engineering in India"
+  },
+  {
+    "publishedDate": "2022-06-13T17:30:56-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/as-eventbrite-engineering-leans-into-team-owned-infrastructure-or-devops-were-learning-a-lot-of-new-technologies-in-order-to-stand-up-our-infrastructure/",
+    "header": "Monitoring Your System"
+  },
+  {
+    "publishedDate": "2022-05-02T13:03:16-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/packaging-generated-code-from-protobuf-files-for-grpc-services/",
+    "header": "Packaging generated code from protobuf files for gRPC Services"
+  },
+  {
+    "publishedDate": "2022-01-21T14:45:31-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/reflecting-on-the-eventbrite-journey-from-centralized-ops-to-devops/",
+    "header": "Reflecting on Eventbrite\u2019s Journey From Centralized Ops to DevOps"
+  },
+  {
+    "publishedDate": "2021-12-09T18:46:24-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/creating-the-eventbrite-data-vision/",
+    "header": "Crafting Eventbrite\u2019s Data Vision"
+  },
+  {
+    "publishedDate": "2021-11-01T09:00:56-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/creating-the-3-year-frontend-strategy/",
+    "header": "Creating the 3 Year Frontend Strategy"
+  },
+  {
+    "publishedDate": "2021-10-05T15:11:04-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/creating-a-3-year-frontend-vision/",
+    "header": "Creating a 3 Year Frontend Vision"
+  },
+  {
+    "publishedDate": "2021-09-01T10:16:43-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/a-day-in-the-life-of-a-technical-fellow/",
+    "header": "A day in the life of a Technical Fellow"
+  },
+  {
+    "publishedDate": "2021-08-02T00:21:16-08:00",
+    "articleUrl": "https://www.eventbrite.com/engineering/writing-our-golden-path/",
+    "header": "Writing our Golden Path"
+  },
+  {
+    "publishedDate": "Thursday, 23 February 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/twitters-blobstore-hardware-lifecycle-monitoring-and-reporting-service",
+    "header": "Twitter\u2019s Blobstore Hardware Lifecycle Monitoring and Reporting Service"
+  },
+  {
+    "publishedDate": "Thursday, 23 February 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/how-we-scaled-reads-on-the-twitter-users-database",
+    "header": "How we scaled Reads On the Twitter Users Database"
+  },
+  {
+    "publishedDate": "Thursday, 23 February 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/kerberizing-hadoop-clusters-at-twitter",
+    "header": "Kerberizing Hadoop Clusters at Twitter"
+  },
+  {
+    "publishedDate": "Wednesday, 8 February 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/the-data-platform-cluster-operator-service-for-hadoop-cluster-management",
+    "header": "The data platform cluster operator service for Hadoop cluster management"
+  },
+  {
+    "publishedDate": "Thursday, 19 January 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/constraint-management-for-cluster-operation-safety-and-reliability-at-twitter",
+    "header": "Constraint Management for cluster operation safety and reliability at Twitter"
+  },
+  {
+    "publishedDate": "Friday, 6 January 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/how-twitter-uses-rasdaemon-for-hardware-reliability",
+    "header": "How Twitter uses rasdaemon for hardware reliability"
+  },
+  {
+    "publishedDate": "Friday, 21 October 2022",
+    "articleUrl": "/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac",
+    "header": "Measuring the impact of Twitter network latency with CausalImpact"
+  },
+  {
+    "publishedDate": "Friday, 14 October 2022",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2022/stability-and-scalability-for-search",
+    "header": "Stability and scalability for search"
+  },
+  {
+    "publishedDate": "Thursday, 15 September 2022",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter",
+    "header": "Data Quality Automation at Twitter"
+  },
+  {
+    "publishedDate": "Tuesday, 28 June 2022",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2022/twitter-sparrow-tackles-data-storage-challenges-of-scale",
+    "header": "Twitter Sparrow tackles data storage challenges of scale"
+  },
+  {
     "publishedDate": "16/02/2023",
     "header": "Prioritizing Home Attributes Based on Guest\u00a0Interest",
     "subHeader": "",
@@ -2080,11 +2180,19 @@
     "author": "Fred Friis"
   },
   {
+    "publishedDate": "13/02/2023",
+    "header": "Design System in Action at Myntra: Tips for Designers and Developers",
+    "subHeader": "",
+    "blogName": "Myntra Engineering",
+    "articleUrl": "https://medium.com/myntra-engineering/design-system-in-action-at-myntra-tips-for-designers-and-developers-82b0ead11fc5?source=---------0",
+    "author": "Sunil Jhamnani"
+  },
+  {
     "publishedDate": "06/02/2023",
     "header": "Optimizing Myntra\u2019s Pricing System for Serving Millions of Traffic under 30ms\u00a0Latency",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/optimizing-myntras-pricing-system-for-serving-millions-of-traffic-with-30ms-latency-73a7057affdf?source=---------0",
+    "articleUrl": "https://medium.com/myntra-engineering/optimizing-myntras-pricing-system-for-serving-millions-of-traffic-with-30ms-latency-73a7057affdf?source=---------1",
     "author": "Nikhil Anand"
   },
   {
@@ -2092,7 +2200,7 @@
     "header": "HBase\u200a\u2014\u200aIncremental backup and restore\u00a0strategy",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/hbase-incremental-backup-and-restore-strategy-33cb9cb1de94?source=---------1",
+    "articleUrl": "https://medium.com/myntra-engineering/hbase-incremental-backup-and-restore-strategy-33cb9cb1de94?source=---------2",
     "author": "Avishek Gurung"
   },
   {
@@ -2100,7 +2208,7 @@
     "header": "Janus\u00a0: Data processing framework at\u00a0Myntra",
     "subHeader": "Data Processing framework of Myntra that combines\u2026",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/janus-data-processing-framework-at-myntra-980ba8cb15a5?source=---------2",
+    "articleUrl": "https://medium.com/myntra-engineering/janus-data-processing-framework-at-myntra-980ba8cb15a5?source=---------3",
     "author": "Kedar Gupte"
   },
   {
@@ -2108,7 +2216,7 @@
     "header": "Quicksilver: Near Real Time Platform at\u00a0Myntra",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/quicksilver-near-real-time-platform-at-myntra-9e8edf6ede91?source=---------3",
+    "articleUrl": "https://medium.com/myntra-engineering/quicksilver-near-real-time-platform-at-myntra-9e8edf6ede91?source=---------4",
     "author": "Aditya S"
   },
   {
@@ -2116,7 +2224,7 @@
     "header": "Creating a Design\u00a0System",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=---------4",
+    "articleUrl": "https://medium.com/myntra-engineering/creating-a-design-system-aa1aabe78172?source=---------5",
     "author": "Sagar Gupta"
   },
   {
@@ -2124,7 +2232,7 @@
     "header": "How we debugged: UnresolvedAddressException issue faced in DR\u00a0env.",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/how-we-debugged-unresolvedaddressexception-issue-faced-in-dr-env-f61f28a36ed1?source=---------5",
+    "articleUrl": "https://medium.com/myntra-engineering/how-we-debugged-unresolvedaddressexception-issue-faced-in-dr-env-f61f28a36ed1?source=---------6",
     "author": "Ashutosh Tripathi"
   },
   {
@@ -2132,7 +2240,7 @@
     "header": "Building Myntra\u2019s Video Platform: Part\u00a02",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-2-ba114aeea979?source=---------6",
+    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-2-ba114aeea979?source=---------7",
     "author": "Shikhar Shrivastav"
   },
   {
@@ -2140,7 +2248,7 @@
     "header": "Our Learnings from Spring upgrade across\u00a0Myntra",
     "subHeader": "Background",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/our-learnings-from-spring-upgrade-across-myntra-2f2796a11ff5?source=---------7",
+    "articleUrl": "https://medium.com/myntra-engineering/our-learnings-from-spring-upgrade-across-myntra-2f2796a11ff5?source=---------8",
     "author": "Sneha Agarwal"
   },
   {
@@ -2148,16 +2256,8 @@
     "header": "Building Myntra\u2019s Video Platform: Part\u00a01",
     "subHeader": "",
     "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-1-792c3423bc65?source=---------8",
+    "articleUrl": "https://medium.com/myntra-engineering/building-myntras-video-platform-part-1-792c3423bc65?source=---------9",
     "author": "Shikhar Shrivastav"
-  },
-  {
-    "publishedDate": "29/03/2022",
-    "header": "AUTHNZ\u200a\u2014\u200aAuthentication and Authorization in Micro-Service Architecture",
-    "subHeader": "",
-    "blogName": "Myntra Engineering",
-    "articleUrl": "https://medium.com/myntra-engineering/authnz-authentication-and-authorization-in-micro-service-architecture-8211f1722ba1?source=---------9",
-    "author": "Tanya Sharma"
   },
   {
     "publishedDate": "14/02/2023",

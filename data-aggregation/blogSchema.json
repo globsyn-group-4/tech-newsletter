@@ -1,0 +1,44 @@
+[
+    {
+        "url":"https://www.eventbrite.com/engineering/",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectionAttributeName":"rel",
+            "selectorName":"bookmark",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://blog.twitter.com/engineering/en_us",
+        "articleContainer": {
+            "tagName":"div",
+            "selectionAttributeName":"class",
+            "selectorName":"result__copy"
+        },
+        "headerContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"text"
+        }
+    }
+]

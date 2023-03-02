@@ -1,9 +1,23 @@
 from requests import get, Request
-from bs4 import BeautifulSoup, ResultSet
+from bs4 import BeautifulSoup, ResultSet, Tag
 import json
 from dateutil.parser import parse
 from html import unescape
-from typing import List
+from typing import List, Dict
+from enum import Enum
+
+
+TEXT_ATTRIBUTE="text"
+
+class METADATA_CONTAINER_NAMES(str, Enum):
+  HEADER="headerContainer"
+  URL="urlContainer"
+  DATE="publishedDateContainer"
+
+class METADATA_KEYS(str, Enum):
+  HEADER="header"
+  URL="articleUrl"
+  DATE="publishedDate"
 
 
 links = '''https://medium.com/airbnb-engineering/latest
@@ -101,8 +115,84 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
       blogs.append(blog)
   return blogs
 
+def get_key_from_container_name(container:str)->str:
+  match container:
+    case METADATA_CONTAINER_NAMES.HEADER:
+      return METADATA_KEYS.HEADER.value
+    case METADATA_CONTAINER_NAMES.DATE:
+      return METADATA_KEYS.DATE.value
+    case _:
+      return METADATA_KEYS.URL.value
 
-blogs=scrape_medium_articles(links)
+def parse_data_using_schema(
+  article_element: Tag,
+  tag_name: str = None,
+  selection_attribute_name: str = None,
+  selector_name: str = None,
+  extraction_attribute_name: str = None
+) -> str:
+  data_element = article_element.find(tag_name, attrs={selection_attribute_name:selector_name})
+  if data_element:
+    if extraction_attribute_name == TEXT_ATTRIBUTE:
+      return data_element.text if data_element.text else ""
+    data:str = data_element.get(extraction_attribute_name)
+    return data if data else ""
+  return ""
+
+
+def extract_schema_attributes(schema: dict, container_name:str):
+  article_container:Dict = schema.get(container_name)
+  tag_name:str=article_container.get("tagName")
+  selection_attribute_name:str=article_container.get("selectionAttributeName")
+  selector_name:str=article_container.get("selectorName")
+  extraction_attribute_name:str=article_container.get("extractionAttributeName")
+  return tag_name, selection_attribute_name, selector_name, extraction_attribute_name
+
+def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
+  blogs: List[dict] = []
+  for schema in schemas:
+    schema_keys: List[str] = list(schema.keys())
+    soup=get_html_for_url(schema.get(schema_keys[0]))
+    tag_name, selection_attributeName, selector_name, _ = extract_schema_attributes(
+      schema=schema, 
+      container_name=schema_keys[1]
+    )
+    article_elements:ResultSet = soup.find_all(
+      name=tag_name, 
+      attrs={
+        selection_attributeName:selector_name
+      }
+    )
+    for article_element in article_elements:
+      blog=dict()
+      for i in range(4,1,-1):
+        tag_name, selection_attribute_name, selector_name, extraction_attribute_name = extract_schema_attributes(
+          schema=schema, 
+          container_name=schema_keys[i]
+        )
+        blog[get_key_from_container_name(schema_keys[i])]=parse_data_using_schema(
+          tag_name=tag_name,
+          article_element=article_element,
+          selector_name=selector_name,
+          selection_attribute_name=selection_attribute_name,
+          extraction_attribute_name=extraction_attribute_name
+        )
+      blogs.append(blog)
+      
+  return blogs
+
+
+def parse_json_file(filename: str) -> List[Dict]:
+  with open(filename) as json_file:
+    data: List[Dict] = json.load(json_file)
+    json_file.close()
+    return data
+
+
+blog_schemas = parse_json_file("blogSchema.json")
+blogs=scrape_non_medium_articles(blog_schemas)
+medium_blogs=scrape_medium_articles(links)
+blogs.extend(medium_blogs)
 
 out_file = open("blogs.json", "w")   
 json.dump(blogs, out_file, indent = 2)

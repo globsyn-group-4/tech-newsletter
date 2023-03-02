@@ -75,6 +75,7 @@ Medium Blogs:
 - https://medium.com/invision-engineering/latest
 - https://medium.com/hashicorp-engineering/latest
 - https://medium.com/nikeengineering/latest
+- https://tech.timesinternet.in/latest
 
 Non Medium Blogs
 

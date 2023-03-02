@@ -74,6 +74,7 @@ Medium Blogs:
 - https://medium.com/revolut/latest
 - https://medium.com/invision-engineering/latest
 - https://medium.com/hashicorp-engineering/latest
+- https://medium.com/nikeengineering/latest
 
 Non Medium Blogs
 
@@ -90,7 +91,6 @@ Non Medium Blogs
 - https://fi.money/blog/categories/data-tech
 - https://www.zomato.com/blog/category/technology
 - https://blinkit.com/blog/category/technology
-- https://engineering.nike.com/
 - https://www.games24x7.com/tech-blogs/
 - https://www.notion.so/blog
 - https://zerodha.tech/

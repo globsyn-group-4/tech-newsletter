@@ -73,6 +73,7 @@ Medium Blogs:
 - https://medium.com/gong-tech-blog/latest
 - https://medium.com/revolut/latest
 - https://medium.com/invision-engineering/latest
+- https://medium.com/hashicorp-engineering/latest
 
 Non Medium Blogs
 

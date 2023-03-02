@@ -88,20 +88,20 @@ Non Medium Blogs
 - https://engineering.linkedin.com/blog (problematic)
 - https://www.twilio.com/blog (problematic)
 - https://sharechat.com/blogs (problematic)
-- https://fi.money/blog/categories/data-tech
+- https://fi.money/blog/categories/data-tech (problematic)
 - https://www.zomato.com/blog/category/technology
 - https://blinkit.com/blog/category/technology
 - https://www.games24x7.com/tech-blogs/
-- https://www.notion.so/blog
+- https://www.notion.so/blog (problematic)
 - https://zerodha.tech/
-- https://www.rudderstack.com/blog/engineering/
+- https://www.rudderstack.com/blog/engineering/ (problematic)
 - https://www.contentstack.com/blog/tech-talk/
 - https://blogrevamp.cashfree.com/category/engineering/
 - https://blog.abacus.ai/
-- https://www.rubrik.com/blog/technology
-- https://www.druva.com/category/tech-engineering/
+- https://www.rubrik.com/blog/technology (problematic)
+- https://www.druva.com/category/tech-engineering/ (problematic)
 - https://engineering.grab.com/categories/engineering/
-- https://slack.engineering/
+- https://slack.engineering/ (problematic)
 - https://doordash.engineering/blog/
 - https://about.gitlab.com/blog/categories/engineering/
 - https://www.redditinc.com/blog/topic/technology

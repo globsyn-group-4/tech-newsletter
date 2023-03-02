@@ -96,26 +96,26 @@ Non Medium Blogs
 - https://zerodha.tech/
 - https://www.rudderstack.com/blog/engineering/ (problematic)
 - https://www.contentstack.com/blog/tech-talk/
-- https://blogrevamp.cashfree.com/category/engineering/
+- https://blogrevamp.cashfree.com/category/engineering/ (problematic)
 - https://blog.abacus.ai/
 - https://www.rubrik.com/blog/technology (problematic)
 - https://www.druva.com/category/tech-engineering/ (problematic)
 - https://engineering.grab.com/categories/engineering/
 - https://slack.engineering/ (problematic)
-- https://doordash.engineering/blog/
+- https://doordash.engineering/blog/ (Tough: Date Extraction from article url)
 - https://about.gitlab.com/blog/categories/engineering/
 - https://www.redditinc.com/blog/topic/technology
-- https://auth0.com/blog/engineering/
+- https://auth0.com/blog/engineering/ (problematic)
 - https://www.docker.com/blog/category/engineering/
-- https://www.eventbrite.com/engineering/
+- https://www.eventbrite.com/engineering/ 
 - https://engineering.giphy.com/blog/
-- https://www.mongodb.com/blog/channel/engineering-blog
+- https://www.mongodb.com/blog/channel/engineering-blog (problematic)
 - https://engineering.squarespace.com/
 - https://www.databricks.com/blog/category/engineering
 - https://www.uber.com/en-IN/blog/engineering/
 - https://www.confluent.io/blog/area/technology/
 - https://www.godaddy.com/engineering/blog-posts/
-- https://blog.booking.com/
+- https://blog.booking.com/#development
 - https://stackoverflow.blog/engineering/
 - https://www.egnyte.com/blog/blog-tags/engineering
 - https://snyk.io/blog/category/engineering/

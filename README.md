@@ -125,6 +125,8 @@ Non Medium Blogs
 - https://blog.dataiku.com/topic/tech-blog
 - https://vercel.com/blog/category/engineering
 - https://circleci.com/blog/tag/engineering/
+- https://deliveroo.engineering/articles/
+- https://engineering.atspotify.com/
 - https://shopify.engineering/
 
 ### Tech Stack:

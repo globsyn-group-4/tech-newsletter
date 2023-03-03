@@ -137,14 +137,5 @@ Non Medium Blogs
 
 **Run**
 
-`python data-aggregation/scrapper.py`
-
-
-***This is for first time install and run:***
-**For Linux && Mac**
-
-`pip install -r data-aggregation/requirements.txt && python data-aggregation/scrapper.py`
-
-**For Windows Powershell**
-
-`pip install -r data-aggregation/requirements.txt; python data-aggregation/scrapper.py`
+`cd data-aggregation`
+`python scrapper.py`

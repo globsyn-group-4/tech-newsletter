@@ -82,7 +82,7 @@ Non Medium Blogs
 
 - https://blog.twitter.com/engineering/en_us
 - https://github.blog/category/engineering/
-- https://paytm.com/blog/engineering/
+- https://paytm.com/blog/engineering/ (scrapper blocker)
 - https://openai.com/blog/
 - https://engineering.salesforce.com/blog/ (problematic)
 - https://stripe.com/blog/engineering

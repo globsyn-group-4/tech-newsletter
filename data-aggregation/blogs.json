@@ -51,11 +51,6 @@
   },
   {
     "publishedDate": "Thursday, 23 February 2023",
-    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/twitters-blobstore-hardware-lifecycle-monitoring-and-reporting-service",
-    "header": "Twitter\u2019s Blobstore Hardware Lifecycle Monitoring and Reporting Service"
-  },
-  {
-    "publishedDate": "Thursday, 23 February 2023",
     "articleUrl": "/engineering/en_us/topics/infrastructure/2023/how-we-scaled-reads-on-the-twitter-users-database",
     "header": "How we scaled Reads On the Twitter Users Database"
   },
@@ -63,6 +58,11 @@
     "publishedDate": "Thursday, 23 February 2023",
     "articleUrl": "/engineering/en_us/topics/infrastructure/2023/kerberizing-hadoop-clusters-at-twitter",
     "header": "Kerberizing Hadoop Clusters at Twitter"
+  },
+  {
+    "publishedDate": "Thursday, 23 February 2023",
+    "articleUrl": "/engineering/en_us/topics/infrastructure/2023/twitters-blobstore-hardware-lifecycle-monitoring-and-reporting-service",
+    "header": "Twitter\u2019s Blobstore Hardware Lifecycle Monitoring and Reporting Service"
   },
   {
     "publishedDate": "Wednesday, 8 February 2023",
@@ -1940,11 +1940,19 @@
     "author": "Anna Lee Barber"
   },
   {
+    "publishedDate": "03/03/2023",
+    "header": "How Our Tactical Design Tweaks Created A Massive Impact for\u00a0Sellers",
+    "subHeader": "",
+    "blogName": "Meesho Tech",
+    "articleUrl": "https://medium.com/meesho-tech/how-our-tactical-design-tweaks-created-a-massive-impact-for-sellers-28d4823999b5?source=---------0",
+    "author": "Usman Zafar"
+  },
+  {
     "publishedDate": "13/02/2023",
     "header": "Digital Revolution 2.0: Transforming Rural Women Into Online Entrepreneurs",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/digital-revolution-2-0-transforming-rural-women-into-online-entrepreneurs-60be6659fe49?source=---------0",
+    "articleUrl": "https://medium.com/meesho-tech/digital-revolution-2-0-transforming-rural-women-into-online-entrepreneurs-60be6659fe49?source=---------1",
     "author": "Mangala Dilip"
   },
   {
@@ -1952,7 +1960,7 @@
     "header": "How We Reduced Drop-off on our Homepage and Helped First-Time Users Explore the App\u00a0Better",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/how-we-reduced-drop-off-on-our-homepage-and-helped-first-time-users-explore-the-app-better-7873be34e37a?source=---------1",
+    "articleUrl": "https://medium.com/meesho-tech/how-we-reduced-drop-off-on-our-homepage-and-helped-first-time-users-explore-the-app-better-7873be34e37a?source=---------2",
     "author": "Aaryan Singh"
   },
   {
@@ -1960,7 +1968,7 @@
     "header": "Catalogue Uploading Just Got Dramatically Easy for Meesho Sellers. Here\u2019s How We Did\u00a0It!",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/catalogue-uploading-just-got-dramatically-easy-for-meesho-sellers-heres-how-we-did-it-44e4cf639e8?source=---------2",
+    "articleUrl": "https://medium.com/meesho-tech/catalogue-uploading-just-got-dramatically-easy-for-meesho-sellers-heres-how-we-did-it-44e4cf639e8?source=---------3",
     "author": "Mangala Dilip"
   },
   {
@@ -1968,7 +1976,7 @@
     "header": "A Deep Dive Into Platform Engineering with Indroneel Das",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/tech-deep-dive-platform-engineering-indroneel-das-a7cdb381b1c4?source=---------3",
+    "articleUrl": "https://medium.com/meesho-tech/tech-deep-dive-platform-engineering-indroneel-das-a7cdb381b1c4?source=---------4",
     "author": "Shivam Raj"
   },
   {
@@ -1976,7 +1984,7 @@
     "header": "A Budding Researcher\u2019s Journey Understanding Meesho\u2019s Unique User\u00a0Base",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/a-budding-researchers-journey-understanding-meesho-s-unique-user-base-bf84ed8f40d4?source=---------4",
+    "articleUrl": "https://medium.com/meesho-tech/a-budding-researchers-journey-understanding-meesho-s-unique-user-base-bf84ed8f40d4?source=---------5",
     "author": "Megha Bawa"
   },
   {
@@ -1984,7 +1992,7 @@
     "header": "#GrowWithMeesho\u200a\u2014\u200aHow Darshan Naik Landed His Dream Job of SDE Without a CS\u00a0Degree",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/tech-grow-with-meesho-software-engineer-without-cs-degree-c3071e6470ad?source=---------5",
+    "articleUrl": "https://medium.com/meesho-tech/tech-grow-with-meesho-software-engineer-without-cs-degree-c3071e6470ad?source=---------6",
     "author": "Shivam Raj"
   },
   {
@@ -1992,7 +2000,7 @@
     "header": "Product Management 101: Do\u2019s and Don\u2019ts of User Interviews",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/product-management-101-dos-and-don-ts-of-user-interviews-c90f49276ae0?source=---------6",
+    "articleUrl": "https://medium.com/meesho-tech/product-management-101-dos-and-don-ts-of-user-interviews-c90f49276ae0?source=---------7",
     "author": "Divyang Saxena"
   },
   {
@@ -2000,7 +2008,7 @@
     "header": "How a conversational design led to an 8% increase in ad\u00a0revenue",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/how-a-conversational-design-led-to-an-8-increase-in-ad-revenue-14f9c68283de?source=---------7",
+    "articleUrl": "https://medium.com/meesho-tech/how-a-conversational-design-led-to-an-8-increase-in-ad-revenue-14f9c68283de?source=---------8",
     "author": "Arun KP"
   },
   {
@@ -2008,16 +2016,8 @@
     "header": "How Micro-frontend Architecture Reduced Meesho\u2019s Dependencies and Accelerated Code\u00a0Delivery",
     "subHeader": "",
     "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/how-micro-frontend-architecture-reduced-meeshos-dependencies-and-accelerated-code-delivery-1b8a42075318?source=---------8",
+    "articleUrl": "https://medium.com/meesho-tech/how-micro-frontend-architecture-reduced-meeshos-dependencies-and-accelerated-code-delivery-1b8a42075318?source=---------9",
     "author": "Ayush Koshta"
-  },
-  {
-    "publishedDate": "21/10/2022",
-    "header": "We helped long-tail sellers succeed massively during Diwali 2022: Here\u2019s\u00a0how",
-    "subHeader": "Read how Meesho drove\u00a0a\u2026",
-    "blogName": "Meesho Tech",
-    "articleUrl": "https://medium.com/meesho-tech/we-helped-long-tail-sellers-succeed-massively-during-diwali-2022-heres-how-fa8b2b584433?source=---------9",
-    "author": "Sheeba Mammen"
   },
   {
     "publishedDate": "09/02/2023",

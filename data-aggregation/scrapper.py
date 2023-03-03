@@ -14,7 +14,7 @@ class METADATA_CONTAINER_NAMES(str, Enum):
   URL="urlContainer"
   DATE="publishedDateContainer"
 
-class METADATA_KEYS(str, Enum):
+class BLOG_METADATA_KEYS(str, Enum):
   HEADER="header"
   URL="articleUrl"
   DATE="publishedDate"
@@ -110,28 +110,26 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
           'class':
           'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
         }).text
-      #print(json.dumps(blog, indent=4))
-      #print(blog)
       blogs.append(blog)
   return blogs
 
 def get_key_from_container_name(container:str)->str:
   match container:
     case METADATA_CONTAINER_NAMES.HEADER:
-      return METADATA_KEYS.HEADER.value
+      return BLOG_METADATA_KEYS.HEADER.value
     case METADATA_CONTAINER_NAMES.DATE:
-      return METADATA_KEYS.DATE.value
+      return BLOG_METADATA_KEYS.DATE.value
     case _:
-      return METADATA_KEYS.URL.value
+      return BLOG_METADATA_KEYS.URL.value
 
 def parse_data_using_schema(
   article_element: Tag,
   tag_name: str = None,
-  selection_attribute_name: str = None,
   selector_name: str = None,
+  selector_value: str = None,
   extraction_attribute_name: str = None
 ) -> str:
-  data_element = article_element.find(tag_name, attrs={selection_attribute_name:selector_name})
+  data_element = article_element.find(tag_name, attrs={selector_name:selector_value})
   if data_element:
     if extraction_attribute_name == TEXT_ATTRIBUTE:
       return data_element.text if data_element.text else ""
@@ -143,40 +141,52 @@ def parse_data_using_schema(
 def extract_schema_attributes(schema: dict, container_name:str):
   article_container:Dict = schema.get(container_name)
   tag_name:str=article_container.get("tagName")
-  selection_attribute_name:str=article_container.get("selectionAttributeName")
   selector_name:str=article_container.get("selectorName")
+  selector_value:str=article_container.get("selectorValue")
   extraction_attribute_name:str=article_container.get("extractionAttributeName")
-  return tag_name, selection_attribute_name, selector_name, extraction_attribute_name
+  return tag_name, selector_name, selector_value, extraction_attribute_name
+
+def form_blog_meta_data(
+  article_element: Tag,
+  schema:dict,
+  schema_keys: List[str]
+) -> Dict:
+  blog=dict()
+  for i in range(4,1,-1):
+    tag_name, selector_name, selector_value, extraction_attribute_name = extract_schema_attributes(
+      schema=schema, 
+      container_name=schema_keys[i]
+    )
+    blog[get_key_from_container_name(schema_keys[i])]=parse_data_using_schema(
+      tag_name=tag_name,
+      article_element=article_element,
+      selector_value=selector_value,
+      selector_name=selector_name,
+      extraction_attribute_name=extraction_attribute_name
+    )
+  return blog
 
 def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
   blogs: List[dict] = []
   for schema in schemas:
     schema_keys: List[str] = list(schema.keys())
     soup=get_html_for_url(schema.get(schema_keys[0]))
-    tag_name, selection_attributeName, selector_name, _ = extract_schema_attributes(
+    tag_name, selector_name, selector_value, _ = extract_schema_attributes(
       schema=schema, 
       container_name=schema_keys[1]
     )
     article_elements:ResultSet = soup.find_all(
       name=tag_name, 
       attrs={
-        selection_attributeName:selector_name
+        selector_name:selector_value
       }
     )
     for article_element in article_elements:
-      blog=dict()
-      for i in range(4,1,-1):
-        tag_name, selection_attribute_name, selector_name, extraction_attribute_name = extract_schema_attributes(
-          schema=schema, 
-          container_name=schema_keys[i]
-        )
-        blog[get_key_from_container_name(schema_keys[i])]=parse_data_using_schema(
-          tag_name=tag_name,
-          article_element=article_element,
-          selector_name=selector_name,
-          selection_attribute_name=selection_attribute_name,
-          extraction_attribute_name=extraction_attribute_name
-        )
+      blog=form_blog_meta_data(
+        article_element=article_element,
+        schema=schema,
+        schema_keys=schema_keys
+      )
       blogs.append(blog)
       
   return blogs

@@ -10,8 +10,8 @@
         },
         "urlContainer": {
             "tagName": "a",
-            "selectionAttributeName":"rel",
-            "selectorName":"bookmark",
+            "selectorName":"rel",
+            "selectorValue":"bookmark",
             "extractionAttributeName":"href",
             "urltype": "COMPLETE"
         },
@@ -24,8 +24,8 @@
         "url":"https://blog.twitter.com/engineering/en_us",
         "articleContainer": {
             "tagName":"div",
-            "selectionAttributeName":"class",
-            "selectorName":"result__copy"
+            "selectorName":"class",
+            "selectorValue":"result__copy"
         },
         "headerContainer": {
             "tagName": "a",

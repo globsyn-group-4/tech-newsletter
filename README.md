@@ -76,10 +76,12 @@ Medium Blogs:
 - https://medium.com/hashicorp-engineering/latest
 - https://medium.com/nikeengineering/latest
 - https://tech.timesinternet.in/latest
+- https://medium.com/wix-engineering/latest
 
 Non Medium Blogs
 
 - https://blog.twitter.com/engineering/en_us
+- https://github.blog/category/engineering/
 - https://paytm.com/blog/engineering/
 - https://openai.com/blog/
 - https://engineering.salesforce.com/blog/ (problematic)
@@ -123,6 +125,7 @@ Non Medium Blogs
 - https://blog.dataiku.com/topic/tech-blog
 - https://vercel.com/blog/category/engineering
 - https://circleci.com/blog/tag/engineering/
+- https://shopify.engineering/
 
 ### Tech Stack:
 - Java 11, Maven (Middleware)

@@ -100,6 +100,496 @@
     "header": "Twitter Sparrow tackles data storage challenges of scale"
   },
   {
+    "publishedDate": "1 Mar 2023 | 10 min read",
+    "articleUrl": "/securing-gitops-pipeline",
+    "header": "\nSecuring GitOps pipelines\n"
+  },
+  {
+    "publishedDate": "21 Feb 2023 | 4 min read",
+    "articleUrl": "/geohash-plugin",
+    "header": "\nNew zoom freezing feature for Geohash plugin\n"
+  },
+  {
+    "publishedDate": "5 Jan 2023 | 7 min read",
+    "articleUrl": "/graph-service-platform",
+    "header": "\nGraph service platform\n"
+  },
+  {
+    "publishedDate": "7 Dec 2022 | 9 min read",
+    "articleUrl": "/zero-trust-with-kafka",
+    "header": "\nZero trust with Kafka\n"
+  },
+  {
+    "publishedDate": "1 Dec 2022 | 8 min read",
+    "articleUrl": "/kartacam-powers-grabmaps",
+    "header": "\nHow KartaCam\u00a0powers GrabMaps\n"
+  },
+  {
+    "publishedDate": "24 Nov 2022 | 9 min read",
+    "articleUrl": "/graph-for-fraud-detection",
+    "header": "\nGraph for fraud detection\n"
+  },
+  {
+    "publishedDate": "16 Nov 2022 | 6 min read",
+    "articleUrl": "/query-expansion-based-on-user-behaviour",
+    "header": "\nQuery expansion based on user behaviour\n"
+  },
+  {
+    "publishedDate": "25 Oct 2022 | 12 min read",
+    "articleUrl": "/using-mobile-sensor-data-to-encourage-safer-driving",
+    "header": "\nUsing mobile sensor data to encourage safer driving\n"
+  },
+  {
+    "publishedDate": "8 Sep 2022 | 6 min read",
+    "articleUrl": "/automatic-rule-backtesting",
+    "header": "\nAutomatic rule backtesting with large quantities of data\n"
+  },
+  {
+    "publishedDate": "15 Aug 2022 | 9 min read",
+    "articleUrl": "/how-we-store-millions-orders",
+    "header": "\nHow we store and process millions of orders daily\n"
+  },
+  {
+    "publishedDate": "13 Jul 2022 | 8 min read",
+    "articleUrl": "/automated-faq",
+    "header": "\nHow we automated FAQ responses at Grab\n"
+  },
+  {
+    "publishedDate": "30 Jun 2022 | 5 min read",
+    "articleUrl": "/graph-visualisation",
+    "header": "\nGraph Networks - 10X investigation with Graph Visualisations\n"
+  },
+  {
+    "publishedDate": "9 Jun 2022 | 12 min read",
+    "articleUrl": "/facial-recognition",
+    "header": "\nHow facial recognition technology keeps you safe\n"
+  },
+  {
+    "publishedDate": "2 Jun 2022 | 15 min read",
+    "articleUrl": "/graph-concepts",
+    "header": "\nGraph concepts and applications\n"
+  },
+  {
+    "publishedDate": "30 May 2022 | 7 min read",
+    "articleUrl": "/automated-experiment-analysis",
+    "header": "\nAutomated Experiment Analysis - Making experimental analysis scalable\n"
+  },
+  {
+    "publishedDate": "17 May 2022 | 5 min read",
+    "articleUrl": "/search-architecture-revamp",
+    "header": "\nSearch architecture revamp\n"
+  },
+  {
+    "publishedDate": "4 May 2022 | 4 min read",
+    "articleUrl": "/doc-as-code",
+    "header": "\nEmbracing a Docs-as-Code approach\n"
+  },
+  {
+    "publishedDate": "28 Apr 2022 | 4 min read",
+    "articleUrl": "/graph-networks",
+    "header": "\nGraph Networks - Striking fraud syndicates in the dark\n"
+  },
+  {
+    "publishedDate": "19 Apr 2022 | 8 min read",
+    "articleUrl": "/how-we-reduced-our-ci-yaml",
+    "header": "\nHow we reduced our CI YAML files from 1800 lines to 50 lines\n"
+  },
+  {
+    "publishedDate": "6 Apr 2022 | 8 min read",
+    "articleUrl": "/kafka-connect",
+    "header": "\nHow Kafka Connect helps move data seamlessly\n"
+  },
+  {
+    "publishedDate": "1 Apr 2022 | 7 min read",
+    "articleUrl": "/supporting-large-campaigns-at-scale",
+    "header": "\nSupporting large campaigns at scale\n"
+  },
+  {
+    "publishedDate": "24 Mar 2022 | 5 min read",
+    "articleUrl": "/telematics-at-grab",
+    "header": "\nHow telematics helps Grab to improve safety\n"
+  },
+  {
+    "publishedDate": "14 Mar 2022 | 10 min read",
+    "articleUrl": "/real-time-data-ingestion",
+    "header": "\nReal-time data ingestion in Grab\n"
+  },
+  {
+    "publishedDate": "1 Mar 2022 | 10 min read",
+    "articleUrl": "/abacus-issuing-points-for-multiple-sources",
+    "header": "\nAbacus - Issuing points for multiple sources\n"
+  },
+  {
+    "publishedDate": "18 Feb 2022 | 8 min read",
+    "articleUrl": "/exposing-kafka-cluster",
+    "header": "\nExposing a Kafka Cluster via a VPC Endpoint Service\n"
+  },
+  {
+    "publishedDate": "27 Sep 2021 | 11 min read",
+    "articleUrl": "/search-indexing-optimisation",
+    "header": "\nSearch indexing optimisation\n"
+  },
+  {
+    "publishedDate": "1 Sep 2021 | 6 min read",
+    "articleUrl": "/multi-armed-bandit-system-recommendation",
+    "header": "\nAutomating Multi-Armed Bandit testing during feature rollout\n"
+  },
+  {
+    "publishedDate": "26 Jul 2021 | 15 min read",
+    "articleUrl": "/protecting-personal-data-in-grabs-imagery",
+    "header": "\nProtecting Personal Data in Grab's Imagery\n"
+  },
+  {
+    "publishedDate": "19 Jul 2021 | 9 min read",
+    "articleUrl": "/processing-etl-tasks-with-ratchet",
+    "header": "\nProcessing ETL tasks with Ratchet\n"
+  },
+  {
+    "publishedDate": "13 Jul 2021 | 5 min read",
+    "articleUrl": "/app-modularisation-at-scale",
+    "header": "\nApp Modularisation at Scale\n"
+  },
+  {
+    "publishedDate": "30 Jun 2021 | 8 min read",
+    "articleUrl": "/debugging-high-latency-market-store",
+    "header": "\nDebugging High Latency Due to Context Leaks\n"
+  },
+  {
+    "publishedDate": "24 May 2021 | 9 min read",
+    "articleUrl": "/building-hyper-self-service-distributed-tracing-feedback-system",
+    "header": "\nBuilding a Hyper Self-Service, Distributed Tracing and Feedback System for Rule & Machine Learning (ML) Predictions\n"
+  },
+  {
+    "publishedDate": "10 May 2021 | 9 min read",
+    "articleUrl": "/our-journey-to-continuous-delivery-at-grab-part2",
+    "header": "\nOur Journey to Continuous Delivery at Grab (Part 2)\n"
+  },
+  {
+    "publishedDate": "19 Apr 2021 | 11 min read",
+    "articleUrl": "/how-we-improved-agent-chat-efficiency-with-ml",
+    "header": "\nHow We Improved Agent Chat Efficiency with Machine Learning\n"
+  },
+  {
+    "publishedDate": "22 Mar 2021 | 5 min read",
+    "articleUrl": "/learn-how-grab-leveraged-performance-marketing-automation",
+    "header": "\nHow Grab Leveraged Performance Marketing Automation to Improve Conversion Rates by 30%\n"
+  },
+  {
+    "publishedDate": "23 Feb 2021 | 7 min read",
+    "articleUrl": "/reducing-your-go-binary-size",
+    "header": "\nOne Small Step Closer to Containerising Service Binaries\n"
+  },
+  {
+    "publishedDate": "5 Feb 2021 | 11 min read",
+    "articleUrl": "/customer-support-workforce-routing",
+    "header": "\nCustomer Support Workforce Routing\n"
+  },
+  {
+    "publishedDate": "26 Jan 2021 | 9 min read",
+    "articleUrl": "/mirror-cache-blog",
+    "header": "\nServing Driver-partners Data at Scale Using Mirror Cache\n"
+  },
+  {
+    "publishedDate": "13 Jan 2021 | 15 min read",
+    "articleUrl": "/trident-real-time-event-processing-at-scale",
+    "header": "\nTrident - Real-time Event Processing at Scale\n"
+  },
+  {
+    "publishedDate": "22 Dec 2020 | 15 min read",
+    "articleUrl": "/pharos-searching-nearby-drivers-on-road-network-at-scale",
+    "header": "\nPharos - Searching Nearby Drivers on Road Network at Scale\n"
+  },
+  {
+    "publishedDate": "3 Dec 2020 | 15 min read",
+    "articleUrl": "/how-grab-is-blazing-through-the-super-app-bazel-migration",
+    "header": "\nHow Grab is Blazing Through the Superapp Bazel Migration\n"
+  },
+  {
+    "publishedDate": "23 Nov 2020 | 10 min read",
+    "articleUrl": "/democratising-fare-storage-at-scale-using-event-sourcing",
+    "header": "\nDemocratising Fare Storage at Scale Using Event Sourcing\n"
+  },
+  {
+    "publishedDate": "30 Oct 2020 | 6 min read",
+    "articleUrl": "/keeping-170-libraries-up-to-date-on-a-large-scale-android-app",
+    "header": "\nKeeping 170 Libraries Up to Date on a Large Scale Android App\n"
+  },
+  {
+    "publishedDate": "13 Oct 2020 | 6 min read",
+    "articleUrl": "/optimally-scaling-kafka-consumer-applications",
+    "header": "\nOptimally Scaling Kafka Consumer Applications\n"
+  },
+  {
+    "publishedDate": "23 Sep 2020 | 16 min read",
+    "articleUrl": "/our-journey-to-continuous-delivery-at-grab",
+    "header": "\nOur Journey to Continuous Delivery at Grab (Part 1)\n"
+  },
+  {
+    "publishedDate": "7 Sep 2020 | 7 min read",
+    "articleUrl": "/uncovering-the-truth-behind-lua-and-redis-data-consistency",
+    "header": "\nUncovering the Truth Behind Lua and Redis Data Consistency\n"
+  },
+  {
+    "publishedDate": "24 Aug 2020 | 10 min read",
+    "articleUrl": "/data-gateway",
+    "header": "\nSecuring and Managing Multi-cloud Presto Clusters with Grab\u2019s DataGateway\n"
+  },
+  {
+    "publishedDate": "12 Aug 2020 | 5 min read",
+    "articleUrl": "/go-module-a-guide-for-monorepos-part-2",
+    "header": "\nGo Modules- A Guide for monorepos (Part 2)\n"
+  },
+  {
+    "publishedDate": "14 Jul 2020 | 11 min read",
+    "articleUrl": "/the-journey-of-deploying-apache-airflow-at-Grab",
+    "header": "\nThe Journey of Deploying Apache Airflow at Grab\n"
+  },
+  {
+    "publishedDate": "29 Jun 2020 | 13 min read",
+    "articleUrl": "/how-we-built-our-in-house-chat-platform-for-the-web",
+    "header": "\nHow We Built Our In-house Chat Platform for the Web\n"
+  },
+  {
+    "publishedDate": "29 May 2020 | 7 min read",
+    "articleUrl": "/go-module-a-guide-for-monorepos-part-1",
+    "header": "\nGo Modules- A Guide for monorepos (Part 1)\n"
+  },
+  {
+    "publishedDate": "16 Mar 2020 | 11 min read",
+    "articleUrl": "/tackling-ui-test-execution-time-imbalance-for-xcode-parallel-testing",
+    "header": "\nTackling UI Test Execution Time Imbalance for Xcode Parallel Testing\n"
+  },
+  {
+    "publishedDate": "25 Feb 2020 | 5 min read",
+    "articleUrl": "/returning-storage-space-back-to-our-users",
+    "header": "\nReturning 575\u00a0Terabytes of Storage Space to Our Users\n"
+  },
+  {
+    "publishedDate": "20 Feb 2020 | 7 min read",
+    "articleUrl": "/grab-posisi",
+    "header": "\nGrab-Posisi - Southeast Asia\u2019s First Comprehensive GPS Trajectory Dataset\n"
+  },
+  {
+    "publishedDate": "8 Jan 2020 | 5 min read",
+    "articleUrl": "/preventing-app-performance-degradation-due-to-sudden-ride-demand-spikes",
+    "header": "\nHow We Prevented App Performance Degradation from Sudden Ride Demand Spikes\n"
+  },
+  {
+    "publishedDate": "6 Jan 2020 | 12 min read",
+    "articleUrl": "/plumbing-at-scale",
+    "header": "\nPlumbing At Scale\n"
+  },
+  {
+    "publishedDate": "26 Dec 2019 | 12 min read",
+    "articleUrl": "/journey-to-a-faster-everyday-super-app",
+    "header": "\nJourney to a Faster Everyday Superapp Where Every Millisecond Counts\n"
+  },
+  {
+    "publishedDate": "23 Dec 2019 | 9 min read",
+    "articleUrl": "/marionette-enabling-e2e-user-scenario-simulation",
+    "header": "\nMarionette - Enabling E2E User-scenario Simulation\n"
+  },
+  {
+    "publishedDate": "21 Nov 2019 | 9 min read",
+    "articleUrl": "/domain-driven-development-in-golang",
+    "header": "\nHow We Implemented Domain-Driven Development in Golang\n"
+  },
+  {
+    "publishedDate": "28 Oct 2019 | 13 min read",
+    "articleUrl": "/griffin",
+    "header": "\nGriffin, an Anti-fraud Risk Rule Engine Making Billions of Predictions Daily\n"
+  },
+  {
+    "publishedDate": "21 Oct 2019 | 10 min read",
+    "articleUrl": "/using-grabs-trust-counter-service-to-detect-fraud-successfully",
+    "header": "\nUsing Grab\u2019s Trust Counter Service to\u00a0Detect Fraud Successfully\n"
+  },
+  {
+    "publishedDate": "25 Sep 2019 | 7 min read",
+    "articleUrl": "/about-being-a-principal-engineer-at-grab",
+    "header": "\nBeing a Principal Engineer at Grab\n"
+  },
+  {
+    "publishedDate": "1 Aug 2019 | 11 min read",
+    "articleUrl": "/data-first-sla-always",
+    "header": "\nData First, SLA Always\n"
+  },
+  {
+    "publishedDate": "31 Jul 2019 | 11 min read",
+    "articleUrl": "/how-built-logging-stack",
+    "header": "\nHow We Built a Logging Stack at Grab\n"
+  },
+  {
+    "publishedDate": "2 Jul 2019 | 12 min read",
+    "articleUrl": "/catwalk-serving-machine-learning-models-at-scale",
+    "header": "\nCatwalk: Serving Machine Learning Models at Scale\n"
+  },
+  {
+    "publishedDate": "30 May 2019 | 7 min read",
+    "articleUrl": "/react-native-in-grabpay",
+    "header": "\nReact\u00a0Native in GrabPay\n"
+  },
+  {
+    "publishedDate": "5 May 2019 | 9 min read",
+    "articleUrl": "/preventing-pipeline-calls-from-crashing-redis-clusters",
+    "header": "\nPreventing Pipeline Calls from Crashing Redis Clusters\n"
+  },
+  {
+    "publishedDate": "10 Apr 2019 | 10 min read",
+    "articleUrl": "/loki-dynamic-mock-server-http-tcp-testing",
+    "header": "\nLoki, a Dynamic Mock Server for HTTP/TCP Testing\n"
+  },
+  {
+    "publishedDate": "27 Mar 2019 | 6 min read",
+    "articleUrl": "/beyond-retries-part-3",
+    "header": "\nDesigning Resilient Systems Beyond Retries (Part 3): Architecture Patterns and Chaos Engineering\n"
+  },
+  {
+    "publishedDate": "25 Mar 2019 | 8 min read",
+    "articleUrl": "/beyond-retries-part-2",
+    "header": "\nDesigning Resilient Systems Beyond Retries (Part 2): Bulkheading, Load Balancing, and Fallbacks\n"
+  },
+  {
+    "publishedDate": "20 Mar 2019 | 7 min read",
+    "articleUrl": "/beyond-retries-part-1",
+    "header": "\nDesigning Resilient Systems Beyond Retries (Part 1): Rate-Limiting\n"
+  },
+  {
+    "publishedDate": "11 Mar 2019 | 19 min read",
+    "articleUrl": "/context-deadlines-and-how-to-set-them",
+    "header": "\nContext Deadlines and How to Set Them\n"
+  },
+  {
+    "publishedDate": "7 Mar 2019 | 12 min read",
+    "articleUrl": "/peak-shift-demand-travel-trends",
+    "header": "\nRecipe for Building a Widget: How We Helped to \u201cPeak-Shift\u201d Demand by Helping Passengers Understand Travel Trends\n"
+  },
+  {
+    "publishedDate": "5 Mar 2019 | 13 min read",
+    "articleUrl": "/structured-logging",
+    "header": "\nStructured Logging: The Best Friend You\u2019ll Want When Things Go Wrong\n"
+  },
+  {
+    "publishedDate": "3 Mar 2019 | 9 min read",
+    "articleUrl": "/data-ingestion-transformation-product-insights",
+    "header": "\nHow We Simplified Our Data Ingestion & Transformation Process\n"
+  },
+  {
+    "publishedDate": "16 Jan 2019 | 15 min read",
+    "articleUrl": "/experimentation-platform-data-pipeline",
+    "header": "\nA Lean and Scalable Data Pipeline to Capture Large Scale Events and Support Experimentation Platform\n"
+  },
+  {
+    "publishedDate": "8 Jan 2019 | 14 min read",
+    "articleUrl": "/designing-resilient-systems-part-2",
+    "header": "\nDesigning Resilient Systems: Circuit Breakers or Retries? (Part 2)\n"
+  },
+  {
+    "publishedDate": "2 Jan 2019 | 10 min read",
+    "articleUrl": "/big-data-real-time-presto-talariadb",
+    "header": "\nQuerying Big Data in Real-time with Presto & Grab's TalariaDB\n"
+  },
+  {
+    "publishedDate": "21 Dec 2018 | 17 min read",
+    "articleUrl": "/designing-resilient-systems-part-1",
+    "header": "\nDesigning Resilient Systems: Circuit Breakers or Retries? (Part 1)\n"
+  },
+  {
+    "publishedDate": "23 Nov 2018 | 7 min read",
+    "articleUrl": "/chaos-engineering",
+    "header": "\nOrchestrating Chaos Using Grab's Experimentation Platform\n"
+  },
+  {
+    "publishedDate": "2 Nov 2018 | 12 min read",
+    "articleUrl": "/feature-toggles-ab-testing",
+    "header": "\nReliable and Scalable Feature Toggles and A/B Testing SDK at Grab\n"
+  },
+  {
+    "publishedDate": "18 Sep 2018 | 9 min read",
+    "articleUrl": "/mockers",
+    "header": "\nMockers - Overcoming Testing Challenges at Grab\n"
+  },
+  {
+    "publishedDate": "10 Aug 2018 | 11 min read",
+    "articleUrl": "/quotas-service",
+    "header": "\nHow We Designed the Quotas Microservice to Prevent Resource Abuse\n"
+  },
+  {
+    "publishedDate": "13 Jul 2018 | 8 min read",
+    "articleUrl": "/building-grab-s-experimentation-platform",
+    "header": "\nBuilding Grab\u2019s Experimentation Platform\n"
+  },
+  {
+    "publishedDate": "8 Jun 2018 | 6 min read",
+    "articleUrl": "/introducing-grab-kit",
+    "header": "\nIntroducing Grab-Kit: Distributed Service Design at Grab\n"
+  },
+  {
+    "publishedDate": "29 Jan 2018 | 14 min read",
+    "articleUrl": "/deep-dive-into-database-timeouts-in-rails",
+    "header": "\nDeep Dive into Database Timeouts in Rails\n"
+  },
+  {
+    "publishedDate": "7 Jan 2018 | 6 min read",
+    "articleUrl": "/dealing-with-the-meltdown-patch-at-grab",
+    "header": "\nDealing with the Meltdown Patch at Grab\n"
+  },
+  {
+    "publishedDate": "4 Oct 2017 | 8 min read",
+    "articleUrl": "/the-art-of-hiring-good-engineers",
+    "header": "\nThe Art of Hiring Good Engineers\n"
+  },
+  {
+    "publishedDate": "8 Aug 2017 | 7 min read",
+    "articleUrl": "/migrating-existing-datastores",
+    "header": "\nMigrating Existing Datastores\n"
+  },
+  {
+    "publishedDate": "24 Jul 2017 | 6 min read",
+    "articleUrl": "/so-you-need-to-hire-good-engineers",
+    "header": "\nSo You Need to Hire Good Engineers\n"
+  },
+  {
+    "publishedDate": "11 Jul 2017 | 2 min read",
+    "articleUrl": "/come-and-hackallthethings-at-grab",
+    "header": "\nCome and #hackallthethings at Grab\n"
+  },
+  {
+    "publishedDate": "3 Jun 2017 | 26 min read",
+    "articleUrl": "/grabs-front-end-study-guide",
+    "header": "\nGrab's Front End Study Guide\n"
+  },
+  {
+    "publishedDate": "21 May 2017 | 7 min read",
+    "articleUrl": "/driving-southeast-asia-forward-with-aws",
+    "header": "\nDriving Southeast Asia Forward with AWS\n"
+  },
+  {
+    "publishedDate": "1 May 2017 | 11 min read",
+    "articleUrl": "/scaling-like-a-boss-with-presto",
+    "header": "\nScaling Like a Boss with Presto\n"
+  },
+  {
+    "publishedDate": "23 Apr 2017 | 5 min read",
+    "articleUrl": "/deep-dive-into-ios-automation-at-grab-continuous-delivery",
+    "header": "\nDeep Dive into iOS Automation at Grab - Continuous Delivery\n"
+  },
+  {
+    "publishedDate": "16 Feb 2017 | 7 min read",
+    "articleUrl": "/how-grab-hires-engineers-in-singapore",
+    "header": "\nHow Grab Hires Engineers in Singapore\n"
+  },
+  {
+    "publishedDate": "18 Jan 2017 | 3 min read",
+    "articleUrl": "/battling-with-tech-giants-for-the-worlds-best-talent",
+    "header": "\nBattling with Tech Giants for the World's Best Talent\n"
+  },
+  {
+    "publishedDate": "18 Oct 2016 | 7 min read",
+    "articleUrl": "/zero-downtime-migration",
+    "header": "\nThis Rocket Ain't Stopping - Achieving Zero Downtime for Rails to Golang API Migration\n"
+  },
+  {
     "publishedDate": "16/02/2023",
     "header": "Prioritizing Home Attributes Based on Guest\u00a0Interest",
     "subHeader": "",

@@ -40,5 +40,30 @@
             "tagName": "time",
             "extractionAttributeName":"text"
         }
+    },
+    {
+        "url":"https://engineering.grab.com/categories/engineering/",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"col-sm-7"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"post-title-small",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"post-date",
+            "extractionAttributeName":"text"
+        }
     }
 ]

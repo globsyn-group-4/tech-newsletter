@@ -135,6 +135,7 @@ Non Medium Blogs
 - https://www.builder.io/blog
 - https://tech.clevertap.com/category/engineering/
 - https://techblog.wikimedia.org/
+- https://www.theguardian.com/info/series/engineering-blog
 
 ### Tech Stack:
 - Java 11, Maven (Middleware)

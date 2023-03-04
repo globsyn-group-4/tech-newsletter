@@ -92,8 +92,8 @@ Non Medium Blogs
 - https://www.twilio.com/blog (problematic)
 - https://sharechat.com/blogs (problematic)
 - https://fi.money/blog/categories/data-tech (problematic)
-- https://www.zomato.com/blog/category/technology
-- https://blinkit.com/blog/category/technology
+- https://www.zomato.com/blog/category/technology (problematic)
+- https://blinkit.com/blog/category/technology (problematic)
 - https://www.games24x7.com/tech-blogs/
 - https://www.notion.so/blog (problematic)
 - https://zerodha.tech/

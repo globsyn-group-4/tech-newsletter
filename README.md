@@ -128,6 +128,13 @@ Non Medium Blogs
 - https://deliveroo.engineering/articles/
 - https://engineering.atspotify.com/
 - https://shopify.engineering/
+- https://blog.heroku.com/engineering
+- https://engineeringblog.yelp.com/
+- https://developers.soundcloud.com/blog/
+- https://tech.ebayinc.com/engineering/
+- https://www.builder.io/blog
+- https://tech.clevertap.com/category/engineering/
+- https://techblog.wikimedia.org/
 
 ### Tech Stack:
 - Java 11, Maven (Middleware)

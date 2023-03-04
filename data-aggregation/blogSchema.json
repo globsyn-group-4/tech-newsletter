@@ -1,26 +1,5 @@
 [
     {
-        "url":"https://www.eventbrite.com/engineering/",
-        "articleContainer": {
-            "tagName":"article"
-        },
-        "headerContainer": {
-            "tagName": "h3",
-            "extractionAttributeName":"text"
-        },
-        "urlContainer": {
-            "tagName": "a",
-            "selectorName":"rel",
-            "selectorValue":"bookmark",
-            "extractionAttributeName":"href",
-            "urltype": "COMPLETE"
-        },
-        "publishedDateContainer": {
-            "tagName": "time",
-            "extractionAttributeName":"datetime"
-        }
-    },
-    {
         "url":"https://blog.twitter.com/engineering/en_us",
         "articleContainer": {
             "tagName":"div",
@@ -39,6 +18,164 @@
         "publishedDateContainer": {
             "tagName": "time",
             "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://github.blog/category/engineering/",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"Link--primary",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://openai.com/blog",
+        "articleContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"ui-link group relative cursor-pointer"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"sr-only",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://stripe.com/blog/engineering",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h1",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"Link BlogIndexPost__titleLink",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://engineering.linkedin.com/blog",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"post"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"heading-link",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"timestamp",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://www.games24x7.com/tech-blogs/",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"premium-blog-post-container premium-blog-skin-classic"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"elementor-icon",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "div",
+            "selectorName":"class",
+            "selectorValue":"premium-blog-post-time premium-blog-meta-data",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://zerodha.tech/",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"post blurb"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "div",
+            "selectorName":"class",
+            "selectorValue":"date",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://www.eventbrite.com/engineering/",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"rel",
+            "selectorValue":"bookmark",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
         }
     },
     {

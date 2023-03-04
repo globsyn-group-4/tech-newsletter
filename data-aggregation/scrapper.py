@@ -2,12 +2,17 @@ from requests import get, Request
 from bs4 import BeautifulSoup, ResultSet, Tag
 import json
 from dateutil.parser import parse
-from html import unescape
 from typing import List, Dict
 from enum import Enum
+from urllib.parse import urljoin
+from unicodedata import normalize
 
 
 TEXT_ATTRIBUTE="text"
+
+class URL_TYPE(str, Enum):
+  COMPLETE="COMPLETE"
+  INTERNAL="INTERNAL"
 
 class METADATA_CONTAINER_NAMES(str, Enum):
   HEADER="headerContainer"
@@ -78,7 +83,8 @@ https://we-are.bookmyshow.com/latest'''
 
 
 def get_html_for_url(url: str) -> BeautifulSoup:
-  resp: Request  = get(url, verify=False)
+ 
+  resp: Request  = get(url)
   soup: BeautifulSoup = BeautifulSoup(resp.content, 'html.parser')
   return soup
 
@@ -92,7 +98,7 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
       blog = dict()
       blog['publishedDate'] = parse(
         article.find('time').get('datetime')).strftime("%d/%m/%Y")
-      blog['header'] = unescape(article.find('h3').text)
+      blog['header'] = normalize('NFD',article.find('h3').text)
       blog['subHeader'] = article.find('h4').text if article.find('h4') else ""
       blog['blogName'] = article.find(
         'a',
@@ -129,7 +135,9 @@ def parse_data_using_schema(
   selector_value: str = None,
   extraction_attribute_name: str = None
 ) -> str:
-  data_element = article_element.find(tag_name, attrs={selector_name:selector_value})
+  data_element=article_element
+  if tag_name or selector_name:
+    data_element = article_element.find(tag_name, attrs={selector_name:selector_value})
   if data_element:
     if extraction_attribute_name == TEXT_ATTRIBUTE:
       return data_element.text if data_element.text else ""
@@ -144,7 +152,8 @@ def extract_schema_attributes(schema: dict, container_name:str):
   selector_name:str=article_container.get("selectorName")
   selector_value:str=article_container.get("selectorValue")
   extraction_attribute_name:str=article_container.get("extractionAttributeName")
-  return tag_name, selector_name, selector_value, extraction_attribute_name
+  url_type:str=article_container.get("urltype")
+  return tag_name, selector_name, selector_value, extraction_attribute_name, url_type
 
 def form_blog_meta_data(
   article_element: Tag,
@@ -153,25 +162,38 @@ def form_blog_meta_data(
 ) -> Dict:
   blog=dict()
   for i in range(4,1,-1):
-    tag_name, selector_name, selector_value, extraction_attribute_name = extract_schema_attributes(
+    tag_name, selector_name, selector_value, extraction_attribute_name, url_type = extract_schema_attributes(
       schema=schema, 
       container_name=schema_keys[i]
     )
-    blog[get_key_from_container_name(schema_keys[i])]=parse_data_using_schema(
+    #blog[get_key_from_container_name(schema_keys[i])]
+    data:str =parse_data_using_schema(
       tag_name=tag_name,
       article_element=article_element,
       selector_value=selector_value,
       selector_name=selector_name,
       extraction_attribute_name=extraction_attribute_name
     )
+    match schema_keys[i]:
+      case METADATA_CONTAINER_NAMES.HEADER:
+        blog[BLOG_METADATA_KEYS.HEADER.value]=normalize('NFD',data)
+      case METADATA_CONTAINER_NAMES.URL:
+        match url_type:
+          case URL_TYPE.COMPLETE:
+            blog[BLOG_METADATA_KEYS.URL.value]=data
+          case _:
+            blog[BLOG_METADATA_KEYS.URL.value]=urljoin(schema["url"],data)
+      case _:
+        blog[BLOG_METADATA_KEYS.DATE.value]=data
   return blog
 
 def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
   blogs: List[dict] = []
   for schema in schemas:
+    
     schema_keys: List[str] = list(schema.keys())
     soup=get_html_for_url(schema.get(schema_keys[0]))
-    tag_name, selector_name, selector_value, _ = extract_schema_attributes(
+    tag_name, selector_name, selector_value, _, _ = extract_schema_attributes(
       schema=schema, 
       container_name=schema_keys[1]
     )
@@ -198,11 +220,10 @@ def parse_json_file(filename: str) -> List[Dict]:
     json_file.close()
     return data
 
-
+blogs:List[dict]=[]
 blog_schemas = parse_json_file("blogSchema.json")
-blogs=scrape_non_medium_articles(blog_schemas)
-medium_blogs=scrape_medium_articles(links)
-blogs.extend(medium_blogs)
+blogs.extend(scrape_non_medium_articles(blog_schemas))
+#blogs.extend(scrape_medium_articles(links))
 
 out_file = open("blogs.json", "w")   
 json.dump(blogs, out_file, indent = 2)

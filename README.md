@@ -87,8 +87,8 @@ Non Medium Blogs
 - https://engineering.salesforce.com/blog/ (problematic)
 - https://stripe.com/blog/engineering
 - https://quoraengineering.quora.com/?sort=recent (problematic)
-- https://engineering.fb.com/
-- https://engineering.linkedin.com/blog (problematic)
+- https://engineering.fb.com/ (problematic)
+- https://engineering.linkedin.com/blog 
 - https://www.twilio.com/blog (problematic)
 - https://sharechat.com/blogs (problematic)
 - https://fi.money/blog/categories/data-tech (problematic)

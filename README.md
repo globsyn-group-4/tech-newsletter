@@ -78,6 +78,7 @@ Medium Blogs:
 - https://tech.timesinternet.in/latest
 - https://medium.com/wix-engineering/latest
 - https://washpost.engineering/
+- https://blog.developer.adobe.com/latest
 
 Non Medium Blogs
 
@@ -138,6 +139,7 @@ Non Medium Blogs
 - https://techblog.wikimedia.org/
 - https://www.theguardian.com/info/series/engineering-blog
 - https://innovation.alteryx.com/tag/engineering/
+- https://engineering.mercari.com/en/blog/
 
 ### Tech Stack:
 - Java 11, Maven (Middleware)

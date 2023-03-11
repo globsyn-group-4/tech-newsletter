@@ -1,0 +1,215 @@
+[
+    {
+        "url":"https://blog.twitter.com/engineering/en_us",
+        "blogName":"Twitter Engineering Blog",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"result__copy"
+        },
+        "headerContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://github.blog/category/engineering/",
+        "blogName":"Github Blog",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"Link--primary",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://openai.com/blog",
+        "blogName":"OpenAI Blog",
+        "articleContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"ui-link group relative cursor-pointer"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"sr-only",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://stripe.com/blog/engineering",
+        "blogName":"stripe Blog",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h1",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"Link BlogIndexPost__titleLink",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://engineering.linkedin.com/blog",
+        "blogName":"LinkedIn Engineering",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"post"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName":"a",
+            "selectorName":"class",
+            "selectorValue":"heading-link",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"timestamp",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://www.games24x7.com/tech-blogs/",
+        "blogName":"Tech Blogs - Games24x7",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"premium-blog-post-container premium-blog-skin-classic"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"elementor-icon",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "div",
+            "selectorName":"class",
+            "selectorValue":"premium-blog-post-time premium-blog-meta-data",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://zerodha.tech/",
+        "blogName":"ZERODHA.tech",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"post blurb"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "div",
+            "selectorName":"class",
+            "selectorValue":"date",
+            "extractionAttributeName":"text"
+        }
+    },
+    {
+        "url":"https://www.eventbrite.com/engineering/",
+        "blogName":"Engineering Blog - eventbrite",
+        "articleContainer": {
+            "tagName":"article"
+        },
+        "headerContainer": {
+            "tagName": "h3",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"rel",
+            "selectorValue":"bookmark",
+            "extractionAttributeName":"href",
+            "urltype": "COMPLETE"
+        },
+        "publishedDateContainer": {
+            "tagName": "time",
+            "extractionAttributeName":"datetime"
+        }
+    },
+    {
+        "url":"https://engineering.grab.com/categories/engineering/",
+        "blogName":"Tech Blog - Grab",
+        "articleContainer": {
+            "tagName":"div",
+            "selectorName":"class",
+            "selectorValue":"col-sm-7"
+        },
+        "headerContainer": {
+            "tagName": "h2",
+            "extractionAttributeName":"text"
+        },
+        "urlContainer": {
+            "tagName": "a",
+            "selectorName":"class",
+            "selectorValue":"post-title-small",
+            "extractionAttributeName":"href",
+            "urltype": "INTERNAL"
+        },
+        "publishedDateContainer": {
+            "tagName": "span",
+            "selectorName":"class",
+            "selectorValue":"post-date",
+            "extractionAttributeName":"text"
+        }
+    }
+]

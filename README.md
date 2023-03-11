@@ -156,3 +156,7 @@ Non Medium Blogs
 
 `cd data-aggregation`
 `python scrapper.py`
+
+**TODO**
+*Implement CLI Args*
+`python scrapper.py <input schema json file> <output json file>`

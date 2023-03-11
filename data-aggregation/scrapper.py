@@ -4,7 +4,7 @@ import json
 from dateutil.parser import parse
 from typing import List, Dict
 from enum import Enum
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from unicodedata import normalize
 
 
@@ -83,10 +83,12 @@ https://we-are.bookmyshow.com/latest'''
 
 
 def get_html_for_url(url: str) -> BeautifulSoup:
- 
   resp: Request  = get(url)
   soup: BeautifulSoup = BeautifulSoup(resp.content, 'html.parser')
   return soup
+
+def get_clean_link(link: str) -> str:
+  return urlparse(link)._replace(query=None).geturl()
 
 
 def scrape_medium_articles(urls: List[str]) -> List[dict]:
@@ -106,10 +108,10 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
           'class':
           'ds-link ds-link--styleSubtle link--darken link--accent u-accentColor--textNormal'
         }).text
-      blog['articleUrl'] = article.find('a',
+      blog['articleUrl'] = get_clean_link(article.find('a',
                                         attrs={
                                           'class': 'link link--darken'
-                                        }).get('href')
+                                        }).get('href'))
       blog['author'] = article.find(
         'a',
         attrs={
@@ -155,6 +157,8 @@ def extract_schema_attributes(schema: dict, container_name:str):
   url_type:str=article_container.get("urltype")
   return tag_name, selector_name, selector_value, extraction_attribute_name, url_type
 
+
+
 def form_blog_meta_data(
   article_element: Tag,
   schema:dict,
@@ -177,11 +181,13 @@ def form_blog_meta_data(
       case METADATA_CONTAINER_NAMES.HEADER:
         blog[BLOG_METADATA_KEYS.HEADER.value]=normalize('NFD',data)
       case METADATA_CONTAINER_NAMES.URL:
+        link=""
         match url_type:
           case URL_TYPE.COMPLETE:
-            blog[BLOG_METADATA_KEYS.URL.value]=data
+            link=data
           case _:
-            blog[BLOG_METADATA_KEYS.URL.value]=urljoin(schema["url"],data)
+            link=urljoin(schema["url"],data)
+        blog[BLOG_METADATA_KEYS.URL.value]=get_clean_link(link=link)
       case _:
         blog[BLOG_METADATA_KEYS.DATE.value]=data
   return blog

@@ -1,28 +1,12 @@
-from requests import get, Request
-from bs4 import BeautifulSoup, ResultSet, Tag
+from bs4 import ResultSet, Tag
 import json
 from dateutil.parser import parse
 from typing import List, Dict
-from enum import Enum
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 from unicodedata import normalize
 
-
-TEXT_ATTRIBUTE="text"
-
-class URL_TYPE(str, Enum):
-  COMPLETE="COMPLETE"
-  INTERNAL="INTERNAL"
-
-class METADATA_CONTAINER_NAMES(str, Enum):
-  HEADER="headerContainer"
-  URL="urlContainer"
-  DATE="publishedDateContainer"
-
-class BLOG_METADATA_KEYS(str, Enum):
-  HEADER="header"
-  URL="articleUrl"
-  DATE="publishedDate"
+from utils.constants import TEXT_ATTRIBUTE, URL_TYPE, METADATA_CONTAINER_NAMES, BLOG_METADATA_KEYS
+from utils.helper import get_clean_link, get_html_for_url, parse_json_file
 
 
 links = '''https://medium.com/airbnb-engineering/latest
@@ -81,14 +65,6 @@ https://blog.gofynd.com/latest
 https://medium.com/hevo-data-engineering/latest
 https://we-are.bookmyshow.com/latest'''
 
-
-def get_html_for_url(url: str) -> BeautifulSoup:
-  resp: Request  = get(url)
-  soup: BeautifulSoup = BeautifulSoup(resp.content, 'html.parser')
-  return soup
-
-def get_clean_link(link: str) -> str:
-  return urlparse(link)._replace(query=None).geturl()
 
 
 def scrape_medium_articles(urls: List[str]) -> List[dict]:
@@ -219,11 +195,7 @@ def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
   return blogs
 
 
-def parse_json_file(filename: str) -> List[Dict]:
-  with open(filename) as json_file:
-    data: List[Dict] = json.load(json_file)
-    json_file.close()
-    return data
+
 
 blogs:List[dict]=[]
 blog_schemas = parse_json_file("blogSchema.json")

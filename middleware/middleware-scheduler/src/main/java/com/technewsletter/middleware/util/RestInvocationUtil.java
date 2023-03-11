@@ -19,7 +19,7 @@ public class RestInvocationUtil {
         RestTemplate restTemplate = new RestTemplate(simpleClientHttpRequestFactory);
         log.info("Entering rest handler");
         T t = restTemplate.postForObject(url, request, clazz);
-        log.info("Data from response -> {}",t);
+        log.info("Data from response -> {}",t.toString());
         log.info("Exiting rest handler");
         return t;
     }

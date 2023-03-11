@@ -1,51 +1,51 @@
 [
   {
-    "publishedDate": "Thursday, 23 February 2023",
+    "publishedDate": "2023-02-23",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/twitters-blobstore-hardware-lifecycle-monitoring-and-reporting-service",
     "header": "Twitter\u2019s Blobstore Hardware Lifecycle Monitoring and Reporting Service"
   },
   {
-    "publishedDate": "Thursday, 23 February 2023",
+    "publishedDate": "2023-02-23",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/how-we-scaled-reads-on-the-twitter-users-database",
     "header": "How we scaled Reads On the Twitter Users Database"
   },
   {
-    "publishedDate": "Thursday, 23 February 2023",
+    "publishedDate": "2023-02-23",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/kerberizing-hadoop-clusters-at-twitter",
     "header": "Kerberizing Hadoop Clusters at Twitter"
   },
   {
-    "publishedDate": "Wednesday, 8 February 2023",
+    "publishedDate": "2023-02-08",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/the-data-platform-cluster-operator-service-for-hadoop-cluster-management",
     "header": "The data platform cluster operator service for Hadoop cluster management"
   },
   {
-    "publishedDate": "Thursday, 19 January 2023",
+    "publishedDate": "2023-01-19",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/constraint-management-for-cluster-operation-safety-and-reliability-at-twitter",
     "header": "Constraint Management for cluster operation safety and reliability at Twitter"
   },
   {
-    "publishedDate": "Friday, 6 January 2023",
+    "publishedDate": "2023-01-06",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/how-twitter-uses-rasdaemon-for-hardware-reliability",
     "header": "How Twitter uses rasdaemon for hardware reliability"
   },
   {
-    "publishedDate": "Friday, 21 October 2022",
+    "publishedDate": "2022-10-21",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/insights/2022/measuring-the-impact-of-twitter-network-latency-with-causalimpac",
     "header": "Measuring the impact of Twitter network latency with CausalImpact"
   },
   {
-    "publishedDate": "Friday, 14 October 2022",
+    "publishedDate": "2022-10-14",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/stability-and-scalability-for-search",
     "header": "Stability and scalability for search"
   },
   {
-    "publishedDate": "Thursday, 15 September 2022",
+    "publishedDate": "2022-09-15",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter",
     "header": "Data Quality Automation at Twitter"
   },
   {
-    "publishedDate": "Tuesday, 28 June 2022",
+    "publishedDate": "2022-06-28",
     "articleUrl": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/twitter-sparrow-tackles-data-storage-challenges-of-scale",
     "header": "Twitter Sparrow tackles data storage challenges of scale"
   },
@@ -130,852 +130,852 @@
     "header": "How we use GitHub to be more productive, collaborative, and secure"
   },
   {
-    "publishedDate": "March 1, 2023",
+    "publishedDate": "2023-03-01",
     "articleUrl": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
     "header": "Introducing ChatGPT and Whisper APIs"
   },
   {
-    "publishedDate": "February 24, 2023",
+    "publishedDate": "2023-02-24",
     "articleUrl": "https://openai.com/blog/planning-for-agi-and-beyond",
     "header": "Planning for AGI and beyond"
   },
   {
-    "publishedDate": "February 16, 2023",
+    "publishedDate": "2023-02-16",
     "articleUrl": "https://openai.com/blog/how-should-ai-systems-behave",
     "header": "How should AI systems behave, and who should decide?"
   },
   {
-    "publishedDate": "February 1, 2023",
+    "publishedDate": "2023-02-01",
     "articleUrl": "https://openai.com/blog/chatgpt-plus",
     "header": "Introducing ChatGPT Plus"
   },
   {
-    "publishedDate": "January 31, 2023",
+    "publishedDate": "2023-01-31",
     "articleUrl": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text",
     "header": "New AI classifier for indicating AI-written text"
   },
   {
-    "publishedDate": "January 23, 2023",
+    "publishedDate": "2023-01-23",
     "articleUrl": "https://openai.com/blog/openai-and-microsoft-extend-partnership",
     "header": "OpenAI and Microsoft extend partnership"
   },
   {
-    "publishedDate": "December 23, 2022",
+    "publishedDate": "2022-12-23",
     "articleUrl": "https://openai.com/blog/the-power-of-continuous-learning",
     "header": "The power of continuous learning"
   },
   {
-    "publishedDate": "December 15, 2022",
+    "publishedDate": "2022-12-15",
     "articleUrl": "https://openai.com/blog/new-and-improved-embedding-model",
     "header": "New and improved embedding model"
   },
   {
-    "publishedDate": "December 8, 2022",
+    "publishedDate": "2022-12-08",
     "articleUrl": "https://openai.com/blog/discovering-the-minutiae-of-backend-systems",
     "header": "Discovering the minutiae of backend systems"
   },
   {
-    "publishedDate": "November 30, 2022",
+    "publishedDate": "2022-11-30",
     "articleUrl": "https://openai.com/blog/chatgpt",
     "header": "Introducing ChatGPT"
   },
   {
-    "publishedDate": "November 3, 2022",
+    "publishedDate": "2022-11-03",
     "articleUrl": "https://openai.com/blog/dall-e-api-now-available-in-public-beta",
     "header": "DALL\u00b7E API now available in public beta"
   },
   {
-    "publishedDate": "September 28, 2022",
+    "publishedDate": "2022-09-28",
     "articleUrl": "https://openai.com/blog/dall-e-now-available-without-waitlist",
     "header": "DALL\u00b7E now available without waitlist"
   },
   {
-    "publishedDate": "August 31, 2022",
+    "publishedDate": "2022-08-31",
     "articleUrl": "https://openai.com/blog/dall-e-introducing-outpainting",
     "header": "DALL\u00b7E: Introducing outpainting"
   },
   {
-    "publishedDate": "August 24, 2022",
+    "publishedDate": "2022-08-24",
     "articleUrl": "https://openai.com/blog/our-approach-to-alignment-research",
     "header": "Our approach to alignment research"
   },
   {
-    "publishedDate": "August 10, 2022",
+    "publishedDate": "2022-08-10",
     "articleUrl": "https://openai.com/blog/new-and-improved-content-moderation-tooling",
     "header": "New and improved content moderation tooling"
   },
   {
-    "publishedDate": "July 20, 2022",
+    "publishedDate": "2022-07-20",
     "articleUrl": "https://openai.com/blog/dall-e-now-available-in-beta",
     "header": "DALL\u00b7E now available in beta"
   },
   {
-    "publishedDate": "July 18, 2022",
+    "publishedDate": "2022-07-18",
     "articleUrl": "https://openai.com/blog/reducing-bias-and-improving-safety-in-dall-e-2",
     "header": "Reducing bias and improving safety in DALL\u00b7E 2"
   },
   {
-    "publishedDate": "July 14, 2022",
+    "publishedDate": "2022-07-14",
     "articleUrl": "https://openai.com/blog/dall-e-2-extending-creativity",
     "header": "DALL\u00b7E 2: Extending creativity"
   },
   {
-    "publishedDate": "June 2, 2022",
+    "publishedDate": "2022-06-02",
     "articleUrl": "https://openai.com/blog/best-practices-for-deploying-language-models",
     "header": "Best practices for deploying language models"
   },
   {
-    "publishedDate": "May 24, 2022",
+    "publishedDate": "2022-05-24",
     "articleUrl": "https://openai.com/blog/codex-apps",
     "header": "Powering next generation applications with OpenAI Codex"
   },
   {
-    "publishedDate": "2022-09-13T09:45-07:00",
+    "publishedDate": "2022-09-13",
     "articleUrl": "https://stripe.com/blog/markdoc",
     "header": "How Stripe builds interactive docs with\u00a0Markdoc"
   },
   {
-    "publishedDate": "2022-05-20T09:00-07:00",
+    "publishedDate": "2022-05-20",
     "articleUrl": "https://stripe.com/blog/migrating-to-typescript",
     "header": "Migrating millions of lines of code to TypeScript"
   },
   {
-    "publishedDate": "2022-05-04T10:00-07:00",
+    "publishedDate": "2022-05-04",
     "articleUrl": "https://stripe.com/blog/fast-secure-builds-choose-two",
     "header": "Fast builds, secure builds. Choose\u00a0two."
   },
   {
-    "publishedDate": "2022-03-28T00:00-07:00",
+    "publishedDate": "2022-03-28",
     "articleUrl": "https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby",
     "header": "Sorbet: Stripe\u2019s type checker for\u00a0Ruby"
   },
   {
-    "publishedDate": "2020-12-15T00:00-05:00",
+    "publishedDate": "2020-12-15",
     "articleUrl": "https://stripe.com/blog/payment-api-design",
     "header": "Stripe\u2019s payments APIs: The first 10\u00a0years"
   },
   {
-    "publishedDate": "2020-09-01T00:00-05:00",
+    "publishedDate": "2020-09-01",
     "articleUrl": "https://stripe.com/blog/globe",
     "header": "To design and develop an interactive\u00a0globe"
   },
   {
-    "publishedDate": "2020-05-28T00:00-08:00",
+    "publishedDate": "2020-05-28",
     "articleUrl": "https://stripe.com/blog/remote-hub-one-year",
     "header": "Stripe\u2019s remote engineering hub, one year\u00a0in"
   },
   {
-    "publishedDate": "2020-02-20T00:00-05:00",
+    "publishedDate": "2020-02-20",
     "articleUrl": "https://stripe.com/blog/similarity-clustering",
     "header": "Similarity clustering to catch fraud\u00a0rings"
   },
   {
-    "publishedDate": "2019-11-05T00:00-04:00",
+    "publishedDate": "2019-11-05",
     "articleUrl": "https://stripe.com/blog/stripe-cli",
     "header": "Introducing the Stripe\u00a0CLI"
   },
   {
-    "publishedDate": "2019-10-15T00:00-04:00",
+    "publishedDate": "2019-10-15",
     "articleUrl": "https://stripe.com/blog/accessible-color-systems",
     "header": "Designing accessible color\u00a0systems"
   },
   {
-    "publishedDate": "2019-09-26T00:00-05:00",
+    "publishedDate": "2019-09-26",
     "articleUrl": "https://stripe.com/blog/singapore-eng-office",
     "header": "Singapore engineering\u00a0hub"
   },
   {
-    "publishedDate": "2019-07-30T00:00-08:00",
+    "publishedDate": "2019-07-30",
     "articleUrl": "https://stripe.com/blog/canonical-log-lines",
     "header": "Fast and flexible observability with canonical log\u00a0lines"
   },
   {
-    "publishedDate": "2019-05-21T00:00-05:00",
+    "publishedDate": "2019-05-21",
     "articleUrl": "https://stripe.com/blog/secret-life-of-dns",
     "header": "The secret life of DNS packets: investigating complex\u00a0networks"
   },
   {
-    "publishedDate": "2019-05-07T00:00-05:00",
+    "publishedDate": "2019-05-07",
     "articleUrl": "https://stripe.com/blog/railyard-training-models",
     "header": "Railyard: how we rapidly train machine learning models with Kubernetes"
   },
   {
-    "publishedDate": "2019-05-02T12:00-04:00",
+    "publishedDate": "2019-05-02",
     "articleUrl": "https://stripe.com/blog/remote-hub",
     "header": "Stripe\u2019s fifth engineering hub is\u00a0Remote"
   },
   {
-    "publishedDate": "2019-03-21T00:00-05:00",
+    "publishedDate": "2019-03-21",
     "articleUrl": "https://stripe.com/blog/dublin-eng-office",
     "header": "On building a new engineering hub in\u00a0Dublin"
   },
   {
-    "publishedDate": "2018-06-26T00:00-05:00",
+    "publishedDate": "2018-06-26",
     "articleUrl": "https://stripe.com/blog/aws-reserved-instances",
     "header": "Effectively using AWS Reserved\u00a0Instances"
   },
   {
-    "publishedDate": "2017-12-20T00:00-08:00",
+    "publishedDate": "2017-12-20",
     "articleUrl": "https://stripe.com/blog/operating-kubernetes",
     "header": "Learning to operate Kubernetes\u00a0reliably"
   },
   {
-    "publishedDate": "2017-09-01T00:00-08:00",
+    "publishedDate": "2017-09-01",
     "articleUrl": "https://stripe.com/blog/hypothesis",
     "header": "Supporting Hypothesis"
   },
   {
-    "publishedDate": "2017-08-08T00:00-05:00",
+    "publishedDate": "2017-08-08",
     "articleUrl": "https://stripe.com/blog/stripe-dotnet",
     "header": "Official support for\u00a0.NET"
   },
   {
-    "publishedDate": "March 9, 2023",
+    "publishedDate": "2023-03-09",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/reducing-apache-spark-application-dependencies-upload-by-99-",
     "header": "\nReducing Apache Spark Application Dependencies Upload by 99%"
   },
   {
-    "publishedDate": "March 8, 2023",
+    "publishedDate": "2023-03-08",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/aI-at-linkedin-it-is-all-about-foundations",
     "header": "\nAI @ LinkedIn - It\u2019s All About Foundations"
   },
   {
-    "publishedDate": "March 2, 2023",
+    "publishedDate": "2023-03-02",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/career-stories--spotlighting-technical-program-management",
     "header": "\nCareer stories: Spotlighting Technical Program Management"
   },
   {
-    "publishedDate": "February 27, 2023",
+    "publishedDate": "2023-02-27",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/career-stories--discovering-dublin",
     "header": "\nCareer stories: Discovering Dublin"
   },
   {
-    "publishedDate": "February 23, 2023",
+    "publishedDate": "2023-02-23",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/hodor--overload-scenarios-and-the-evolution-of-their-detection-a",
     "header": "\nHodor: Overload scenarios and the evolution of their..."
   },
   {
-    "publishedDate": "February 22, 2023",
+    "publishedDate": "2023-02-22",
     "articleUrl": "https://engineering.linkedin.com/blog/2023/linkedin-s-responsible-ai-principles-help-meet-the-big-moments-i",
     "header": "\nSharing LinkedIn\u2019s Responsible AI Principles"
   },
   {
-    "publishedDate": "\n\nFebruary 20, 2023\n",
+    "publishedDate": "2023-02-20",
     "articleUrl": "https://www.games24x7.com/the-importance-of-tech-art-in-mobile-game-development/",
     "header": "\n\r\n\t\t\t\tThe Importance of Tech-Art in Mobile Game Development.\t\t\t\n"
   },
   {
-    "publishedDate": "\n\nJanuary 20, 2023\n",
+    "publishedDate": "2023-01-20",
     "articleUrl": "https://www.games24x7.com/serving-millions-of-personalised-offers-to-our-players/",
     "header": "\n\r\n\t\t\t\tServing millions of personalised offers to our players.\t\t\t\n"
   },
   {
-    "publishedDate": "\n\nJanuary 20, 2023\n",
+    "publishedDate": "2023-01-20",
     "articleUrl": "https://www.games24x7.com/distributed-scoring-and-ranking-through-thor/",
     "header": "\n\r\n\t\t\t\tDistributed scoring and ranking through Thor\t\t\t\n"
   },
   {
-    "publishedDate": "\n\nOctober 19, 2022\n",
+    "publishedDate": "2022-10-19",
     "articleUrl": "https://www.games24x7.com/serving-millions-of-contest-join-requests-my11circle/",
     "header": "\n\r\n\t\t\t\tServing millions of contest join requests @My11Circle\t\t\t\n"
   },
   {
-    "publishedDate": "\n\nOctober 19, 2022\n",
+    "publishedDate": "2022-10-19",
     "articleUrl": "https://www.games24x7.com/ksqldb-in-data-engineering-at-games24x7/",
     "header": "\n\r\n\t\t\t\tksqlDB in Data Engineering at Games24x7\t\t\t\n"
   },
   {
-    "publishedDate": "\n\nOctober 19, 2022\n",
+    "publishedDate": "2022-10-19",
     "articleUrl": "https://www.games24x7.com/using-ai-to-power-the-science-of-gaming/",
     "header": "\n\r\n\t\t\t\tUsing AI to Power the Science of Gaming\t\t\t\n"
   },
   {
-    "publishedDate": "06 May 2022",
+    "publishedDate": "2022-05-06",
     "articleUrl": "https://zerodha.tech/blog/user-disengagement/",
     "header": "User disengagement"
   },
   {
-    "publishedDate": "17 Jan 2022",
+    "publishedDate": "2022-01-17",
     "articleUrl": "https://zerodha.tech/blog/from-native-to-react-native-to-flutter/",
     "header": "From Native to React Native to Flutter"
   },
   {
-    "publishedDate": "28 Jul 2021",
+    "publishedDate": "2021-07-28",
     "articleUrl": "https://zerodha.tech/blog/being-future-ready-with-common-sense/",
     "header": "Scaling with common sense #2: Being future ready."
   },
   {
-    "publishedDate": "22 Apr 2021",
+    "publishedDate": "2021-04-22",
     "articleUrl": "https://zerodha.tech/blog/working-with-postgresql/",
     "header": "Working with PostgreSQL"
   },
   {
-    "publishedDate": "24 Nov 2020",
+    "publishedDate": "2020-11-24",
     "articleUrl": "https://zerodha.tech/blog/a-lesson-in-niche-business-dsls-at-scale/",
     "header": "A lesson in creating and using niche business DSLs at scale"
   },
   {
-    "publishedDate": "22 Sep 2020",
+    "publishedDate": "2020-09-22",
     "articleUrl": "https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/",
     "header": "Alar: The making of an open source dictionary"
   },
   {
-    "publishedDate": "14 Jun 2020",
+    "publishedDate": "2020-06-14",
     "articleUrl": "https://zerodha.tech/blog/scaling-with-common-sense/",
     "header": "Scaling with common sense"
   },
   {
-    "publishedDate": "27 Apr 2020",
+    "publishedDate": "2020-04-27",
     "articleUrl": "https://zerodha.tech/blog/infra-monitoring-at-zerodha/",
     "header": "Infrastructure monitoring with Prometheus at Zerodha"
   },
   {
-    "publishedDate": "06 Apr 2020",
+    "publishedDate": "2020-04-06",
     "articleUrl": "https://zerodha.tech/blog/hello-world/",
     "header": "Hello, World!"
   },
   {
-    "publishedDate": "2023-01-12T17:46:59-08:00",
+    "publishedDate": "2023-01-12",
     "articleUrl": "https://www.eventbrite.com/engineering/product-development-process/",
     "header": "The Power of Collaboration in Product Development"
   },
   {
-    "publishedDate": "2022-08-02T06:00:22-08:00",
+    "publishedDate": "2022-08-02",
     "articleUrl": "https://www.eventbrite.com/engineering/sapna-nair-eventbrite-vp-of-engineering-india/",
     "header": "3 Questions With Sapna Nair \u2014\u00a0Eventbrite\u2019s New VP of Engineering in India"
   },
   {
-    "publishedDate": "2022-06-13T17:30:56-08:00",
+    "publishedDate": "2022-06-13",
     "articleUrl": "https://www.eventbrite.com/engineering/as-eventbrite-engineering-leans-into-team-owned-infrastructure-or-devops-were-learning-a-lot-of-new-technologies-in-order-to-stand-up-our-infrastructure/",
     "header": "Monitoring Your System"
   },
   {
-    "publishedDate": "2022-05-02T13:03:16-08:00",
+    "publishedDate": "2022-05-02",
     "articleUrl": "https://www.eventbrite.com/engineering/packaging-generated-code-from-protobuf-files-for-grpc-services/",
     "header": "Packaging generated code from protobuf files for gRPC Services"
   },
   {
-    "publishedDate": "2022-01-21T14:45:31-08:00",
+    "publishedDate": "2022-01-21",
     "articleUrl": "https://www.eventbrite.com/engineering/reflecting-on-the-eventbrite-journey-from-centralized-ops-to-devops/",
     "header": "Reflecting on Eventbrite\u2019s Journey From Centralized Ops to DevOps"
   },
   {
-    "publishedDate": "2021-12-09T18:46:24-08:00",
+    "publishedDate": "2021-12-09",
     "articleUrl": "https://www.eventbrite.com/engineering/creating-the-eventbrite-data-vision/",
     "header": "Crafting Eventbrite\u2019s Data Vision"
   },
   {
-    "publishedDate": "2021-11-01T09:00:56-08:00",
+    "publishedDate": "2021-11-01",
     "articleUrl": "https://www.eventbrite.com/engineering/creating-the-3-year-frontend-strategy/",
     "header": "Creating the 3 Year Frontend Strategy"
   },
   {
-    "publishedDate": "2021-10-05T15:11:04-08:00",
+    "publishedDate": "2021-10-05",
     "articleUrl": "https://www.eventbrite.com/engineering/creating-a-3-year-frontend-vision/",
     "header": "Creating a 3 Year Frontend Vision"
   },
   {
-    "publishedDate": "2021-09-01T10:16:43-08:00",
+    "publishedDate": "2021-09-01",
     "articleUrl": "https://www.eventbrite.com/engineering/a-day-in-the-life-of-a-technical-fellow/",
     "header": "A day in the life of a Technical Fellow"
   },
   {
-    "publishedDate": "2021-08-02T00:21:16-08:00",
+    "publishedDate": "2021-08-02",
     "articleUrl": "https://www.eventbrite.com/engineering/writing-our-golden-path/",
     "header": "Writing our Golden Path"
   },
   {
-    "publishedDate": "9 Mar 2023 | 10 min read",
+    "publishedDate": "2023-03-09",
     "articleUrl": "https://engineering.grab.com/migrating-to-abac",
     "header": "\nMigrating from Role to Attribute-based Access Control\n"
   },
   {
-    "publishedDate": "1 Mar 2023 | 10 min read",
+    "publishedDate": "2023-03-01",
     "articleUrl": "https://engineering.grab.com/securing-gitops-pipeline",
     "header": "\nSecuring GitOps pipelines\n"
   },
   {
-    "publishedDate": "21 Feb 2023 | 4 min read",
+    "publishedDate": "2023-02-21",
     "articleUrl": "https://engineering.grab.com/geohash-plugin",
     "header": "\nNew zoom freezing feature for Geohash plugin\n"
   },
   {
-    "publishedDate": "5 Jan 2023 | 7 min read",
+    "publishedDate": "2023-01-05",
     "articleUrl": "https://engineering.grab.com/graph-service-platform",
     "header": "\nGraph service platform\n"
   },
   {
-    "publishedDate": "7 Dec 2022 | 9 min read",
+    "publishedDate": "2022-12-07",
     "articleUrl": "https://engineering.grab.com/zero-trust-with-kafka",
     "header": "\nZero trust with Kafka\n"
   },
   {
-    "publishedDate": "1 Dec 2022 | 8 min read",
+    "publishedDate": "2022-12-01",
     "articleUrl": "https://engineering.grab.com/kartacam-powers-grabmaps",
     "header": "\nHow KartaCam\u00a0powers GrabMaps\n"
   },
   {
-    "publishedDate": "24 Nov 2022 | 9 min read",
+    "publishedDate": "2022-11-24",
     "articleUrl": "https://engineering.grab.com/graph-for-fraud-detection",
     "header": "\nGraph for fraud detection\n"
   },
   {
-    "publishedDate": "16 Nov 2022 | 6 min read",
+    "publishedDate": "2022-11-16",
     "articleUrl": "https://engineering.grab.com/query-expansion-based-on-user-behaviour",
     "header": "\nQuery expansion based on user behaviour\n"
   },
   {
-    "publishedDate": "25 Oct 2022 | 12 min read",
+    "publishedDate": "2022-10-25",
     "articleUrl": "https://engineering.grab.com/using-mobile-sensor-data-to-encourage-safer-driving",
     "header": "\nUsing mobile sensor data to encourage safer driving\n"
   },
   {
-    "publishedDate": "8 Sep 2022 | 6 min read",
+    "publishedDate": "2022-09-08",
     "articleUrl": "https://engineering.grab.com/automatic-rule-backtesting",
     "header": "\nAutomatic rule backtesting with large quantities of data\n"
   },
   {
-    "publishedDate": "15 Aug 2022 | 9 min read",
+    "publishedDate": "2022-08-15",
     "articleUrl": "https://engineering.grab.com/how-we-store-millions-orders",
     "header": "\nHow we store and process millions of orders daily\n"
   },
   {
-    "publishedDate": "13 Jul 2022 | 8 min read",
+    "publishedDate": "2022-07-13",
     "articleUrl": "https://engineering.grab.com/automated-faq",
     "header": "\nHow we automated FAQ responses at Grab\n"
   },
   {
-    "publishedDate": "30 Jun 2022 | 5 min read",
+    "publishedDate": "2022-06-30",
     "articleUrl": "https://engineering.grab.com/graph-visualisation",
     "header": "\nGraph Networks - 10X investigation with Graph Visualisations\n"
   },
   {
-    "publishedDate": "9 Jun 2022 | 12 min read",
+    "publishedDate": "2022-06-09",
     "articleUrl": "https://engineering.grab.com/facial-recognition",
     "header": "\nHow facial recognition technology keeps you safe\n"
   },
   {
-    "publishedDate": "2 Jun 2022 | 15 min read",
+    "publishedDate": "2022-06-02",
     "articleUrl": "https://engineering.grab.com/graph-concepts",
     "header": "\nGraph concepts and applications\n"
   },
   {
-    "publishedDate": "30 May 2022 | 7 min read",
+    "publishedDate": "2022-05-30",
     "articleUrl": "https://engineering.grab.com/automated-experiment-analysis",
     "header": "\nAutomated Experiment Analysis - Making experimental analysis scalable\n"
   },
   {
-    "publishedDate": "17 May 2022 | 5 min read",
+    "publishedDate": "2022-05-17",
     "articleUrl": "https://engineering.grab.com/search-architecture-revamp",
     "header": "\nSearch architecture revamp\n"
   },
   {
-    "publishedDate": "4 May 2022 | 4 min read",
+    "publishedDate": "2022-05-04",
     "articleUrl": "https://engineering.grab.com/doc-as-code",
     "header": "\nEmbracing a Docs-as-Code approach\n"
   },
   {
-    "publishedDate": "28 Apr 2022 | 4 min read",
+    "publishedDate": "2022-04-28",
     "articleUrl": "https://engineering.grab.com/graph-networks",
     "header": "\nGraph Networks - Striking fraud syndicates in the dark\n"
   },
   {
-    "publishedDate": "19 Apr 2022 | 8 min read",
+    "publishedDate": "2022-04-19",
     "articleUrl": "https://engineering.grab.com/how-we-reduced-our-ci-yaml",
     "header": "\nHow we reduced our CI YAML files from 1800 lines to 50 lines\n"
   },
   {
-    "publishedDate": "6 Apr 2022 | 8 min read",
+    "publishedDate": "2022-04-06",
     "articleUrl": "https://engineering.grab.com/kafka-connect",
     "header": "\nHow Kafka Connect helps move data seamlessly\n"
   },
   {
-    "publishedDate": "1 Apr 2022 | 7 min read",
+    "publishedDate": "2022-04-01",
     "articleUrl": "https://engineering.grab.com/supporting-large-campaigns-at-scale",
     "header": "\nSupporting large campaigns at scale\n"
   },
   {
-    "publishedDate": "24 Mar 2022 | 5 min read",
+    "publishedDate": "2022-03-24",
     "articleUrl": "https://engineering.grab.com/telematics-at-grab",
     "header": "\nHow telematics helps Grab to improve safety\n"
   },
   {
-    "publishedDate": "14 Mar 2022 | 10 min read",
+    "publishedDate": "2022-03-14",
     "articleUrl": "https://engineering.grab.com/real-time-data-ingestion",
     "header": "\nReal-time data ingestion in Grab\n"
   },
   {
-    "publishedDate": "1 Mar 2022 | 10 min read",
+    "publishedDate": "2022-03-01",
     "articleUrl": "https://engineering.grab.com/abacus-issuing-points-for-multiple-sources",
     "header": "\nAbacus - Issuing points for multiple sources\n"
   },
   {
-    "publishedDate": "18 Feb 2022 | 8 min read",
+    "publishedDate": "2022-02-18",
     "articleUrl": "https://engineering.grab.com/exposing-kafka-cluster",
     "header": "\nExposing a Kafka Cluster via a VPC Endpoint Service\n"
   },
   {
-    "publishedDate": "27 Sep 2021 | 11 min read",
+    "publishedDate": "2021-09-27",
     "articleUrl": "https://engineering.grab.com/search-indexing-optimisation",
     "header": "\nSearch indexing optimisation\n"
   },
   {
-    "publishedDate": "1 Sep 2021 | 6 min read",
+    "publishedDate": "2021-09-01",
     "articleUrl": "https://engineering.grab.com/multi-armed-bandit-system-recommendation",
     "header": "\nAutomating Multi-Armed Bandit testing during feature rollout\n"
   },
   {
-    "publishedDate": "26 Jul 2021 | 15 min read",
+    "publishedDate": "2021-07-26",
     "articleUrl": "https://engineering.grab.com/protecting-personal-data-in-grabs-imagery",
     "header": "\nProtecting Personal Data in Grab's Imagery\n"
   },
   {
-    "publishedDate": "19 Jul 2021 | 9 min read",
+    "publishedDate": "2021-07-19",
     "articleUrl": "https://engineering.grab.com/processing-etl-tasks-with-ratchet",
     "header": "\nProcessing ETL tasks with Ratchet\n"
   },
   {
-    "publishedDate": "13 Jul 2021 | 5 min read",
+    "publishedDate": "2021-07-13",
     "articleUrl": "https://engineering.grab.com/app-modularisation-at-scale",
     "header": "\nApp Modularisation at Scale\n"
   },
   {
-    "publishedDate": "30 Jun 2021 | 8 min read",
+    "publishedDate": "2021-06-30",
     "articleUrl": "https://engineering.grab.com/debugging-high-latency-market-store",
     "header": "\nDebugging High Latency Due to Context Leaks\n"
   },
   {
-    "publishedDate": "24 May 2021 | 9 min read",
+    "publishedDate": "2021-05-24",
     "articleUrl": "https://engineering.grab.com/building-hyper-self-service-distributed-tracing-feedback-system",
     "header": "\nBuilding a Hyper Self-Service, Distributed Tracing and Feedback System for Rule & Machine Learning (ML) Predictions\n"
   },
   {
-    "publishedDate": "10 May 2021 | 9 min read",
+    "publishedDate": "2021-05-10",
     "articleUrl": "https://engineering.grab.com/our-journey-to-continuous-delivery-at-grab-part2",
     "header": "\nOur Journey to Continuous Delivery at Grab (Part 2)\n"
   },
   {
-    "publishedDate": "19 Apr 2021 | 11 min read",
+    "publishedDate": "2021-04-19",
     "articleUrl": "https://engineering.grab.com/how-we-improved-agent-chat-efficiency-with-ml",
     "header": "\nHow We Improved Agent Chat Efficiency with Machine Learning\n"
   },
   {
-    "publishedDate": "22 Mar 2021 | 5 min read",
+    "publishedDate": "2021-03-22",
     "articleUrl": "https://engineering.grab.com/learn-how-grab-leveraged-performance-marketing-automation",
     "header": "\nHow Grab Leveraged Performance Marketing Automation to Improve Conversion Rates by 30%\n"
   },
   {
-    "publishedDate": "23 Feb 2021 | 7 min read",
+    "publishedDate": "2021-02-23",
     "articleUrl": "https://engineering.grab.com/reducing-your-go-binary-size",
     "header": "\nOne Small Step Closer to Containerising Service Binaries\n"
   },
   {
-    "publishedDate": "5 Feb 2021 | 11 min read",
+    "publishedDate": "2021-02-05",
     "articleUrl": "https://engineering.grab.com/customer-support-workforce-routing",
     "header": "\nCustomer Support Workforce Routing\n"
   },
   {
-    "publishedDate": "26 Jan 2021 | 9 min read",
+    "publishedDate": "2021-01-26",
     "articleUrl": "https://engineering.grab.com/mirror-cache-blog",
     "header": "\nServing Driver-partners Data at Scale Using Mirror Cache\n"
   },
   {
-    "publishedDate": "13 Jan 2021 | 15 min read",
+    "publishedDate": "2021-01-13",
     "articleUrl": "https://engineering.grab.com/trident-real-time-event-processing-at-scale",
     "header": "\nTrident - Real-time Event Processing at Scale\n"
   },
   {
-    "publishedDate": "22 Dec 2020 | 15 min read",
+    "publishedDate": "2020-12-22",
     "articleUrl": "https://engineering.grab.com/pharos-searching-nearby-drivers-on-road-network-at-scale",
     "header": "\nPharos - Searching Nearby Drivers on Road Network at Scale\n"
   },
   {
-    "publishedDate": "3 Dec 2020 | 15 min read",
+    "publishedDate": "2020-12-03",
     "articleUrl": "https://engineering.grab.com/how-grab-is-blazing-through-the-super-app-bazel-migration",
     "header": "\nHow Grab is Blazing Through the Superapp Bazel Migration\n"
   },
   {
-    "publishedDate": "23 Nov 2020 | 10 min read",
+    "publishedDate": "2020-11-23",
     "articleUrl": "https://engineering.grab.com/democratising-fare-storage-at-scale-using-event-sourcing",
     "header": "\nDemocratising Fare Storage at Scale Using Event Sourcing\n"
   },
   {
-    "publishedDate": "30 Oct 2020 | 6 min read",
+    "publishedDate": "2020-10-30",
     "articleUrl": "https://engineering.grab.com/keeping-170-libraries-up-to-date-on-a-large-scale-android-app",
     "header": "\nKeeping 170 Libraries Up to Date on a Large Scale Android App\n"
   },
   {
-    "publishedDate": "13 Oct 2020 | 6 min read",
+    "publishedDate": "2020-10-13",
     "articleUrl": "https://engineering.grab.com/optimally-scaling-kafka-consumer-applications",
     "header": "\nOptimally Scaling Kafka Consumer Applications\n"
   },
   {
-    "publishedDate": "23 Sep 2020 | 16 min read",
+    "publishedDate": "2020-09-23",
     "articleUrl": "https://engineering.grab.com/our-journey-to-continuous-delivery-at-grab",
     "header": "\nOur Journey to Continuous Delivery at Grab (Part 1)\n"
   },
   {
-    "publishedDate": "7 Sep 2020 | 7 min read",
+    "publishedDate": "2020-09-07",
     "articleUrl": "https://engineering.grab.com/uncovering-the-truth-behind-lua-and-redis-data-consistency",
     "header": "\nUncovering the Truth Behind Lua and Redis Data Consistency\n"
   },
   {
-    "publishedDate": "24 Aug 2020 | 10 min read",
+    "publishedDate": "2020-08-24",
     "articleUrl": "https://engineering.grab.com/data-gateway",
     "header": "\nSecuring and Managing Multi-cloud Presto Clusters with Grab\u2019s DataGateway\n"
   },
   {
-    "publishedDate": "12 Aug 2020 | 5 min read",
+    "publishedDate": "2020-08-12",
     "articleUrl": "https://engineering.grab.com/go-module-a-guide-for-monorepos-part-2",
     "header": "\nGo Modules- A Guide for monorepos (Part 2)\n"
   },
   {
-    "publishedDate": "14 Jul 2020 | 11 min read",
+    "publishedDate": "2020-07-14",
     "articleUrl": "https://engineering.grab.com/the-journey-of-deploying-apache-airflow-at-Grab",
     "header": "\nThe Journey of Deploying Apache Airflow at Grab\n"
   },
   {
-    "publishedDate": "29 Jun 2020 | 13 min read",
+    "publishedDate": "2020-06-29",
     "articleUrl": "https://engineering.grab.com/how-we-built-our-in-house-chat-platform-for-the-web",
     "header": "\nHow We Built Our In-house Chat Platform for the Web\n"
   },
   {
-    "publishedDate": "29 May 2020 | 7 min read",
+    "publishedDate": "2020-05-29",
     "articleUrl": "https://engineering.grab.com/go-module-a-guide-for-monorepos-part-1",
     "header": "\nGo Modules- A Guide for monorepos (Part 1)\n"
   },
   {
-    "publishedDate": "16 Mar 2020 | 11 min read",
+    "publishedDate": "2020-03-16",
     "articleUrl": "https://engineering.grab.com/tackling-ui-test-execution-time-imbalance-for-xcode-parallel-testing",
     "header": "\nTackling UI Test Execution Time Imbalance for Xcode Parallel Testing\n"
   },
   {
-    "publishedDate": "25 Feb 2020 | 5 min read",
+    "publishedDate": "2020-02-25",
     "articleUrl": "https://engineering.grab.com/returning-storage-space-back-to-our-users",
     "header": "\nReturning 575\u00a0Terabytes of Storage Space to Our Users\n"
   },
   {
-    "publishedDate": "20 Feb 2020 | 7 min read",
+    "publishedDate": "2020-02-20",
     "articleUrl": "https://engineering.grab.com/grab-posisi",
     "header": "\nGrab-Posisi - Southeast Asia\u2019s First Comprehensive GPS Trajectory Dataset\n"
   },
   {
-    "publishedDate": "8 Jan 2020 | 5 min read",
+    "publishedDate": "2020-01-08",
     "articleUrl": "https://engineering.grab.com/preventing-app-performance-degradation-due-to-sudden-ride-demand-spikes",
     "header": "\nHow We Prevented App Performance Degradation from Sudden Ride Demand Spikes\n"
   },
   {
-    "publishedDate": "6 Jan 2020 | 12 min read",
+    "publishedDate": "2020-01-06",
     "articleUrl": "https://engineering.grab.com/plumbing-at-scale",
     "header": "\nPlumbing At Scale\n"
   },
   {
-    "publishedDate": "26 Dec 2019 | 12 min read",
+    "publishedDate": "2019-12-26",
     "articleUrl": "https://engineering.grab.com/journey-to-a-faster-everyday-super-app",
     "header": "\nJourney to a Faster Everyday Superapp Where Every Millisecond Counts\n"
   },
   {
-    "publishedDate": "23 Dec 2019 | 9 min read",
+    "publishedDate": "2019-12-23",
     "articleUrl": "https://engineering.grab.com/marionette-enabling-e2e-user-scenario-simulation",
     "header": "\nMarionette - Enabling E2E User-scenario Simulation\n"
   },
   {
-    "publishedDate": "21 Nov 2019 | 9 min read",
+    "publishedDate": "2019-11-21",
     "articleUrl": "https://engineering.grab.com/domain-driven-development-in-golang",
     "header": "\nHow We Implemented Domain-Driven Development in Golang\n"
   },
   {
-    "publishedDate": "28 Oct 2019 | 13 min read",
+    "publishedDate": "2019-10-28",
     "articleUrl": "https://engineering.grab.com/griffin",
     "header": "\nGriffin, an Anti-fraud Risk Rule Engine Making Billions of Predictions Daily\n"
   },
   {
-    "publishedDate": "21 Oct 2019 | 10 min read",
+    "publishedDate": "2019-10-21",
     "articleUrl": "https://engineering.grab.com/using-grabs-trust-counter-service-to-detect-fraud-successfully",
     "header": "\nUsing Grab\u2019s Trust Counter Service to\u00a0Detect Fraud Successfully\n"
   },
   {
-    "publishedDate": "25 Sep 2019 | 7 min read",
+    "publishedDate": "2019-09-25",
     "articleUrl": "https://engineering.grab.com/about-being-a-principal-engineer-at-grab",
     "header": "\nBeing a Principal Engineer at Grab\n"
   },
   {
-    "publishedDate": "1 Aug 2019 | 11 min read",
+    "publishedDate": "2019-08-01",
     "articleUrl": "https://engineering.grab.com/data-first-sla-always",
     "header": "\nData First, SLA Always\n"
   },
   {
-    "publishedDate": "31 Jul 2019 | 11 min read",
+    "publishedDate": "2019-07-31",
     "articleUrl": "https://engineering.grab.com/how-built-logging-stack",
     "header": "\nHow We Built a Logging Stack at Grab\n"
   },
   {
-    "publishedDate": "2 Jul 2019 | 12 min read",
+    "publishedDate": "2019-07-02",
     "articleUrl": "https://engineering.grab.com/catwalk-serving-machine-learning-models-at-scale",
     "header": "\nCatwalk: Serving Machine Learning Models at Scale\n"
   },
   {
-    "publishedDate": "30 May 2019 | 7 min read",
+    "publishedDate": "2019-05-30",
     "articleUrl": "https://engineering.grab.com/react-native-in-grabpay",
     "header": "\nReact\u00a0Native in GrabPay\n"
   },
   {
-    "publishedDate": "5 May 2019 | 9 min read",
+    "publishedDate": "2019-05-05",
     "articleUrl": "https://engineering.grab.com/preventing-pipeline-calls-from-crashing-redis-clusters",
     "header": "\nPreventing Pipeline Calls from Crashing Redis Clusters\n"
   },
   {
-    "publishedDate": "10 Apr 2019 | 10 min read",
+    "publishedDate": "2019-04-10",
     "articleUrl": "https://engineering.grab.com/loki-dynamic-mock-server-http-tcp-testing",
     "header": "\nLoki, a Dynamic Mock Server for HTTP/TCP Testing\n"
   },
   {
-    "publishedDate": "27 Mar 2019 | 6 min read",
+    "publishedDate": "2019-03-27",
     "articleUrl": "https://engineering.grab.com/beyond-retries-part-3",
     "header": "\nDesigning Resilient Systems Beyond Retries (Part 3): Architecture Patterns and Chaos Engineering\n"
   },
   {
-    "publishedDate": "25 Mar 2019 | 8 min read",
+    "publishedDate": "2019-03-25",
     "articleUrl": "https://engineering.grab.com/beyond-retries-part-2",
     "header": "\nDesigning Resilient Systems Beyond Retries (Part 2): Bulkheading, Load Balancing, and Fallbacks\n"
   },
   {
-    "publishedDate": "20 Mar 2019 | 7 min read",
+    "publishedDate": "2019-03-20",
     "articleUrl": "https://engineering.grab.com/beyond-retries-part-1",
     "header": "\nDesigning Resilient Systems Beyond Retries (Part 1): Rate-Limiting\n"
   },
   {
-    "publishedDate": "11 Mar 2019 | 19 min read",
+    "publishedDate": "2019-03-11",
     "articleUrl": "https://engineering.grab.com/context-deadlines-and-how-to-set-them",
     "header": "\nContext Deadlines and How to Set Them\n"
   },
   {
-    "publishedDate": "7 Mar 2019 | 12 min read",
+    "publishedDate": "2019-03-07",
     "articleUrl": "https://engineering.grab.com/peak-shift-demand-travel-trends",
     "header": "\nRecipe for Building a Widget: How We Helped to \u201cPeak-Shift\u201d Demand by Helping Passengers Understand Travel Trends\n"
   },
   {
-    "publishedDate": "5 Mar 2019 | 13 min read",
+    "publishedDate": "2019-03-05",
     "articleUrl": "https://engineering.grab.com/structured-logging",
     "header": "\nStructured Logging: The Best Friend You\u2019ll Want When Things Go Wrong\n"
   },
   {
-    "publishedDate": "3 Mar 2019 | 9 min read",
+    "publishedDate": "2019-03-03",
     "articleUrl": "https://engineering.grab.com/data-ingestion-transformation-product-insights",
     "header": "\nHow We Simplified Our Data Ingestion & Transformation Process\n"
   },
   {
-    "publishedDate": "16 Jan 2019 | 15 min read",
+    "publishedDate": "2019-01-16",
     "articleUrl": "https://engineering.grab.com/experimentation-platform-data-pipeline",
     "header": "\nA Lean and Scalable Data Pipeline to Capture Large Scale Events and Support Experimentation Platform\n"
   },
   {
-    "publishedDate": "8 Jan 2019 | 14 min read",
+    "publishedDate": "2019-01-08",
     "articleUrl": "https://engineering.grab.com/designing-resilient-systems-part-2",
     "header": "\nDesigning Resilient Systems: Circuit Breakers or Retries? (Part 2)\n"
   },
   {
-    "publishedDate": "2 Jan 2019 | 10 min read",
+    "publishedDate": "2019-01-02",
     "articleUrl": "https://engineering.grab.com/big-data-real-time-presto-talariadb",
     "header": "\nQuerying Big Data in Real-time with Presto & Grab's TalariaDB\n"
   },
   {
-    "publishedDate": "21 Dec 2018 | 17 min read",
+    "publishedDate": "2018-12-21",
     "articleUrl": "https://engineering.grab.com/designing-resilient-systems-part-1",
     "header": "\nDesigning Resilient Systems: Circuit Breakers or Retries? (Part 1)\n"
   },
   {
-    "publishedDate": "23 Nov 2018 | 7 min read",
+    "publishedDate": "2018-11-23",
     "articleUrl": "https://engineering.grab.com/chaos-engineering",
     "header": "\nOrchestrating Chaos Using Grab's Experimentation Platform\n"
   },
   {
-    "publishedDate": "2 Nov 2018 | 12 min read",
+    "publishedDate": "2018-11-02",
     "articleUrl": "https://engineering.grab.com/feature-toggles-ab-testing",
     "header": "\nReliable and Scalable Feature Toggles and A/B Testing SDK at Grab\n"
   },
   {
-    "publishedDate": "18 Sep 2018 | 9 min read",
+    "publishedDate": "2018-09-18",
     "articleUrl": "https://engineering.grab.com/mockers",
     "header": "\nMockers - Overcoming Testing Challenges at Grab\n"
   },
   {
-    "publishedDate": "10 Aug 2018 | 11 min read",
+    "publishedDate": "2018-08-10",
     "articleUrl": "https://engineering.grab.com/quotas-service",
     "header": "\nHow We Designed the Quotas Microservice to Prevent Resource Abuse\n"
   },
   {
-    "publishedDate": "13 Jul 2018 | 8 min read",
+    "publishedDate": "2018-07-13",
     "articleUrl": "https://engineering.grab.com/building-grab-s-experimentation-platform",
     "header": "\nBuilding Grab\u2019s Experimentation Platform\n"
   },
   {
-    "publishedDate": "8 Jun 2018 | 6 min read",
+    "publishedDate": "2018-06-08",
     "articleUrl": "https://engineering.grab.com/introducing-grab-kit",
     "header": "\nIntroducing Grab-Kit: Distributed Service Design at Grab\n"
   },
   {
-    "publishedDate": "29 Jan 2018 | 14 min read",
+    "publishedDate": "2018-01-29",
     "articleUrl": "https://engineering.grab.com/deep-dive-into-database-timeouts-in-rails",
     "header": "\nDeep Dive into Database Timeouts in Rails\n"
   },
   {
-    "publishedDate": "7 Jan 2018 | 6 min read",
+    "publishedDate": "2018-01-07",
     "articleUrl": "https://engineering.grab.com/dealing-with-the-meltdown-patch-at-grab",
     "header": "\nDealing with the Meltdown Patch at Grab\n"
   },
   {
-    "publishedDate": "4 Oct 2017 | 8 min read",
+    "publishedDate": "2017-10-04",
     "articleUrl": "https://engineering.grab.com/the-art-of-hiring-good-engineers",
     "header": "\nThe Art of Hiring Good Engineers\n"
   },
   {
-    "publishedDate": "8 Aug 2017 | 7 min read",
+    "publishedDate": "2017-08-08",
     "articleUrl": "https://engineering.grab.com/migrating-existing-datastores",
     "header": "\nMigrating Existing Datastores\n"
   },
   {
-    "publishedDate": "24 Jul 2017 | 6 min read",
+    "publishedDate": "2017-07-24",
     "articleUrl": "https://engineering.grab.com/so-you-need-to-hire-good-engineers",
     "header": "\nSo You Need to Hire Good Engineers\n"
   },
   {
-    "publishedDate": "11 Jul 2017 | 2 min read",
+    "publishedDate": "2017-07-11",
     "articleUrl": "https://engineering.grab.com/come-and-hackallthethings-at-grab",
     "header": "\nCome and #hackallthethings at Grab\n"
   },
   {
-    "publishedDate": "3 Jun 2017 | 26 min read",
+    "publishedDate": "2017-06-03",
     "articleUrl": "https://engineering.grab.com/grabs-front-end-study-guide",
     "header": "\nGrab's Front End Study Guide\n"
   },
   {
-    "publishedDate": "21 May 2017 | 7 min read",
+    "publishedDate": "2017-05-21",
     "articleUrl": "https://engineering.grab.com/driving-southeast-asia-forward-with-aws",
     "header": "\nDriving Southeast Asia Forward with AWS\n"
   },
   {
-    "publishedDate": "1 May 2017 | 11 min read",
+    "publishedDate": "2017-05-01",
     "articleUrl": "https://engineering.grab.com/scaling-like-a-boss-with-presto",
     "header": "\nScaling Like a Boss with Presto\n"
   },
   {
-    "publishedDate": "23 Apr 2017 | 5 min read",
+    "publishedDate": "2017-04-23",
     "articleUrl": "https://engineering.grab.com/deep-dive-into-ios-automation-at-grab-continuous-delivery",
     "header": "\nDeep Dive into iOS Automation at Grab - Continuous Delivery\n"
   },
   {
-    "publishedDate": "16 Feb 2017 | 7 min read",
+    "publishedDate": "2017-02-16",
     "articleUrl": "https://engineering.grab.com/how-grab-hires-engineers-in-singapore",
     "header": "\nHow Grab Hires Engineers in Singapore\n"
   },
   {
-    "publishedDate": "18 Jan 2017 | 3 min read",
+    "publishedDate": "2017-01-18",
     "articleUrl": "https://engineering.grab.com/battling-with-tech-giants-for-the-worlds-best-talent",
     "header": "\nBattling with Tech Giants for the World's Best Talent\n"
   },
   {
-    "publishedDate": "18 Oct 2016 | 7 min read",
+    "publishedDate": "2016-10-18",
     "articleUrl": "https://engineering.grab.com/zero-downtime-migration",
     "header": "\nThis Rocket Ain't Stopping - Achieving Zero Downtime for Rails to Golang API Migration\n"
   },

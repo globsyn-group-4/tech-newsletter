@@ -4,6 +4,7 @@ from dateutil.parser import parse
 from typing import List, Dict
 from urllib.parse import urljoin
 from unicodedata import normalize
+import datefinder
 
 from utils.constants import TEXT_ATTRIBUTE, URL_TYPE, METADATA_CONTAINER_NAMES, BLOG_METADATA_KEYS
 from utils.helper import get_clean_link, get_html_for_url, parse_json_file
@@ -165,7 +166,7 @@ def form_blog_meta_data(
             link=urljoin(schema["url"],data)
         blog[BLOG_METADATA_KEYS.URL.value]=get_clean_link(link=link)
       case _:
-        blog[BLOG_METADATA_KEYS.DATE.value]=data
+        blog[BLOG_METADATA_KEYS.DATE.value]=next(datefinder.find_dates(data)).strftime("%Y-%m-%d")
   return blog
 
 def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:

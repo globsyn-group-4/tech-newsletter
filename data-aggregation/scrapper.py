@@ -161,12 +161,11 @@ def form_blog_meta_data(
   schema_keys: List[str]
 ) -> Dict:
   blog=dict()
-  for i in range(4,1,-1):
+  for i in range(5,2,-1):
     tag_name, selector_name, selector_value, extraction_attribute_name, url_type = extract_schema_attributes(
       schema=schema, 
       container_name=schema_keys[i]
     )
-    #blog[get_key_from_container_name(schema_keys[i])]
     data:str =parse_data_using_schema(
       tag_name=tag_name,
       article_element=article_element,
@@ -195,7 +194,7 @@ def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
     soup=get_html_for_url(schema.get(schema_keys[0]))
     tag_name, selector_name, selector_value, _, _ = extract_schema_attributes(
       schema=schema, 
-      container_name=schema_keys[1]
+      container_name=schema_keys[2]
     )
     article_elements:ResultSet = soup.find_all(
       name=tag_name, 
@@ -223,7 +222,7 @@ def parse_json_file(filename: str) -> List[Dict]:
 blogs:List[dict]=[]
 blog_schemas = parse_json_file("blogSchema.json")
 blogs.extend(scrape_non_medium_articles(blog_schemas))
-#blogs.extend(scrape_medium_articles(links))
+blogs.extend(scrape_medium_articles(links))
 
 out_file = open("blogs.json", "w")   
 json.dump(blogs, out_file, indent = 2)

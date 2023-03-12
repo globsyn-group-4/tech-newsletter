@@ -154,7 +154,7 @@ Non Medium Blogs
 
 **Run**
 
-`cd data-aggregation`
+`cd data-aggregator`
 `python scrapper.py`
 
 **TODO**

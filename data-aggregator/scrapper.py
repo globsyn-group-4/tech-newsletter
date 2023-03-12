@@ -4,10 +4,10 @@ from dateutil.parser import parse
 from typing import List, Dict
 from urllib.parse import urljoin
 from unicodedata import normalize
-import datefinder
 
 from utils.constants import TEXT_ATTRIBUTE, URL_TYPE, METADATA_CONTAINER_NAMES, BLOG_METADATA_KEYS
-from utils.helper import get_clean_link, get_html_for_url, parse_json_file
+from utils.helper import get_clean_link, get_html_for_url, parse_json_file, extract_publised_date
+from utils.logger import logger
 
 
 links = '''https://medium.com/airbnb-engineering/latest
@@ -69,6 +69,7 @@ https://we-are.bookmyshow.com/latest'''
 
 
 def scrape_medium_articles(urls: List[str]) -> List[dict]:
+  logger.info("Started scraping Medium websites")
   blogs: List[dict] = []
   for url in urls.split('\n'):
     soup=get_html_for_url(url)
@@ -96,6 +97,7 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
           'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
         }).text
       blogs.append(blog)
+  logger.info("Finished scrapping medium websites")
   return blogs
 
 def get_key_from_container_name(container:str)->str:
@@ -166,10 +168,11 @@ def form_blog_meta_data(
             link=urljoin(schema["url"],data)
         blog[BLOG_METADATA_KEYS.URL.value]=get_clean_link(link=link)
       case _:
-        blog[BLOG_METADATA_KEYS.DATE.value]=next(datefinder.find_dates(data)).strftime("%Y-%m-%d")
+        blog[BLOG_METADATA_KEYS.DATE.value]=extract_publised_date(datestring=data)
   return blog
 
 def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
+  logger.info("Started scraping Non-Medium websites")
   blogs: List[dict] = []
   for schema in schemas:
     
@@ -192,16 +195,20 @@ def scrape_non_medium_articles(schemas: List[dict]) -> List[dict]:
         schema_keys=schema_keys
       )
       blogs.append(blog)
-      
+  logger.info("Finished scrapping non-medium websites")    
   return blogs
 
 
-
+logger.info("App started")
 
 blogs:List[dict]=[]
 blog_schemas = parse_json_file("blogSchema.json")
 blogs.extend(scrape_non_medium_articles(blog_schemas))
 blogs.extend(scrape_medium_articles(links))
 
+
+
 out_file = open("blogs.json", "w")   
 json.dump(blogs, out_file, indent = 2)
+
+logger.info("Sucessfully completed logging")

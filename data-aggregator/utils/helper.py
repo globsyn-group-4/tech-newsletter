@@ -3,6 +3,7 @@ from typing import List, Dict
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from requests import get, Request
+from datefinder import find_dates
 
 
 def parse_json_file(filename: str) -> List[Dict]:
@@ -18,3 +19,6 @@ def get_html_for_url(url: str) -> BeautifulSoup:
 
 def get_clean_link(link: str) -> str:
   return urlparse(link)._replace(query=None).geturl()
+
+def extract_publised_date(datestring: str, date_format:str = "%Y-%m-%d") -> str:
+  return next(find_dates(datestring)).strftime(date_format)

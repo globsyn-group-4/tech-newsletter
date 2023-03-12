@@ -97,7 +97,7 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
       blog['publishedDate'] = parse(
         article.find('time').get('datetime')).strftime("%d/%m/%Y")
       blog['header'] = normalize('NFD',article.find('h3').text)
-      blog['subHeader'] = article.find('h4').text if article.find('h4') else ""
+      # blog['subHeader'] = article.find('h4').text if article.find('h4') else ""
       blog['blogName'] = article.find(
         'a',
         attrs={
@@ -108,12 +108,12 @@ def scrape_medium_articles(urls: List[str]) -> List[dict]:
                                         attrs={
                                           'class': 'link link--darken'
                                         }).get('href'))
-      blog['author'] = article.find(
-        'a',
-        attrs={
-          'class':
-          'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
-        }).text
+      # blog['author'] = article.find(
+      #   'a',
+      #   attrs={
+      #     'class':
+      #     'ds-link ds-link--styleSubtle link link--darken link--accent u-accentColor--textNormal u-accentColor--textDarken'
+      #   }).text
       blogs.append(blog)
   logger.info("Finished scrapping medium websites")
   return blogs

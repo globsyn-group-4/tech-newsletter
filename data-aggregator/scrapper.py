@@ -64,9 +64,27 @@ https://medium.com/tinder/latest
 https://medium.com/bumble-tech/latest
 https://blog.gofynd.com/latest
 https://medium.com/hevo-data-engineering/latest
-https://we-are.bookmyshow.com/latest'''
-
-
+https://we-are.bookmyshow.com/latest
+https://tech.timesinternet.in/latest
+https://medium.com/whatfix-techblog/latest
+https://medium.com/engineering-udaan/latest
+https://ackology.acko.com/latest
+https://medium.com/chargebee-engineering/latest
+https://medium.com/apna-technology-blog/latest
+https://medium.com/fanatics-tech-blog/latest
+https://medium.com/miro-engineering/latest
+https://medium.com/brexeng/latest
+https://medium.com/airtable-eng/latest
+https://medium.com/bolt-labs/latest
+https://medium.com/gong-tech-blog/latest
+https://medium.com/revolut/latest
+https://medium.com/invision-engineering/latest
+https://medium.com/hashicorp-engineering/latest
+https://medium.com/nikeengineering/latest
+https://tech.timesinternet.in/latest
+https://medium.com/wix-engineering/latest
+https://washpost.engineering/
+https://blog.developer.adobe.com/latest'''
 
 def scrape_medium_articles(urls: List[str]) -> List[dict]:
   logger.info("Started scraping Medium websites")

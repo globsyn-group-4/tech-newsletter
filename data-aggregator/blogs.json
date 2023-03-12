@@ -5242,5 +5242,1349 @@
     "blogName": "We Are BookMyShow",
     "articleUrl": "https://we-are.bookmyshow.com/migrating-applications-from-vms-to-k8s-32e43aec790b",
     "author": "We Are BookMyShow"
+  },
+  {
+    "publishedDate": "30/01/2023",
+    "header": "Hack & Hustle 4.0\u200a\u2014\u200aCelebrating the spirit of innovation",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/hack-hustle-4-0-celebrating-the-spirit-of-innovation-4e1095bc03ef",
+    "author": "Ashish Jaiswal"
+  },
+  {
+    "publishedDate": "05/12/2022",
+    "header": "Can GPT-3 davinci-003 answer modularjournalism.com user need questions?",
+    "subHeader": "We explore GPT-3\u00a0to\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/gpt-3-and-modular-journalism-86cbcc88c4fd",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "02/12/2022",
+    "header": "The Times of Immersives",
+    "subHeader": "Highlights of the engineering journey on enabling authoring of immersive\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/the-times-of-immersives-d6d63f27a1c6",
+    "author": "Ashish Kumar Sinha"
+  },
+  {
+    "publishedDate": "11/11/2022",
+    "header": "Refining topic modeling to automate taxonomy #JournalismAI",
+    "subHeader": "We refine the model to increase accuracy\u00a0of\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/increasing-accuracy-of-topic-modeling-24009ab34243",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "18/10/2022",
+    "header": "Exploring topic modeling to automate taxonomy #JournalismAI",
+    "subHeader": "We explore various topic modeling\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/topic-modeling-d5101c10aec7",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "10/10/2022",
+    "header": "Login anywhere without a password: Sign-in With Ethereum\u00a0(SIWE)",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/login-anywhere-without-a-password-sign-in-with-ethereum-siwe-f30f72dd1102",
+    "author": "Bappaditya Mallick"
+  },
+  {
+    "publishedDate": "03/10/2022",
+    "header": "Ease of Publishing Immersive Story and Rich Visual Content at Times\u00a0Internet",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/ease-of-publishing-immersive-story-and-rich-visual-content-at-times-internet-6015d0747331",
+    "author": "Dr. Nishant Sinha"
+  },
+  {
+    "publishedDate": "22/09/2022",
+    "header": "Context as news product #JournalismAI",
+    "subHeader": "In this blogpost, we elaborate what The Times of India and\u00a0Code\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/context-newscards-6d57e6677847",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "05/08/2022",
+    "header": "The slow move towards Newscards",
+    "subHeader": "Why we are adding card-based modular content capability to\u00a0our\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/newcards-d49562d4fc6a",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "18/07/2022",
+    "header": "Look into your Android App\u2019s performance using Firebase Performance Monitoring",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/look-into-your-android-apps-performance-using-firebase-performance-monitoring-c332f8c71d0",
+    "author": "Mohd Danish Ansari"
+  },
+  {
+    "publishedDate": "24/02/2023",
+    "header": "Maximizing Extension Functionality: A Guide to Ensuring Stability during\u00a0Updates",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/maximizing-extension-functionality-a-guide-to-ensuring-stability-during-updates-d307f659ce81",
+    "author": "Nischal Goyal"
+  },
+  {
+    "publishedDate": "15/02/2023",
+    "header": "Event Management for Desktop Windows Applications\u200a\u2014\u200aPart\u00a02",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/event-management-for-desktop-windows-applications-part-2-54a4a5ad89fa",
+    "author": "Vaibhav More"
+  },
+  {
+    "publishedDate": "25/01/2023",
+    "header": "Conversing with Computers: Getting Started with\u00a0ChatGPT",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/conversing-with-computers-getting-started-with-chatgpt-52ef4cafebce",
+    "author": "Maya Kamath"
+  },
+  {
+    "publishedDate": "16/01/2023",
+    "header": "Scaling and decoupling application through Asynchronous Message\u00a0Queues",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/scaling-and-decoupling-application-through-asynchronous-message-queues-f5411903b8e5",
+    "author": "Rahul Mhambrey"
+  },
+  {
+    "publishedDate": "06/01/2023",
+    "header": "Introduction to Ansible\u200a\u2014\u200aa speed\u00a0run",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/introduction-to-ansible-a-speed-run-62daee0cff2b",
+    "author": "Tanay Sojwal"
+  },
+  {
+    "publishedDate": "28/12/2022",
+    "header": "Event Management for Desktop Windows Applications\u200a\u2014\u200aPart\u00a01",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/event-management-for-desktop-windows-applications-part-1-88a536acdfe6",
+    "author": "Vaibhav More"
+  },
+  {
+    "publishedDate": "27/09/2022",
+    "header": "Demystifying Complex SQL\u00a0queries",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/demystifying-complex-sql-queries-2ddec10a28aa",
+    "author": "Sneha Saxena"
+  },
+  {
+    "publishedDate": "11/09/2022",
+    "header": "SSH Tunneling\u200a\u2014\u200aAccessing Data from Private\u00a0Servers",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/ssh-tunneling-accessing-data-from-private-servers-fbcb02925637",
+    "author": "Prakhar Chaube"
+  },
+  {
+    "publishedDate": "02/06/2022",
+    "header": "Enhanced Support for Javascript Overlay libraries",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/enhanced-support-for-javascript-overlay-libraries-6f4eb5b658b5",
+    "author": "Gourav Dhelaria"
+  },
+  {
+    "publishedDate": "27/05/2022",
+    "header": "Auto Update Desktop Applications",
+    "subHeader": "",
+    "blogName": "WhatfixEngineeringBlog",
+    "articleUrl": "https://medium.com/whatfix-techblog/auto-update-desktop-applications-db8fd4cf4936",
+    "author": "Harshith Gowda"
+  },
+  {
+    "publishedDate": "13/02/2023",
+    "header": "Best way to do Cross Component Communication in React Dashboards",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/best-way-to-do-cross-component-communication-in-react-dashboards-c195d6a87290",
+    "author": "pravchuk"
+  },
+  {
+    "publishedDate": "14/11/2022",
+    "header": "ML at Scale: Feature Store at\u00a0udaan",
+    "subHeader": "Part-I of Journey in building, driving & creating impact\u00a0with\u2026",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/ml-at-scale-feature-store-at-udaan-f07c4e2b6a9f",
+    "author": "Sai Sharan Tangeda"
+  },
+  {
+    "publishedDate": "17/08/2022",
+    "header": "tech@udaan",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/tech-udaan-ad6609850780",
+    "author": "Indrani S Mukherjee"
+  },
+  {
+    "publishedDate": "26/07/2022",
+    "header": "Why Solr master-slave rocks on Kubernetes",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/why-solr-master-slave-rocks-on-kubernetes-13e1bfdb61e8",
+    "author": "Siddharth Rawat"
+  },
+  {
+    "publishedDate": "04/07/2022",
+    "header": "Tinkering with Imaginary for performance and\u00a0scale",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/tinkering-with-imaginary-for-performance-and-scale-593bd59610af",
+    "author": "Vaibhav Sharma"
+  },
+  {
+    "publishedDate": "22/06/2022",
+    "header": "System resiliency\u200a\u2014\u200awhy and\u00a0how?",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/system-resiliency-why-and-how-7ed181185825",
+    "author": "Indrani S Mukherjee"
+  },
+  {
+    "publishedDate": "08/06/2022",
+    "header": "Hear from our co-founder Amod Malviya on what differentiates great engineers from code\u00a0monkeys",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/hear-from-our-co-founder-amod-malviya-on-what-differentiates-great-engineers-from-code-monkeys-623512e83979",
+    "author": "Indrani S Mukherjee"
+  },
+  {
+    "publishedDate": "08/06/2022",
+    "header": "Sneak-peek of udaan\u2019s new custom-built hybrid office\u00a0space",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/sneak-peek-of-udaans-new-custom-built-hybrid-office-space-edef752d0c16",
+    "author": "Indrani S Mukherjee"
+  },
+  {
+    "publishedDate": "02/03/2022",
+    "header": "snorql\u200a\u2014\u200adiagnosing databases like a\u00a0boss",
+    "subHeader": "snorql is an open-source project developed at Udaan\u00a0aimed\u2026",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/snorql-diagnosing-databases-like-a-boss-54f2e8fbf57a",
+    "author": "Lokesh Devnani"
+  },
+  {
+    "publishedDate": "18/02/2022",
+    "header": "To succeed, you must\u00a0share",
+    "subHeader": "",
+    "blogName": "engineering-udaan",
+    "articleUrl": "https://medium.com/engineering-udaan/to-succeed-you-must-share-4924da7650f5",
+    "author": "Kaushik Mukherjee"
+  },
+  {
+    "publishedDate": "09/01/2023",
+    "header": "What makes ACKO\u00a0work?",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/what-makes-acko-work-e2eb429dc98e",
+    "author": "Gaurav Gupta"
+  },
+  {
+    "publishedDate": "05/12/2022",
+    "header": "Redefining the ACKO\u00a0App",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/redefining-the-acko-app-d1f97287ee9c",
+    "author": "Aashiq Babu"
+  },
+  {
+    "publishedDate": "22/07/2021",
+    "header": "FinAcko: Automating Financial Insurance Reports",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/finacko-automating-financial-insurance-reports-2c10203efeea",
+    "author": "Akash Agarwal"
+  },
+  {
+    "publishedDate": "22/07/2021",
+    "header": "EC2 Spot Fleet = 5x Faster Regression + 90% Lesser\u00a0Cost",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/ec2-spot-fleet-5x-faster-regression-90-lesser-cost-50a60badcc82",
+    "author": "Ackology"
+  },
+  {
+    "publishedDate": "20/07/2021",
+    "header": "How we Reduced Google BigQuery Cost by\u00a050%",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/how-we-reduced-google-bigquery-cost-by-50-b7564a529cd5",
+    "author": "Shiv Shankar"
+  },
+  {
+    "publishedDate": "15/07/2021",
+    "header": "NewRelic + Rust = Ackorelic",
+    "subHeader": "",
+    "blogName": "Ackology",
+    "articleUrl": "https://ackology.acko.com/newrelic-rust-ackorelic-af83d1264359",
+    "author": "Ankit Das"
+  },
+  {
+    "publishedDate": "30/11/2022",
+    "header": "Building Policy Gate for DevSecOps using Open Policy\u00a0Agent",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/building-policy-gate-for-devsecops-using-open-policy-agent-999dd734744a",
+    "author": "Nikhil Mittal"
+  },
+  {
+    "publishedDate": "21/07/2022",
+    "header": "Building AppSec Pipeline for Continuous Visibility",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/building-appsec-pipeline-for-continuous-visibility-d430beb0a78f",
+    "author": "Nikhil Mittal"
+  },
+  {
+    "publishedDate": "08/07/2022",
+    "header": "Save cost by running GitHub Actions on Spot Instances inside an autoscaled EKS\u00a0Cluster",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/save-cost-by-running-github-actions-on-spot-instances-inside-an-eks-cluster-342f02ee2320",
+    "author": "Shivam Agarwal"
+  },
+  {
+    "publishedDate": "10/06/2022",
+    "header": "Solving Engineering Problems using Security Tools\u200a\u2014\u200aTechnical Debt Elimination using\u00a0CodeQL",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/solving-engineering-problems-using-security-tools-technical-debt-elimination-using-codeql-83a1e4649e4b",
+    "author": "Abhisek Datta"
+  },
+  {
+    "publishedDate": "31/05/2022",
+    "header": "Making API mocking easy with\u00a0Mirage!",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/making-api-mocking-easy-with-mirage-929cf32ca7ac",
+    "author": "AswathPrabhu R"
+  },
+  {
+    "publishedDate": "08/02/2021",
+    "header": "Perils of Parsing\u200a\u2014\u200aPixel Flood Attack on Java\u00a0ImageIO",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/perils-of-parsing-pixel-flood-attack-on-java-imageio-a97aeb06637d",
+    "author": "Abhisek Datta"
+  },
+  {
+    "publishedDate": "25/11/2020",
+    "header": "Eliminating MySQL replication lag for schema\u00a0changes",
+    "subHeader": "",
+    "blogName": "Engineering @ Chargebee",
+    "articleUrl": "https://medium.com/chargebee-engineering/eliminating-mysql-replication-lag-for-schema-changes-6b86f2480319",
+    "author": "Adithya K S"
+  },
+  {
+    "publishedDate": "25/01/2023",
+    "header": "Building Data Lakehouse to unleash the power of Data at\u00a0apna",
+    "subHeader": "",
+    "blogName": "apna-technology-blog",
+    "articleUrl": "https://medium.com/apna-technology-blog/building-data-lakehouse-to-unleash-the-power-of-data-at-apna-960dccbdc618",
+    "author": "Md Sarfaraz Hussain"
+  },
+  {
+    "publishedDate": "26/07/2022",
+    "header": "Using in-house Pinot to generate job rankings at scale on\u00a0apna",
+    "subHeader": "",
+    "blogName": "apna-technology-blog",
+    "articleUrl": "https://medium.com/apna-technology-blog/using-in-house-pinot-to-generate-job-rankings-at-scale-on-apna-7d853f4b87e7",
+    "author": "Nirmaljeet Singh"
+  },
+  {
+    "publishedDate": "28/06/2022",
+    "header": "Building safer communities on\u00a0apna",
+    "subHeader": "",
+    "blogName": "apna-technology-blog",
+    "articleUrl": "https://medium.com/apna-technology-blog/building-safer-communities-on-apna-30b1dd6901e3",
+    "author": "kanav anand"
+  },
+  {
+    "publishedDate": "28/06/2022",
+    "header": "Deploying our first data science model for job feed at scale at\u00a0apna",
+    "subHeader": "",
+    "blogName": "apna-technology-blog",
+    "articleUrl": "https://medium.com/apna-technology-blog/deploying-our-first-data-science-model-for-job-feed-at-scale-at-apna-63d0339b351a",
+    "author": "Deval Sethi"
+  },
+  {
+    "publishedDate": "30/03/2021",
+    "header": "PRAGMA: Migration Helper",
+    "subHeader": "",
+    "blogName": "apna-technology-blog",
+    "articleUrl": "https://medium.com/apna-technology-blog/pragma-migration-helper-1f154051d45d",
+    "author": "Apna"
+  },
+  {
+    "publishedDate": "13/07/2022",
+    "header": "Fanatics\u200a\u2014\u200aJourney to\u00a0Cloud",
+    "subHeader": "",
+    "blogName": "Fanatics Tech Blog",
+    "articleUrl": "https://medium.com/fanatics-tech-blog/fanatics-journey-to-cloud-2d0083a6adc9",
+    "author": "Fanatics Tech Team"
+  },
+  {
+    "publishedDate": "28/05/2021",
+    "header": "Enabling fans to discover their favorite team\u2019s\u00a0gear",
+    "subHeader": "How we built a navigation module that\u00a0is\u2026",
+    "blogName": "Fanatics Tech Blog",
+    "articleUrl": "https://medium.com/fanatics-tech-blog/enabling-fans-to-discover-their-favorite-teams-gear-43da19801b1c",
+    "author": "Fanatics Tech Team"
+  },
+  {
+    "publishedDate": "28/09/2020",
+    "header": "Live Sports Data: Things We\u2019ve Learned Consuming Real-Time APIs",
+    "subHeader": "Akash Barve",
+    "blogName": "Fanatics Tech Blog",
+    "articleUrl": "https://medium.com/fanatics-tech-blog/live-sports-data-things-weve-learned-consuming-real-time-apis-36f70e48b0b9",
+    "author": "Fanatics Tech Team"
+  },
+  {
+    "publishedDate": "19/08/2020",
+    "header": "FanViz: Data visualization @\u00a0Fanatics",
+    "subHeader": "A glimpse into the flexible and scalable real-time data\u2026",
+    "blogName": "Fanatics Tech Blog",
+    "articleUrl": "https://medium.com/fanatics-tech-blog/fanviz-data-visualization-fanatics-a3d308f154ce",
+    "author": "Fanatics Tech Team"
+  },
+  {
+    "publishedDate": "07/03/2023",
+    "header": "Meet Miro Engineering: Developer Advocacy with Will\u00a0Bishop",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/meet-miro-engineering-developer-advocacy-with-will-bishop-34159b3d0f5e",
+    "author": "MiroTech"
+  },
+  {
+    "publishedDate": "21/02/2023",
+    "header": "Building an app with the Miro Developer Platform",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/building-an-app-for-the-miro-developer-platform-6b96dca079e1",
+    "author": "Vladimir Zuev"
+  },
+  {
+    "publishedDate": "02/02/2023",
+    "header": "How are Miro Marketplace apps benefitting users? A report from the Miro Research\u00a0Team",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/how-are-miro-marketplace-apps-benefitting-users-a-report-from-the-miro-research-team-d4ea0baa30c0",
+    "author": "Jack Webster"
+  },
+  {
+    "publishedDate": "30/01/2023",
+    "header": "Announcing the new SpellChecker app for\u00a0Miro",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/announcing-the-new-spellchecker-app-for-miro-8b80e63b9b9",
+    "author": "Sergey Nikitin"
+  },
+  {
+    "publishedDate": "26/01/2023",
+    "header": "Writing data product pipelines with\u00a0Airflow",
+    "subHeader": "A framework to make your data organization transition from\u2026",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/writing-data-product-pipelines-with-airflow-1ace222f8f5a",
+    "author": "Ronald \u00c1ngel"
+  },
+  {
+    "publishedDate": "12/01/2023",
+    "header": "My First Server and REST API: Essentials for Frontenders",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/my-first-server-and-rest-api-essentials-for-frontenders-c962a5f7c468",
+    "author": "Will Bishop"
+  },
+  {
+    "publishedDate": "09/01/2023",
+    "header": "Exploring structured data as graphs in\u00a0Miro",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/exploring-structured-data-as-graphs-in-miro-880aa4051b70",
+    "author": "Benjamin Degenhart"
+  },
+  {
+    "publishedDate": "22/12/2022",
+    "header": "Design system fresh\u00a0bundling",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/design-system-fresh-bundling-68bc217e0201",
+    "author": "Ivan Banov"
+  },
+  {
+    "publishedDate": "13/12/2022",
+    "header": "4 easy ways to set up your new Miro app for\u00a0success",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/123-d5bb71d9cc57",
+    "author": "Kristina Terziyska"
+  },
+  {
+    "publishedDate": "09/12/2022",
+    "header": "Taking the fear out of authorization: OAuth essentials for frontenders",
+    "subHeader": "",
+    "blogName": "Miro Engineering",
+    "articleUrl": "https://medium.com/miro-engineering/taking-the-fear-out-of-authorization-oauth-essentials-for-frontenders-84396dce5b5b",
+    "author": "Will Bishop"
+  },
+  {
+    "publishedDate": "01/02/2023",
+    "header": "Change Data Capture at\u00a0Brex",
+    "subHeader": "In this blog post we talk about how we adopted and scaled the Change\u00a0Data\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/change-data-capture-at-brex-c71263616dd7",
+    "author": "Jun Zhao"
+  },
+  {
+    "publishedDate": "26/01/2023",
+    "header": "Elevating Security Alert Management Using Automation",
+    "subHeader": "",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/elevating-security-alert-management-using-automation-828004ad596c",
+    "author": "Josh Liburdi"
+  },
+  {
+    "publishedDate": "07/12/2022",
+    "header": "Building the Threat Detection Ecosystem at\u00a0Brex",
+    "subHeader": "Here\u2019s our approach to building a threat detection\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc",
+    "author": "Julie Agnes Sparks"
+  },
+  {
+    "publishedDate": "25/10/2022",
+    "header": "Announcing Substation",
+    "subHeader": "Meet Substation, an open source toolkit for creating highly configurable, no\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/announcing-substation-188d049d979b",
+    "author": "Josh Liburdi"
+  },
+  {
+    "publishedDate": "18/07/2022",
+    "header": "Pluggable Transaction Authorizations",
+    "subHeader": "",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/pluggable-transaction-authorizations-32a039ac47d2",
+    "author": "Christopher Simmons"
+  },
+  {
+    "publishedDate": "18/07/2022",
+    "header": "Avoiding Circular Imports in\u00a0Python",
+    "subHeader": "Here\u2019s some practical advice that might help you avoid circular\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/avoiding-circular-imports-in-python-7c35ec8145ed",
+    "author": "Andr\u00e9 Menck"
+  },
+  {
+    "publishedDate": "16/06/2022",
+    "header": "How we built a probability of default model without default\u00a0labels",
+    "subHeader": "We describe how we used\u00a0cash\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/how-we-built-a-probability-of-default-model-without-default-labels-212415bbeef6",
+    "author": "Bryant Chen"
+  },
+  {
+    "publishedDate": "13/06/2022",
+    "header": "A large scale redesign journey using Domain-Driven Design techniques",
+    "subHeader": "",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/a-large-scale-redesign-journey-using-domain-driven-design-techniques-ff16b2053544",
+    "author": "Thomas C\u00e9sar\u00e9-Herriau"
+  },
+  {
+    "publishedDate": "16/05/2022",
+    "header": "Transactional Events Publishing At\u00a0Brex",
+    "subHeader": "In H2 2021, Brex launched Transactional Event Publishing\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/transactional-events-publishing-at-brex-66a5984f0726",
+    "author": "Yingying Tang"
+  },
+  {
+    "publishedDate": "09/05/2022",
+    "header": "Building Credit Rating Systems With Scarce\u00a0Data",
+    "subHeader": "This article presents a general modeling framework and\u2026",
+    "blogName": "Brex Tech Blog",
+    "articleUrl": "https://medium.com/brexeng/building-credit-rating-systems-with-scarce-data-4d81890eba9d",
+    "author": "Darshan Soni"
+  },
+  {
+    "publishedDate": "12/01/2023",
+    "header": "How Airtable Manages Flaky Tests in a Large-Scale Monorepo",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/how-airtable-manages-flaky-tests-in-a-large-scale-monorepo-5fe09922e90c",
+    "author": "Thomas Wang"
+  },
+  {
+    "publishedDate": "01/06/2022",
+    "header": "Migrating Airtable to MySQL\u00a08.0",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/migrating-airtable-to-mysql-8-0-809f0398a493",
+    "author": "Andrew Wang"
+  },
+  {
+    "publishedDate": "13/05/2022",
+    "header": "The Curious Case of the Missing\u00a0Cell",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/the-curious-case-of-the-missing-cell-8ff47d745de7",
+    "author": "Shrey Banga"
+  },
+  {
+    "publishedDate": "08/03/2022",
+    "header": "Server Side Rendering and its Relationship with\u00a0SEO",
+    "subHeader": "How Airtable Improved SEO with Server\u00a0Side\u2026",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/server-side-rendering-and-its-relationship-with-seo-d9fff26bdde9",
+    "author": "Rachel Church"
+  },
+  {
+    "publishedDate": "16/02/2022",
+    "header": "Stateful Model-Based Database\u00a0Fuzzing",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337",
+    "author": "Airtable"
+  },
+  {
+    "publishedDate": "14/01/2022",
+    "header": "How the Platform Engineering Group Serves Airtable\u2019s Customers",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/how-the-platform-engineering-group-serves-airtables-customers-4b228761de16",
+    "author": "Vinithra"
+  },
+  {
+    "publishedDate": "09/09/2021",
+    "header": "Investigating Node.js Performance: Event Loop and Network I/O (Part\u00a02)",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/investigating-node-js-performance-event-loop-and-network-i-o-part-2-e9d1a8d4da8a",
+    "author": "Xue Cai"
+  },
+  {
+    "publishedDate": "06/08/2021",
+    "header": "Diversity and Inclusion in Product Development at\u00a0Airtable",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/diversity-and-inclusion-in-product-development-at-airtable-e82126452f0f",
+    "author": "Wendy Lu"
+  },
+  {
+    "publishedDate": "03/06/2021",
+    "header": "Investigating Node.js Performance: Event Loop and Network I/O (Part\u00a01)",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/node-js-performance-event-loop-and-network-i-o-part-1-ed66076109d3",
+    "author": "Xue Cai"
+  },
+  {
+    "publishedDate": "26/04/2021",
+    "header": "The continual evolution of Airtable\u2019s codebase: Migrating a million lines of code to TypeScript",
+    "subHeader": "",
+    "blogName": "The Airtable Engineering Blog",
+    "articleUrl": "https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c",
+    "author": "Caleb Meredith"
+  },
+  {
+    "publishedDate": "18/01/2023",
+    "header": "Why does Bolt use\u00a0Node.JS?",
+    "subHeader": "Get to know Bolt\u2019s technology stack and backend architecture",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/why-does-bolt-use-node-js-e27b3a1bbcfe",
+    "author": "Denys Pysmennyi"
+  },
+  {
+    "publishedDate": "24/11/2022",
+    "header": "Tips and considerations for switchback test\u00a0designs",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/tips-and-considerations-for-switchback-test-designs-d1bd7c493024",
+    "author": "Garret O'Connell"
+  },
+  {
+    "publishedDate": "04/10/2022",
+    "header": "How we do data science at\u00a0Bolt",
+    "subHeader": "End to end data science in a product organisation with global\u00a0impact",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/how-we-do-data-science-at-bolt-5cf861ae2578",
+    "author": "Martin Lumiste"
+  },
+  {
+    "publishedDate": "02/09/2022",
+    "header": "Automated text extraction at\u00a0Bolt",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/automated-text-extraction-at-bolt-7ae8594d3abd",
+    "author": "Francesco Pochetti"
+  },
+  {
+    "publishedDate": "10/08/2022",
+    "header": "The notion of teams: The importance of well-defined teams in an organisation",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/the-notion-of-teams-the-importance-of-well-defined-teams-in-an-organisation-91fa32ee38c9",
+    "author": "Horia Coman"
+  },
+  {
+    "publishedDate": "27/05/2022",
+    "header": "Understanding the problem we\u2019re\u00a0solving",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/understanding-the-problem-were-solving-28a6cb8a545f",
+    "author": "Vlad Dascalu"
+  },
+  {
+    "publishedDate": "08/02/2022",
+    "header": "How to stop fraud with ML\u200a\u2014\u200abest practices at\u00a0Bolt",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/how-to-stop-fraud-with-ml-best-practices-at-bolt-411ca4c1b13",
+    "author": "Elizaveta Lebedeva"
+  },
+  {
+    "publishedDate": "06/07/2021",
+    "header": "Supporting 50+ million customers\u200a\u2014\u200ahello from the Bolt Engineering team!",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/supporting-50-million-customers-hello-from-the-bolt-engineering-team-695f8bc3dfab",
+    "author": "Bolt"
+  },
+  {
+    "publishedDate": "03/11/2020",
+    "header": "Streaming Vitess at\u00a0Bolt",
+    "subHeader": "How Bolt implemented Debezium Vitess Connector to stream data from Vitess\u00a0to\u2026",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/streaming-vitess-at-bolt-f8ea93211c3f",
+    "author": "Kewei Shang"
+  },
+  {
+    "publishedDate": "29/04/2020",
+    "header": "How to make your data team efficient for times of\u00a0crisis",
+    "subHeader": "",
+    "blogName": "Bolt Labs",
+    "articleUrl": "https://medium.com/bolt-labs/how-to-make-your-data-team-efficient-for-times-of-crisis-7517e2b02593",
+    "author": "Mikhail Iljin"
+  },
+  {
+    "publishedDate": "09/03/2023",
+    "header": "What We\u2019ve Learned From Building AI-Powered Products at\u00a0Gong",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/what-weve-learned-from-building-ai-powered-products-at-gong-d5b01e88b60d",
+    "author": "Omri Allouche"
+  },
+  {
+    "publishedDate": "19/06/2022",
+    "header": "How We Migrated Datadog Alerts to Sentry and Reduced Production Monitoring Overhead",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/how-we-migrated-datadog-alerts-to-sentry-and-reduced-production-monitoring-overhead-874459bba75c",
+    "author": "Ran Mochary"
+  },
+  {
+    "publishedDate": "20/01/2022",
+    "header": "Here\u2019s how to have meaningful conversations with your team [Plus worksheet]",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/a-kit-for-meaningful-conversations-with-your-team-1fdb1920c364",
+    "author": "Ohad Parush"
+  },
+  {
+    "publishedDate": "07/07/2021",
+    "header": "Introducing Gecko, an Open-Source Solution for Effective Annotation of Conversations",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/introducing-gecko-an-open-source-solution-for-effective-annotation-of-conversations-2ecec0909941",
+    "author": "Golan Levy"
+  },
+  {
+    "publishedDate": "12/05/2021",
+    "header": "How to evolve Elasticsearch schema at\u00a0scale",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/how-to-evolve-elasticsearch-schema-at-scale-3a413d9131d9",
+    "author": "Erez Biezuner"
+  },
+  {
+    "publishedDate": "21/04/2021",
+    "header": "Building an Impactful Guild: How We\u2019re Doing It At\u00a0Gong",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/building-an-impactful-guild-how-were-doing-it-at-gong-c0f900d49d17",
+    "author": "Chen Feldman"
+  },
+  {
+    "publishedDate": "22/03/2021",
+    "header": "Gong\u2019s Unique Culture? It Comes Down to 7\u00a0Things",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/gongs-unique-culture-it-comes-down-to-7-things-99e2b8f638bc",
+    "author": "Ohad Parush"
+  },
+  {
+    "publishedDate": "02/12/2020",
+    "header": "How We Use Kafka to Maintain Tenant Data Isolation at\u00a0Scale",
+    "subHeader": "A bit about\u00a0us",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/how-we-use-kafka-to-maintain-tenant-data-isolation-at-scale-ad501f2dc572",
+    "author": "Nadav Hoze"
+  },
+  {
+    "publishedDate": "17/05/2020",
+    "header": "Crafting a Feature Story; or: Gong and the Three\u00a0Bears",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/crafting-a-feature-story-or-gong-and-the-three-bears-5ea2bfec54d0",
+    "author": "Eilon Reshef"
+  },
+  {
+    "publishedDate": "06/05/2020",
+    "header": "Gong\u2019s Topic Detection Technology Is Issued A\u00a0Patent",
+    "subHeader": "",
+    "blogName": "Gong Tech Blog",
+    "articleUrl": "https://medium.com/gong-tech-blog/gongs-topic-detection-technology-is-issued-a-patent-bb41d394b552",
+    "author": "Eilon Reshef"
+  },
+  {
+    "publishedDate": "03/01/2023",
+    "header": "Security Drone: scaling continuous security at\u00a0Revolut.",
+    "subHeader": "In this article, we\u2019d like to share with\u00a0you\u2026",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/security-drone-scaling-continuous-security-at-revolut-862bcd55956e",
+    "author": "Krzysztof Pranczk"
+  },
+  {
+    "publishedDate": "17/08/2022",
+    "header": "iOS Screen Navigation Engine at\u00a0Revolut",
+    "subHeader": "I\u2019m here to open your eyes to Custom Navigation Engines\u00a0just\u2026",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/ios-screen-navigation-engine-at-revolut-1b189f45240",
+    "author": "Vincent Berihuete"
+  },
+  {
+    "publishedDate": "04/07/2022",
+    "header": "Monitoring performance of screens in your iOS\u00a0app",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/monitoring-performance-of-screens-in-your-ios-app-4267f6649b19",
+    "author": "Arsen Gasparyan"
+  },
+  {
+    "publishedDate": "06/08/2021",
+    "header": "Best Practices For Unit Testing at\u00a0Revolut",
+    "subHeader": "Testing is important. Unit testing is super important\u2026",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/best-practices-for-unit-testing-at-revolut-45428879ca07",
+    "author": "Arsen Gasparyan"
+  },
+  {
+    "publishedDate": "04/01/2021",
+    "header": "The fundamentals of web development at\u00a0Revolut",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-bb5e2888e84f",
+    "author": "Revolut"
+  },
+  {
+    "publishedDate": "06/10/2020",
+    "header": "The Fundamentals of iOS at\u00a0Revolut",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/the-fundamentals-of-ios-at-revolut-57422078c903",
+    "author": "Revolut"
+  },
+  {
+    "publishedDate": "29/09/2020",
+    "header": "Custom view from scratch. Part III. Performance and optimisation.",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/custom-view-from-scratch-part-iii-performance-and-optimisation-54cb6ac57e4b",
+    "author": "Eugene Zubkov"
+  },
+  {
+    "publishedDate": "07/09/2020",
+    "header": "Custom view from scratch. Part II.\u00a0Canvas.",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/custom-view-from-scratch-part-ii-canvas-74982b1d2d7c",
+    "author": "Eugene Zubkov"
+  },
+  {
+    "publishedDate": "05/08/2020",
+    "header": "The Fundamentals of Android at\u00a0Revolut",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/the-fundamentals-of-android-at-revolut-544bfc9864f6",
+    "author": "Revolut"
+  },
+  {
+    "publishedDate": "22/07/2020",
+    "header": "Event Streaming: The Revolut\u00a0way",
+    "subHeader": "",
+    "blogName": "Revolut Tech",
+    "articleUrl": "https://medium.com/revolut/event-streaming-the-revolut-way-9d928005ddf7",
+    "author": "C\u00e9sar Luis Alvargonz\u00e1lez"
+  },
+  {
+    "publishedDate": "21/12/2022",
+    "header": "Astral Rendering Engine Open\u00a0Sourced",
+    "subHeader": "",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/astral-rendering-engine-open-sourced-b3657d7c7681",
+    "author": "Dan Short"
+  },
+  {
+    "publishedDate": "02/11/2022",
+    "header": "Diagram Lines: Finding the\u00a0Path",
+    "subHeader": "",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/diagram-lines-finding-the-path-84f496f390cd",
+    "author": "Phillip Whisenhunt"
+  },
+  {
+    "publishedDate": "18/07/2022",
+    "header": "Diagram Lines: Path Grid Selection",
+    "subHeader": "How Freehand routes the best diagramming line path through\u00a0an\u2026",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/diagram-lines-path-grid-selection-dfd331c2416e",
+    "author": "Pan Thomakos"
+  },
+  {
+    "publishedDate": "14/12/2021",
+    "header": "Lessons learned publishing a Content Security\u00a0Policy",
+    "subHeader": "Lessons learned publishing a Content Security\u2026",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/lessons-learned-publishing-a-content-security-policy-19df0b016e5e",
+    "author": "Matteo Mazzarolo"
+  },
+  {
+    "publishedDate": "14/09/2021",
+    "header": "How InVision delivers unified user experiences with federated code",
+    "subHeader": "",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/how-invision-delivers-unified-user-experiences-with-federated-code-b315d326fe68",
+    "author": "Sean Roberts"
+  },
+  {
+    "publishedDate": "02/06/2021",
+    "header": "Optimizing Permission Lookups in\u00a0Freehand",
+    "subHeader": "",
+    "blogName": "InVision Engineering",
+    "articleUrl": "https://medium.com/invision-engineering/optimizing-permission-lookups-in-freehand-b752cacb609d",
+    "author": "Pan Thomakos"
+  },
+  {
+    "publishedDate": "31/01/2023",
+    "header": "Unify your cryptography with Vault Transit\u00a0Engine",
+    "subHeader": "",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/unify-your-cryptography-with-vault-transit-engine-364928f74616",
+    "author": "Sara Asano"
+  },
+  {
+    "publishedDate": "30/01/2023",
+    "header": "Terraform Landing\u00a0Zones",
+    "subHeader": "How a platform team can leverage Terraform to increase developer productivity",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/terraform-landing-zones-934c49b0d87a",
+    "author": "Ricardo Oliveira"
+  },
+  {
+    "publishedDate": "10/01/2023",
+    "header": "Why You Should be Using an Identity-Aware Proxy\u00a0(IAP)",
+    "subHeader": "",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/why-you-should-be-using-an-identity-aware-proxy-iap-fec07764fc61",
+    "author": "Greg Thomas"
+  },
+  {
+    "publishedDate": "12/12/2022",
+    "header": "Automating Multi-Environment Deployments with Terraform Cloud Workspaces",
+    "subHeader": "If you are deep into\u00a0the\u2026",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/automating-multi-environment-deployments-with-terraform-cloud-workspaces-6d9c7dcd2321",
+    "author": "Andre Pimentel"
+  },
+  {
+    "publishedDate": "06/12/2022",
+    "header": "DoD Zero Trust Strategy in\u00a0Practice",
+    "subHeader": "",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/dod-zero-trust-strategy-in-practice-6694dbe4b89c",
+    "author": "Greg Thomas"
+  },
+  {
+    "publishedDate": "21/11/2022",
+    "header": "The Power of Terraform + Consul (Part\u00a04)",
+    "subHeader": "Provide Service Mesh as a Service (SMaaS) with\u00a0Admin\u2026",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/the-power-of-terraform-consul-part-4-32bfd08cea07",
+    "author": "Patrick Presto"
+  },
+  {
+    "publishedDate": "16/11/2022",
+    "header": "Terraform to Airtable for Analytics and Reporting",
+    "subHeader": "Visualize the preventative cost data created\u00a0by\u2026",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/terraform-to-airtable-for-analytics-and-reporting-afe4f3d285f",
+    "author": "Brandon Miller"
+  },
+  {
+    "publishedDate": "17/10/2022",
+    "header": "The Power of Terraform + Consul (Part\u00a03)",
+    "subHeader": "Onboard a multi-tenant EKS cluster running in a separate\u00a0VPC\u2026",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/the-power-of-terraform-consul-part-3-dc6fbca9c0e9",
+    "author": "Patrick Presto"
+  },
+  {
+    "publishedDate": "29/09/2022",
+    "header": "Advanced Data Protection with HashiCorp Vault",
+    "subHeader": "",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/advanced-data-protection-with-hashicorp-vault-76c3bcf8f498",
+    "author": "Cojan van Ballegooijen"
+  },
+  {
+    "publishedDate": "27/09/2022",
+    "header": "The Power of Terraform + Consul\u00a0(Part2)",
+    "subHeader": "Use HashiCorp Cloud Platform to automate both infrastructure\u2026",
+    "blogName": "HashiCorp Solutions Engineering Blog",
+    "articleUrl": "https://medium.com/hashicorp-engineering/the-power-of-terraform-consul-part2-97027a364851",
+    "author": "Patrick Presto"
+  },
+  {
+    "publishedDate": "06/06/2019",
+    "header": "Moving Faster With AWS by Creating an Event Stream\u00a0Database",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb",
+    "author": "Adam Farrell"
+  },
+  {
+    "publishedDate": "03/05/2019",
+    "header": "We Code Hackathon Empowers Portland\u00a0Women",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/we-code-hackathon-empowers-portland-women-cfe06c272a43",
+    "author": "Nike Engineering Staff"
+  },
+  {
+    "publishedDate": "18/04/2019",
+    "header": "Nike\u2019s Cloud Journey at AWS re:Invent",
+    "subHeader": "by Murali\u00a0Narahari",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/nikes-cloud-journey-at-aws-re-invent-aa2e6eaefa55",
+    "author": "Murali Narahari"
+  },
+  {
+    "publishedDate": "14/02/2019",
+    "header": "Reducing DynamoDB Costs in\u00a0AWS",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/reducing-dynamodb-costs-in-aws-5047cbf726c9",
+    "author": "Nike Engineering Staff"
+  },
+  {
+    "publishedDate": "14/01/2019",
+    "header": "Moirai: A Feature Flag Library for the\u00a0JVM",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/moirai-a-feature-flag-library-for-the-jvm-98974c4e1d1b",
+    "author": "Stephen Duncan Jr"
+  },
+  {
+    "publishedDate": "07/01/2019",
+    "header": "Continuous Learning\u200a\u2014\u200aPart\u00a0II",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/continuous-learning-part-ii-41789e5e32fd",
+    "author": "Courtney Kissler"
+  },
+  {
+    "publishedDate": "21/12/2018",
+    "header": "Accelerate: Transforming Nike Digital APIs with\u00a0GraphQL",
+    "subHeader": "by Austin\u00a0Corso",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/accelerate-transforming-nike-digital-apis-with-graphql-a541aebe4d5e",
+    "author": "Austin Corso"
+  },
+  {
+    "publishedDate": "07/12/2018",
+    "header": "Why Engineers Should Be Invested In Their\u00a0Product",
+    "subHeader": "",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/why-engineers-should-be-invested-in-their-product-3d1ff76275a2",
+    "author": "Sobhagya Jose"
+  },
+  {
+    "publishedDate": "28/11/2018",
+    "header": "How Nike\u2019s Digital Transformation Is Monitored",
+    "subHeader": "by Adam\u00a0Nutt",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/how-nikes-digital-transformation-is-monitored-3c0799b3e443",
+    "author": "Adam Nutt"
+  },
+  {
+    "publishedDate": "12/11/2018",
+    "header": "Safely Deploy AWS Lambdas with CloudFormation",
+    "subHeader": "By Kender\u00a0Elford",
+    "blogName": "Nike Engineering",
+    "articleUrl": "https://medium.com/nikeengineering/safely-deploy-aws-lambdas-with-cloudformation-d0ee829d8351",
+    "author": "Kendra Elford"
+  },
+  {
+    "publishedDate": "30/01/2023",
+    "header": "Hack & Hustle 4.0\u200a\u2014\u200aCelebrating the spirit of innovation",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/hack-hustle-4-0-celebrating-the-spirit-of-innovation-4e1095bc03ef",
+    "author": "Ashish Jaiswal"
+  },
+  {
+    "publishedDate": "05/12/2022",
+    "header": "Can GPT-3 davinci-003 answer modularjournalism.com user need questions?",
+    "subHeader": "We explore GPT-3\u00a0to\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/gpt-3-and-modular-journalism-86cbcc88c4fd",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "02/12/2022",
+    "header": "The Times of Immersives",
+    "subHeader": "Highlights of the engineering journey on enabling authoring of immersive\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/the-times-of-immersives-d6d63f27a1c6",
+    "author": "Ashish Kumar Sinha"
+  },
+  {
+    "publishedDate": "11/11/2022",
+    "header": "Refining topic modeling to automate taxonomy #JournalismAI",
+    "subHeader": "We refine the model to increase accuracy\u00a0of\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/increasing-accuracy-of-topic-modeling-24009ab34243",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "18/10/2022",
+    "header": "Exploring topic modeling to automate taxonomy #JournalismAI",
+    "subHeader": "We explore various topic modeling\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/topic-modeling-d5101c10aec7",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "10/10/2022",
+    "header": "Login anywhere without a password: Sign-in With Ethereum\u00a0(SIWE)",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/login-anywhere-without-a-password-sign-in-with-ethereum-siwe-f30f72dd1102",
+    "author": "Bappaditya Mallick"
+  },
+  {
+    "publishedDate": "03/10/2022",
+    "header": "Ease of Publishing Immersive Story and Rich Visual Content at Times\u00a0Internet",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/ease-of-publishing-immersive-story-and-rich-visual-content-at-times-internet-6015d0747331",
+    "author": "Dr. Nishant Sinha"
+  },
+  {
+    "publishedDate": "22/09/2022",
+    "header": "Context as news product #JournalismAI",
+    "subHeader": "In this blogpost, we elaborate what The Times of India and\u00a0Code\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/context-newscards-6d57e6677847",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "05/08/2022",
+    "header": "The slow move towards Newscards",
+    "subHeader": "Why we are adding card-based modular content capability to\u00a0our\u2026",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/newcards-d49562d4fc6a",
+    "author": "Ritvvij Parrikh"
+  },
+  {
+    "publishedDate": "18/07/2022",
+    "header": "Look into your Android App\u2019s performance using Firebase Performance Monitoring",
+    "subHeader": "",
+    "blogName": "Times Internet Technology",
+    "articleUrl": "https://tech.timesinternet.in/look-into-your-android-apps-performance-using-firebase-performance-monitoring-c332f8c71d0",
+    "author": "Mohd Danish Ansari"
+  },
+  {
+    "publishedDate": "06/03/2023",
+    "header": "How to better understand TS generics? Mapped\u00a0Types",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/how-to-better-understand-ts-generics-mapped-types-2dd0a2cbcd6d",
+    "author": "Matan Cohen"
+  },
+  {
+    "publishedDate": "06/03/2023",
+    "header": "Bazel Community Day: Wix Engineering Hosting EngFlow and\u00a0Google",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/bazel-community-day-wix-engineering-hosting-engflow-and-google-bf0ccf2d22df",
+    "author": "Wix Engineering"
+  },
+  {
+    "publishedDate": "19/02/2023",
+    "header": "Codux (by Wix) Case study: How we built The Elements Tree Panel: Architecture, technologies, and implementation.",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/codux-by-wix-case-study-how-we-built-the-elements-tree-panel-d1952ff8808e",
+    "author": "Vlad Karnauch"
+  },
+  {
+    "publishedDate": "05/02/2023",
+    "header": "MySQL BLOB Fetch Performance in\u00a0Java",
+    "subHeader": "A performance benchmark: fetching BLOB column from\u00a0MySQL\u2026",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/mysql-blob-fetch-performance-in-java-d40460e856c",
+    "author": "Dmitry Komanov"
+  },
+  {
+    "publishedDate": "30/01/2023",
+    "header": "Wix Engineering\u2019s Stats Behind the Scenes,\u00a02022",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/wix-engineerings-stats-behind-the-scenes-2022-1cc831dd6123",
+    "author": "Wix Engineering"
+  },
+  {
+    "publishedDate": "11/01/2023",
+    "header": "FED Tales\u200a\u2014\u200aPerformance@Scale, Meetup\u00a0#1",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/fed-tales-performance-scale-meetup-1-319c8fe9f18e",
+    "author": "Wix Engineering"
+  },
+  {
+    "publishedDate": "26/12/2022",
+    "header": "The Rise of Flux: How Facebook\u2019s Shift Away from MVC Led to a New Era of UI Architecture",
+    "subHeader": "As Flux architecture has been out for several years, the concept of \u2018store\u2019 seems to be everywhere: Flux,\u00a0Redux\u2026",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/the-rise-of-flux-how-facebooks-shift-away-from-mvc-led-to-a-new-era-of-ui-architecture-61d78b4377b0",
+    "author": "Israel Zablianov"
+  },
+  {
+    "publishedDate": "18/12/2022",
+    "header": "Velocity@Scale: Pushing the Boundaries of Platform Engineering",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/velocity-scale-pushing-the-boundaries-of-platform-engineering-4de3f5eb4c35",
+    "author": "Wix Engineering"
+  },
+  {
+    "publishedDate": "14/12/2022",
+    "header": "Diffx: Your Diff Friend\u00a0Forever",
+    "subHeader": "As Scala developers, we frequently store the application data in\u00a0case\u2026",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/diffx-your-diff-friend-forever-42f03c808d0",
+    "author": "Matan Keidar"
+  },
+  {
+    "publishedDate": "11/12/2022",
+    "header": "Reversim 2022: 4 Great Talks By Wix Engineering Developers (Hebrew)",
+    "subHeader": "",
+    "blogName": "Wix Engineering",
+    "articleUrl": "https://medium.com/wix-engineering/reversim-2022-4-great-talks-by-wix-engineering-developers-hebrew-c513f0ce712e",
+    "author": "Wix Engineering"
+  },
+  {
+    "publishedDate": "10/03/2023",
+    "header": "Effortless Data Ingestion to Adobe Experience Platform with Data Landing Zone Connector",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/effortless-data-ingestion-to-adobe-experience-platform-with-data-landing-zone-connector-e0ffc4ea64c9",
+    "author": "Vishnu Pillai"
+  },
+  {
+    "publishedDate": "10/03/2023",
+    "header": "Adobe PDF Embed API Now Available as a WordPress Plugin",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/adobe-pdf-embed-api-now-available-as-a-wordpress-plugin-488c4f5e1916",
+    "author": "Raymond Camden"
+  },
+  {
+    "publishedDate": "07/03/2023",
+    "header": "Using Machine Learning to Help Detect Sensitive Information",
+    "subHeader": "By Wilson Tang",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/using-machine-learning-to-help-detect-sensitive-information-5bfb32eeb34e",
+    "author": "Renae Kang"
+  },
+  {
+    "publishedDate": "01/03/2023",
+    "header": "Understanding Segment Timing in Adobe\u2019s Real-Time CDP",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/understanding-segment-timing-in-adobes-real-time-cdp-60e19558347a",
+    "author": "Olivia Gillies"
+  },
+  {
+    "publishedDate": "01/03/2023",
+    "header": "Implement Adobe Experience Cloud Mobile Lifecycle Tracking in\u00a0SwiftUI",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/implement-adobe-experience-cloud-mobile-lifecycle-tracking-in-swiftui-41a8373a55fb",
+    "author": "Christopher Hoffmann"
+  },
+  {
+    "publishedDate": "01/03/2023",
+    "header": "Adobe Workfront Integration with Microsoft Outlook",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/adobe-workfront-integration-with-microsoft-outlook-ac1d44900bb5",
+    "author": "Deepali Rathi"
+  },
+  {
+    "publishedDate": "28/02/2023",
+    "header": "Implement Facebook Conversion API (FB CAPI) with Adobe Event Forwarding",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/implement-facebook-conversion-api-fb-capi-with-adobe-event-forwarding-163b64a40aca",
+    "author": "Brindaa Sanjeevi"
+  },
+  {
+    "publishedDate": "24/02/2023",
+    "header": "Peek into Adobe Edge Server\u00a0API",
+    "subHeader": "This article talks about how to work with Adobe Edge Server API\u00a0and\u2026",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/peek-into-adobe-edge-server-api-aeeefd698668",
+    "author": "Deepali Rathi"
+  },
+  {
+    "publishedDate": "23/02/2023",
+    "header": "Introducing a New Developer Distribution Portal for Listing UXP Plugins in the Creative Cloud Marketplace",
+    "subHeader": "We\u2019ve launched a new website for distributing UXP plugins in the Adobe Exchange and\u00a0the\u2026",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/introducing-a-new-developer-distribution-portal-for-listing-uxp-plugins-in-the-creative-cloud-7f81376f46a9",
+    "author": "Agandhi"
+  },
+  {
+    "publishedDate": "21/02/2023",
+    "header": "Understand Marketing Channel Effectiveness Using Hidden Markov Model for Conversions in Adobe Experience Platform",
+    "subHeader": "",
+    "blogName": "Adobe Tech Blog",
+    "articleUrl": "https://blog.developer.adobe.com/understand-marketing-channel-effectiveness-using-hidden-markov-model-for-conversions-in-adobe-170592032fb6",
+    "author": "Pratul Kumar Chakravarty"
   }
 ]
